@@ -5,9 +5,9 @@ toc: false
 multi_language: true
 ---
 
-# Call for ER Symposium Proposals
+# ER Symposium
 
-The Symposium Committee of the 72nd Annual Meeting of the Ecological Society of Japan (ESJ72) is pleased to announce the call for ER Symposium proposals. ESJ72 features a system called "ER Symposium," where outstanding overseas researchers are invited to give presentations and contribute to the journal Ecological Research (ER).
+ESJ72 features a system called "ER Symposium," where outstanding overseas researchers are invited to give presentations and contribute to the journal Ecological Research (ER).
 
 One of the overseas researchers speaking at an ER Symposium will be selected as an ER Invited Speaker. The ER Invited Speaker will have their conference participation fee waived and will receive travel expenses (subject to regulations, see Note 2). Additionally, they are expected to submit a review or feature paper related to the symposium content to Ecological Research after the conference. If the submitted paper is accepted, it will be published as open access at the society's expense.
 
