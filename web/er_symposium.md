@@ -9,7 +9,7 @@ multi_language: true
 
 ESJ72 features a system called "ER Symposium," where outstanding overseas researchers are invited to give presentations and contribute to the journal Ecological Research (ER).
 
-One of the overseas researchers speaking at an ER Symposium will be selected as an ER Invited Speaker. The ER Invited Speaker will have their conference participation fee waived and will receive travel expenses (subject to regulations, see Note 2). Additionally, they are expected to submit a review or feature paper related to the symposium content to Ecological Research after the conference. If the submitted paper is accepted, it will be published as open access at the society's expense.
+The symposium committee, responsible for the selection process, will choose one of the overseas researchers speaking at an ER Symposium to be the ER Invited Speaker. This esteemed role comes with a waived conference participation fee, travel expenses (subject to regulations, see Note 2), and the opportunity to submit a review or feature paper related to the symposium content to Ecological Research after the conference. If the submitted paper is accepted, it will be published as open access at the society's expense.
 
 We encourage those considering inviting overseas researchers to the symposium to review the following guidelines and apply for an ER Symposium.
 
@@ -80,6 +80,7 @@ Travel expenses are covered within the society's travel expense regulations (URL
 4. When proposing a symposium on the same theme as a previous conference, ensure that new insights and research progress are included. Proposals with the same title, topics, or abstract as previous symposia will not be accepted.
 5. The abstract submission deadline for presentations is the same as for general oral and poster presentations.
 
+***
 For inquiries and requests related to this matter, please contact Dr. Akiko Hirata, ER Symposium Coordinator of the Symposium Committee of the ESJ72 Planning Committee (Forestry and Forest Products Research Institute): hirataa [at] affrc.go.jp
 
 Written by: Hisashi Sato, Chair of the ESJ72 Symposium Committee
