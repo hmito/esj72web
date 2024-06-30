@@ -7,6 +7,10 @@ multi_language: true
 
 # ホーム
 
+## 重要なお知らせ
+- **2025.07.05 - 07.31:  [公募セッション](https://esj-meeting.net/opensession_ja)を募集しています。**
+- **2025.07.05 - 08.31: [ERシンポジウム](https://esj-meeting.net/er_symposium_ja)を募集しています。**
+
 ## 大会案内
 
 **第72回日本生態学会大会（ESJ72）を下記の通り開催します。**
@@ -19,9 +23,8 @@ multi_language: true
 
 ## 更新履歴
 
--   **2025-07-05:
-    [公募セッション](https://esj-meeting.net/home_ja/esj_opensession)と[ER
-    シンポジウム](https://esj-meeting.net/home_ja/er_symposium_ja)の募集を開始しました（締め切り：公募セッション, 2025-07-31; ERシンポジウム, 2025-08-31）。**
+-   2025-07-05:
+    [公募セッション](https://esj-meeting.net/opensession)と[ERシンポジウム](https://esj-meeting.net/er_symposium_ja)の募集を開始しました（締め切り：公募セッション, 2025-07-31; ERシンポジウム, 2025-08-31）。
 
--   **2025-07-05: 第72回日本生態学会大会Webサイトを公開しました。**
+-   2025-07-05: 第72回日本生態学会大会Webサイトを公開しました。
 
