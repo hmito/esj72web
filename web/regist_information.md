@@ -62,6 +62,7 @@ Presentations at the conference are generally limited to members (regular and ho
 
 1. When invited by symposium organizers to give a presentation.
 2. When participating as a commentator or opinion presenter in symposium/workshop without abstract submission.
+3. When give a presentation in High School Student Poster Session.
 
 | **Presentation Type**                              | **Member \*1** | **Non-Member** |
 |----------------------------------------------------|:--------------:|:--------------:|
@@ -89,3 +90,6 @@ There are restrictions on overlapping presentations at the conference:
 |Workshop|×|×|〇|〇|
 |General Presentation|×|〇|×|〇|
 |Forum|〇|〇|〇|〇|
+
+If you are already an organizer or a speaker of the respective category, you cannot become an organizer or a speaker of a lecture of the category marked with an "×".
+
