@@ -60,7 +60,7 @@ We are currently accepting applications for open sessions and the ER Symposium. 
 ### Presentation Eligibility by Membership Type
 Presentations at the conference are generally limited to members (regular and honorary members). Non-members are eligible in the following two cases:
 
-1. When invited by symposium organizers to give a presentation.
+1. When to speak as an invited speaker in symposium
 2. When participating as a commentator or opinion presenter in symposium/workshop without abstract submission.
 3. When give a presentation in High School Student Poster Session.
 
@@ -74,7 +74,7 @@ Presentations at the conference are generally limited to members (regular and ho
 
 \*1 Refers to regular members (general and student) and honorary members of the Ecological Society of Japan. Associate members are not included.  
 \*2 Refers to the primary presenter (speaker). Co-presenters do not need to be members.  
-\*3 Limited to those invited by organizers.
+\*3 Limited to invited speakers.
 
 ### Overlap Restrictions
 There are restrictions on overlapping presentations at the conference:
