@@ -15,9 +15,9 @@ We encourage those considering inviting overseas researchers to the symposium to
 
 ## Guidelines for Proposing an ER Symposium
 
-### Travel Expenses are Covered and Participation Fee and Banquet Fee are Waived
+### Travel Expenses are Covered and Participation Fees are Waived
 
-The ER Invited Speaker will receive necessary travel expenses (subject to regulations, see Note 2) and have their conference participation fee and banquet fee waived.
+The ER Invited Speaker will receive necessary travel expenses (subject to regulations, see Note 2) and have their conference participation fees waived.
 
 ### Paper Contribution
 
