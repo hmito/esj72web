@@ -9,8 +9,8 @@ multi_language: true
 
 We are currently accepting applications for open sessions and the ER Symposium. For details, please visit the following pages:
 
-- [Open Sessions](https://esj-meeting.net/opensession)
-- [ER Symposium](https://esj-meeting.net/er_symposium)
+- [Open Sessions](opensession)
+- [ER Symposium](er_symposium)
 
 ## Deadlines for Presentations and Proposals
 
@@ -27,13 +27,13 @@ We are currently accepting applications for open sessions and the ER Symposium. 
     </tr></thead>
   <tbody>
     <tr class="odd">
-      <td><a href = "https://esj-meeting.net/opensession_ja">Open Session</a></td>
+      <td><a href = "opensession">Open Session</a></td>
       <td>31st Jul. 2024 23:59 JST</td>
       <td rowspan=7>21st Feb. 2025 23:59 JST</td>
     </tr>
     <tr class="even">
-      <td><a href = "https://esj-meeting.net/er_symposium_ja">ER Symposium</a></td>
-      <td>30th Aug. 202423:59 JST</td>
+      <td><a href = "er_symposium">ER Symposium</a></td>
+      <td>30th Aug. 2024 23:59 JST</td>
     </tr>
     <tr class="odd">
       <td>Forum</td>

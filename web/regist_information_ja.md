@@ -9,8 +9,8 @@ multi_language: true
 
 現在、公募セッションおよびERシンポジウムを募集中です。詳細は以下のページをご覧ください
 
-- [公募セッション](https://esj-meeting.net/opensession_ja)
-- [ERシンポジウム](https://esj-meeting.net/er_symposium_ja)
+- [公募セッション](opensession_ja)
+- [ERシンポジウム](er_symposium_ja)
 
 ## 講演・企画に関する締切
 <table>
@@ -26,12 +26,12 @@ multi_language: true
     </tr></thead>
   <tbody>
     <tr class="odd">
-      <td><a href = "https://esj-meeting.net/opensession_ja">公募セッション</a></td>
+      <td><a href = "opensession_ja">公募セッション</a></td>
       <td>2024年7月31日 (水) 23:59</td>
       <td rowspan=7>2025年2月21日 (金) 23:59</td>
     </tr>
     <tr class="even">
-      <td><a href = "https://esj-meeting.net/er_symposium_ja">ERシンポジウム</a></td>
+      <td><a href = "er_symposium_ja">ERシンポジウム</a></td>
       <td>2024年8月30日 (金) 23:59</td>
     </tr>
     <tr class="odd">
