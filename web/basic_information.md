@@ -10,12 +10,12 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 
 The 72nd Annual Meeting of the Ecological Society of Japan (ESJ72)\
 **Dates**: March 15 (Sat) – March 19 (Wed), 2025 (tentative; subject to possible shortening, please check future announcements on the website)\
-**Venue**: Sapporo Convention Center / Online
+**Venue**: Sapporo Convention Center / ONLINE CONF
 
 ## Format of the Meeting
 
 - The conference will be held in a hybrid format, primarily on-site.
-- The online platform for the conference (hereafter referred to as the "conference platform") will be ONLINE CONF.
+- The online platform for the conference (hereafter referred to as the "conference platform") will be [ONLINE CONF](https://agri-smile.com/service/online-conf/).
 - Oral presentations and English oral presentations will be conducted only on-site, with no online streaming.
 - Poster presentations will be available for viewing on the conference platform throughout the conference period. Participants can freely view uploaded poster files. Additionally, those who wish may also display their posters on-site.
 - Award lectures, symposia, organized sessions, and other presentations will primarily be held on-site, but real-time and on-demand streaming options are under consideration. Details will be announced on the website once decided.
@@ -30,7 +30,7 @@ Please refer to the individual pages to be updated for detailed information on h
 | :------------------------- | :--------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------ | :------------------------- |
 | Registration and Payment | October 1, 2024 <br>– On-site Registration                                                                                            | October 1, 2024 <br>– February 21, 2025                        | January 1, 2025 <br>– On-site Registration |
 
-Note: Participation in organized sessions only is available online, not on-site.
+<!-- 7/1のTFで対応　Note: Participation in workshops only is available online, not on-site. -->
 
 ## Promoting Diversity
 
