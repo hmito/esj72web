@@ -256,7 +256,7 @@ Jr.生態学講座</strong></td>
 
 **<span class="mark">大会日程</span>**
 
-<img src="draft/media/image1.png" style="width:5.90556in;height:8.35139in" alt="大会日程1" /><img src="draft/media/image2.png" style="width:5.90556in;height:8.35139in" alt="大会日程2" />
+<img src="../media/image1.png" style="width:5.90556in;height:8.35139in" alt="大会日程1" /><img src="../media/image2.png" style="width:5.90556in;height:8.35139in" alt="大会日程2" />
 
 **<span class="mark">大会スケジュール</span>**
 
@@ -545,13 +545,13 @@ SpatialChat を用いてオンライン形式の懇親会を開催します。�
 
 **横浜国立大学（3月19日〜21日）**
 
-<img src="draft/media/image3.jpeg" style="width:5.90556in;height:8.39167in" alt="教育文化ホール 案内図" />  
+<img src="../media/image3.jpeg" style="width:5.90556in;height:8.39167in" alt="教育文化ホール 案内図" />  
 \[[教育文化ホール 案内図 PDF版](https://esj-meeting.net/wp-content/uploads/2024/03/venue_1_ja.pdf)\]
 
-<img src="draft/media/image4.jpeg" style="width:5.90556in;height:7.8125in" alt="都市科学部棟 案内図" />  
+<img src="../media/image4.jpeg" style="width:5.90556in;height:7.8125in" alt="都市科学部棟 案内図" />  
 \[[都市科学部棟 案内図 PDF版](https://esj-meeting.net/wp-content/uploads/2024/02/venue_2_ja.pdf)\]
 
-<img src="draft/media/image5.jpeg" style="width:5.90556in;height:9.08472in" alt="理工学部講義棟A 案内図" />  
+<img src="../media/image5.jpeg" style="width:5.90556in;height:9.08472in" alt="理工学部講義棟A 案内図" />  
 \[[理工学部講義棟A 案内図 PDF版](https://esj-meeting.net/wp-content/uploads/2024/03/venue_3_ja.pdf)\]
 
 **大会受付**
@@ -649,7 +649,7 @@ SpatialChat を用いてオンライン形式の懇親会を開催します。�
 
 **電車と徒歩**
 
-<img src="draft/media/image6.jpeg" style="width:5.90556in;height:5.56319in" alt="駅からのアクセス地図" />  
+<img src="../media/image6.jpeg" style="width:5.90556in;height:5.56319in" alt="駅からのアクセス地図" />  
 \[[PDF版](https://esj-meeting.net/wp-content/uploads/2024/02/neighbourhood_map_ja.pdf)\]
 
 - **A**: 三ツ沢上町駅から（徒歩約15分、[駅からの地図](https://www.ynu.ac.jp/access/train_front.html)）
@@ -660,7 +660,7 @@ SpatialChat を用いてオンライン形式の懇親会を開催します。�
 
 **キャンパスマップ**
 
-<img src="draft/media/image7.jpeg" style="width:5.90556in;height:6.73056in" alt="キャンパスマップ" />  
+<img src="../media/image7.jpeg" style="width:5.90556in;height:6.73056in" alt="キャンパスマップ" />  
 \[[PDF版](https://esj-meeting.net/wp-content/uploads/2024/03/campus_map_ja.pdf)\]
 
 - **教育文化ホール（[学内マップ S1-2](https://www.ynu.ac.jp/access/map_campus.html)）**
@@ -841,12 +841,12 @@ ESJ71終了後、2024年3月28日（木）の23:59までに託児利用の内訳
 
 - 地下１階まではエレベーターがないため、徒歩で降りることになります。ベビーカーの運搬等はスタッフが補助しますので、遠慮なくお声がけください。
 
-<img src="draft/media/image8.jpeg" style="width:5.90556in;height:3.86736in" alt="教育文化ホール 地下一階 ファミリー休憩室配置図" />
+<img src="../media/image8.jpeg" style="width:5.90556in;height:3.86736in" alt="教育文化ホール 地下一階 ファミリー休憩室配置図" />
 
 **理工学部講義棟A［S5-5］の３階**
 
 幼児以上を優先。ジョイントマット（３畳程度）、３階まではエレベーターが利用できます。  
-<img src="draft/media/image9.jpeg" style="width:5.90556in;height:2.94722in" alt="教育文化ホール 地下一階 ファミリー休憩室配置図" />
+<img src="../media/image9.jpeg" style="width:5.90556in;height:2.94722in" alt="教育文化ホール 地下一階 ファミリー休憩室配置図" />
 
 [**横浜国立大学サポートルーム**](https://diversity.ynu.ac.jp/care/childcare/supportroom/)
 
@@ -974,7 +974,7 @@ ESJ71では下記リストのプログラム（集会）の参加者に対し，
 
 **<span class="mark">口頭発表プログラム</span>**
 
-<img src="draft/media/image10.png" style="width:5.90556in;height:4.17569in" alt="口頭発表プログラム_1ページ" /><img src="draft/media/image11.png" style="width:5.90556in;height:4.17569in" alt="口頭発表プログラム_2ページ" /><img src="draft/media/image12.png" style="width:5.90556in;height:4.17639in" alt="口頭発表プログラム_3ページ" /><img src="draft/media/image13.png" style="width:5.90556in;height:4.17569in" alt="口頭発表プログラム_4ページ" /><img src="draft/media/image14.png" style="width:5.90556in;height:4.17569in" alt="口頭発表プログラム_5ページ" /><img src="draft/media/image15.png" style="width:5.90556in;height:4.17639in" alt="口頭発表プログラム_6ページ" />
+<img src="../media/image10.png" style="width:5.90556in;height:4.17569in" alt="口頭発表プログラム_1ページ" /><img src="../media/image11.png" style="width:5.90556in;height:4.17569in" alt="口頭発表プログラム_2ページ" /><img src="../media/image12.png" style="width:5.90556in;height:4.17639in" alt="口頭発表プログラム_3ページ" /><img src="../media/image13.png" style="width:5.90556in;height:4.17569in" alt="口頭発表プログラム_4ページ" /><img src="../media/image14.png" style="width:5.90556in;height:4.17569in" alt="口頭発表プログラム_5ページ" /><img src="../media/image15.png" style="width:5.90556in;height:4.17639in" alt="口頭発表プログラム_6ページ" />
 
 ## <span class="mark">総会・学会各賞受賞記念講演・授賞式</span>
 
@@ -1132,12 +1132,12 @@ ESJ71では下記リストのプログラム（集会）の参加者に対し，
 
 **ポスター**
 
-<img src="draft/media/image16.jpeg" style="width:1.84375in;height:2.6in" alt="公開講演会ポスター" />  
+<img src="../media/image16.jpeg" style="width:1.84375in;height:2.6in" alt="公開講演会ポスター" />  
 [ポスター(PDF)をダウンロード](https://esj-meeting.net/wp-content/uploads/2024/01/public_lecture.pdf)
 
 **会場（経済学部講義棟2号館）**
 
-<img src="draft/media/image7.jpeg" style="width:5.90556in;height:6.73056in" alt="キャンパスマップ" />  
+<img src="../media/image7.jpeg" style="width:5.90556in;height:6.73056in" alt="キャンパスマップ" />  
 会場へのアクセスは[会場案内](https://esj-meeting.net/public_lecture/venue_ja)や横浜国立大学の[キャンパスマップ (N4-3)](https://www.ynu.ac.jp/access/map_campus.html)も参考にして下さい。
 
 **プログラム**
@@ -1508,7 +1508,7 @@ ESJ71 企画委員会シンポジウム部会長　徳田誠
 
 参加・講演申込み、学会への入会など、申込み手順が若干複雑ですので、以下のチャートでご自身が行うべき手続きをご確認ください。
 
-<img src="draft/media/image17.png" style="width:5.90556in;height:4.83264in" alt="参加登録フロー" />
+<img src="../media/image17.png" style="width:5.90556in;height:4.83264in" alt="参加登録フロー" />
 
 **<span class="mark">その他の情報</span>**
 
@@ -2030,7 +2030,7 @@ ESJ71では自由集会を募集します。自由集会は、新しい分野の
 
 - 宮崎 祐⼦ (岡⼭⼤学) 「⼭の実りの豊凶とその影響が知りたい」
 
-<img src="draft/media/image18.jpeg" style="width:5.90556in;height:2.12361in" alt="発表者" />
+<img src="../media/image18.jpeg" style="width:5.90556in;height:2.12361in" alt="発表者" />
 
 [ジュニア生態学講座ポスターはこちら](https://esj-meeting.net/wp-content/uploads/2024/01/lecture_for_junior_ecologist.pdf)
 
