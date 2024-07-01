@@ -21,7 +21,7 @@ Conveners are invited to propose a "theme."
 
 ### Symposium Planning After Selection
 
-If selected, conveners will organize a symposium based on the proposed theme. It is not necessary to decide the speakers or details of the presentations at the time of the proposal. Preparation, such as recruiting speakers, can proceed freely after selection. Non-members can also be included as speakers (see Note 1).
+If selected, conveners will organize a symposium based on the proposed theme. It is not necessary to decide the speakers or details of the presentations at the time of the proposal application. Preparation, such as recruiting speakers, can proceed freely after selection. Non-members can also be included as speakers (see Note 1).
 
 ### Review and Selection
 
@@ -48,7 +48,7 @@ The proposal should include the following information:
 2. Proposed theme and objectives
 3. Reasons for proposing the theme (impact on the conference and the field by introducing the theme as a new category)
 4. Additional information related to the theme (e.g., relevant papers, international treaties)
-Note: Item (4) is for reference only. High-impact journal publications are not a prerequisite.
+Note: Item (4) is just additional information related to Item (3). Journal impact factor in which relevant papers were published is not considered as a review criteria.
 
 ## Note 1: The ESJ72 Symposium includes an "invited speaker" system.
 
