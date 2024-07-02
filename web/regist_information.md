@@ -5,7 +5,7 @@ toc: false
 multi_language: true
 ---
 
-# Registlations and Proposals
+# Registrations and Proposals
 
 We are currently accepting applications for open sessions and the ER Symposium. For details, please visit the following pages:
 
