@@ -26,7 +26,7 @@ Please refer to the individual pages to be updated for detailed information on h
 
 ## Participation Registration
 
-|                            | Regular participants and students                                                                                                             | Attendance for Workshops Only / <br>Attendance for High School Student Programs Only        | Undergraduate students who will not give presentations / <br>Junior and high school students   |
+|                            | Regular participants and students                                                                                                             | Attendance for High School Student Programs Only        | Undergraduate students who will not give presentations / <br>Junior and high school students   |
 | :------------------------- | :--------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------ | :------------------------- |
 | Registration and Payment | October 1, 2024 <br>– On-site Registration                                                                                            | October 1, 2024 <br>– February 21, 2025                        | January 1, 2025 <br>– On-site Registration |
 
