@@ -11,7 +11,7 @@ Following the previous meeting, ESJ72 will feature symposia (open sessions) that
 
 Applicants for oral presentations, poster presentations, and workshops can select these new categories as their preferred presentation fields (excluding symposia). Presentations accepted in these categories will be scheduled consecutively with the open session or given priority for poster displays near the session venue.
 
-For conveners, this offers more opportunities to interact with a larger number of speakers and audience members compared to regular symposia. For general presenters, this provides an opportunity to engage in direct discussions and interactions with symposium organizers. We encourage those planning to propose symposia to review the following guidelines and consider applying for an open session.
+This procedure offers conveners more opportunities to interact with more speakers and audience members than regular symposia. Also, general presenters can expect to engage in direct discussions and interactions with symposium organizers. We encourage those planning to propose symposia to review the following guidelines and consider applying for an open session.
 
 ## Guidelines
 
@@ -21,7 +21,7 @@ Conveners are invited to propose a "theme."
 
 ### Symposium Planning After Selection
 
-If selected, conveners will organize a symposium based on the proposed theme. It is not necessary to decide the speakers or details of the presentations at the time of the proposal. Preparation, such as recruiting speakers, can proceed freely after selection. Non-members can also be included as speakers (see Note 1).
+If selected, conveners will organize a symposium based on the proposed theme. It is not necessary to decide the speakers or details of the presentations at the time of the proposal application. Preparation, such as recruiting speakers, can proceed freely after selection. Non-members can also be included as speakers (see Note 1).
 
 ### Review and Selection
 
@@ -37,18 +37,18 @@ Conveners of accepted themes will receive a list of oral presentations, poster p
 
 ### Proposal Submission
 
-Proposals can be co-authored, but only one person should be designated as the contact. The submission deadline is Wednesday, July 31, at 23:59 JST. Notification of acceptance or rejection is planned for August.
+Proposals can be co-authored, but only one person should be designated as the contact. The submission **deadline is Wednesday, July 31, at 23:59 JST**. Notification of acceptance or rejection is planned for August.
 
 ### Application Procedure
 
-Submit proposals via the application Google Form (https://docs.google.com/forms/d/1KTnvqUxEsx0KnR-tZuh4YqZDJiLGTXtQVD1hn8vQyys).
+Submit proposals via the application [Google Form](https://docs.google.com/forms/d/1KTnvqUxEsx0KnR-tZuh4YqZDJiLGTXtQVD1hn8vQyys).
 
 The proposal should include the following information:
 1. Name of the principal applicant, affiliation, and email address
 2. Proposed theme and objectives
 3. Reasons for proposing the theme (impact on the conference and the field by introducing the theme as a new category)
 4. Additional information related to the theme (e.g., relevant papers, international treaties)
-Note: Item (4) is for reference only. High-impact journal publications are not a prerequisite.
+Note: Item (4) is just additional information related to Item (3). Journal impact factor in which relevant papers were published is not considered as a review criteria.
 
 ## Note 1: The ESJ72 Symposium includes an "invited speaker" system.
 
@@ -66,6 +66,7 @@ This is because securing judges for new themes is challenging. Therefore, poster
 
 We look forward to receiving your proposals.
 
+***
 For inquiries and requests related to this matter, please contact Dr. Hisashi Sato, Chair of the Symposium Committee of the ESJ72 Planning Committee (Japan Agency for Marine-Earth Science and Technology): hsatoscb [at] gmail.com
 
 Written by: Hisashi Sato, Chair of the ESJ72 Symposium Committee

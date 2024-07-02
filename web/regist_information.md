@@ -9,8 +9,8 @@ multi_language: true
 
 We are currently accepting applications for open sessions and the ER Symposium. For details, please visit the following pages:
 
-- [Open Sessions](https://esj-meeting.net/opensession)
-- [ER Symposium](https://esj-meeting.net/er_symposium)
+- [Open Sessions](opensession)
+- [ER Symposium](er_symposium)
 
 ## Deadlines for Presentations and Proposals
 
@@ -27,13 +27,13 @@ We are currently accepting applications for open sessions and the ER Symposium. 
     </tr></thead>
   <tbody>
     <tr class="odd">
-      <td><a href = "https://esj-meeting.net/opensession_ja">Open Session</a></td>
+      <td><a href = "opensession">Open Session</a></td>
       <td>31st Jul. 2024 23:59 JST</td>
       <td rowspan=7>21st Feb. 2025 23:59 JST</td>
     </tr>
     <tr class="even">
-      <td><a href = "https://esj-meeting.net/er_symposium_ja">ER Symposium</a></td>
-      <td>30th Aug. 202423:59 JST</td>
+      <td><a href = "er_symposium">ER Symposium</a></td>
+      <td>30th Aug. 2024 23:59 JST</td>
     </tr>
     <tr class="odd">
       <td>Forum</td>
@@ -60,8 +60,9 @@ We are currently accepting applications for open sessions and the ER Symposium. 
 ### Presentation Eligibility by Membership Type
 Presentations at the conference are generally limited to members (regular and honorary members). Non-members are eligible in the following two cases:
 
-1. When invited by symposium organizers to give a presentation.
+1. When to speak as an invited speaker in symposium
 2. When participating as a commentator or opinion presenter in symposium/workshop without abstract submission.
+3. When give a presentation in High School Student Poster Session.
 
 | **Presentation Type**                              | **Member \*1** | **Non-Member** |
 |----------------------------------------------------|:--------------:|:--------------:|
@@ -73,7 +74,7 @@ Presentations at the conference are generally limited to members (regular and ho
 
 \*1 Refers to regular members (general and student) and honorary members of the Ecological Society of Japan. Associate members are not included.  
 \*2 Refers to the primary presenter (speaker). Co-presenters do not need to be members.  
-\*3 Limited to those invited by organizers.
+\*3 Limited to invited speakers.
 
 ### Overlap Restrictions
 There are restrictions on overlapping presentations at the conference:
@@ -89,3 +90,6 @@ There are restrictions on overlapping presentations at the conference:
 |Workshop|×|×|〇|〇|
 |General Presentation|×|〇|×|〇|
 |Forum|〇|〇|〇|〇|
+
+If you are already an organizer or a speaker of the respective category, you cannot become an organizer or a speaker of a lecture of the category marked with an "×".
+
