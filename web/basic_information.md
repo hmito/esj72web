@@ -15,7 +15,7 @@ The 72nd Annual Meeting of the Ecological Society of Japan (ESJ72)\
 ## Format of the Meeting
 
 - The conference will be held in a hybrid format, primarily on-site.
-- The online platform for the conference (hereafter referred to as the "conference platform") will be [ONLINE CONF](https://agri-smile.com/service/online-conf/).
+- The online platform for the conference (hereafter referred to as the "conference platform") will be [ONLINE CONF](https://gakkai.online/).
 - Oral presentations and English oral presentations will be conducted only on-site, with no online streaming.
 - Poster presentations will be available for viewing on the conference platform throughout the conference period. Participants can freely view uploaded poster files. Additionally, those who wish may also display their posters on-site. Core time will be available for on-site participants.
 - Award lectures, symposia, organized sessions, and other presentations will primarily be held on-site, but real-time and on-demand streaming options are under consideration. Details will be announced on the website once decided.
