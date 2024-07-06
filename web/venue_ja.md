@@ -1,3 +1,11 @@
+---
+url: https://esj-meeting.net/venue_ja/
+menu: 大会案内 > 大会基本情報
+toc: true
+multi_language: true
+remarks: 
+---
+
 # 会場案内
 
 ## アクセス・会場地図
