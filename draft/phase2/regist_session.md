@@ -29,10 +29,10 @@ ESJ72のWebサイト上で掲載する「各種集会の企画」のフォーラ
 
 <table>
 <colgroup>
-<col style="width: 16%" />
-<col style="width: 28%" />
-<col style="width: 28%" />
-<col style="width: 28%" />
+<col style="width: 19%" />
+<col style="width: 27%" />
+<col style="width: 27%" />
+<col style="width: 27%" />
 </colgroup>
 <thead>
 <tr class="header">
