@@ -9,7 +9,7 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 # Basic Information
 
 The 72nd Annual Meeting of the Ecological Society of Japan (ESJ72)\
-**Dates**: March 15 (Sat) – March 19 (Wed), 2025 (tentative; subject to possible shortening, please check future announcements on the website)\
+**Dates**: March 15 (Sat) – March 18 (Tue), 2025\
 **Venue**: Sapporo Convention Center / ONLINE CONF
 
 ## Format of the Meeting
