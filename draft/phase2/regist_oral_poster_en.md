@@ -1,11 +1,11 @@
 ---
 url: https://esj-meeting.net/regist_oral_poster/
-menu: Various applications > Regular presentations
+menu: Various applications > Regular Presentations
 toc: false
 multi_language: true
 ---
 
-# Regular presentations
+# Regular Presentations
 
 Regular presentations include oral and poster session.
 
@@ -13,7 +13,7 @@ Regular presentations include oral and poster session.
 
 - The total presentation time is 15 minutes: 12 minutes for presentation and 3 minutes for Q&A. 
 - Presentations are onsite only. Online presentations are not available and will not be available on demand.
-- There are two types of oral presentations: English session and regular session. Presentations may be given in English in the regular session.
+- Oral sessions consist of sessions in both Japanese and English. The sessions in English include presentations entered for the English Presentation Award. Oral presentations can be given in English during Japanese oral sessions.
 - Student members or general members within 5 years of receiving their degrees may be eligible to be considered for the [English Oral Presentation Award](#english-oral-presentation-award) if they make an oral presentation in the English session.
 
 ### Poster session
@@ -24,7 +24,7 @@ Regular presentations include oral and poster session.
 - Student members who have not yet obtained a doctoral degree may be eligible to be considered for the [Poster Presentation Award](#Poster Presentation Award).
 - If you choose the open call session for poster presentation and wish to present on-site, the display area will be located near the symposium venue.
 
-## Application for Lecture
+## Application for Regular Presentations
 
 ### Application Process
 
