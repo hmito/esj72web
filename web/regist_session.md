@@ -1,12 +1,12 @@
 ---
-url: https://esj-meeting.net/basic_information/
-menu: Registration & submission > Proposal for sessions
+url: regist_session
+menu: Registration > Proposal for sessions
 toc: false
 multi_language: true
 ---
 
-# Session proposal guidelines
-* There are three types of sessions: [Symposia](#call-for-symposia), [Workshops](#call-for-workshops),and [Forums](#application-for-forums). Symposium category includes the general symposium as well as two special types: the [Open Session](https://esj-meeting.net/opensession/), where the theme is introduced as a new presentation field within the Ecological Society, and the [ER Symposium](https://esj-meeting.net/er_symposium/), which provides travel support for invited international researchers with free admission to the meeting.**These symposia are the central sessions of the meeting**. The ESJ has traditionally considered **workshops as important opportunities to discuss unconventional topics and launch new fields in Ecology**. Please understand the concept of these session (described below) and submit your proposal. We look forward to receiving enthusiastic proposals from researchers from various positions, genders, and nationalities.
+# Proposal for sessions
+* There are three types of sessions: [Symposia](#call-for-symposia), [Workshops](#call-for-workshops),and [Forums](#application-for-forums). Symposium category includes the general symposium as well as two special types: the [Open Session](opensession), where the theme is introduced as a new presentation field within the Ecological Society, and the [ER Symposium](er_symposium), which provides travel support for invited international researchers with free admission to the meeting.**These symposia are the central sessions of the meeting**. The ESJ has traditionally considered **workshops as important opportunities to discuss unconventional topics and launch new fields in Ecology**. Please understand the concept of these session (described below) and submit your proposal. We look forward to receiving enthusiastic proposals from researchers from various positions, genders, and nationalities.
 
 
 |                                                                           |                              Symposium                              |                                    Workshop                                    |
@@ -28,7 +28,7 @@ multi_language: true
 * The Annual Meeting Planning Committee will not be involved in the content of the symposia. However, symposium proposals that are judged to contain contents that slander or libel any individual or organization will be declined.
 * When submitting the proposal for symposia, organizers are requested to answer whether the entire meeting (including an explanation of the purpose and comments by the commentator) can be distributed on-demand and whether each presentation can be distributed on-demand.
 * Organizers will register all the presentations at once. **Before submitting the proposal, organizers should collect information on each presentation (title, names, and affiliations of speakers and co-presenters) in both Japanese and English, as well as the membership numbers of organizers, co-organizers, and speakers (login IDs for invited speakers).**
-* Please access the [registration site](https://esj-meeting.net/regist_information/) and enter the symposium title, abstract (maximum 800 characters in Japanese, 200 words in English), and information for each presentation. Please note that the information of co-presenters will also be confirmed by this entry and cannot be changed at the time of the abstract submission.
+* Please access the [registration site](regist_information/) and enter the symposium title, abstract (maximum 800 characters in Japanese, 200 words in English), and information for each presentation. Please note that the information of co-presenters will also be confirmed by this entry and cannot be changed at the time of the abstract submission.
 
 ### Procedures for symposia speakers
 * Except for non-ESJ member invited speakers, only members who have applied for membership in ESJ by Thursday, 31 October 2024 and have paid the annual membership fee by 31 January 2025 (regular and honorary members, hereinafter the same) are eligible to speak at the symposium.
@@ -36,7 +36,7 @@ multi_language: true
 * **Each speaker is requested to provide the following information, in both Japanese and English, to the symposium organizer by the symposium proposal deadline (31 October 2024): title (maximum 40 characters in Japanese and 150 characters in English), name and affiliation of the speaker and co-presenters, and the speaker's membership number (login ID for invited speakers).** Please also let the organizer know whether you would like your presentation to be distributed on-demand.
 * Each speaker is required to register an abstract (maximum 800 words in Japanese, 200 words in English) on the meeting registration site by Friday, 21 February 2025.
 
-### [Limitations on submitting proposals](https://esj-meeting.net/regist_information/##eligibility-for-presentations)
+### [Limitations on submitting proposals](regist_information/##eligibility-for-presentations)
 * Organizers (including co-organizers, hereinafter the same) must be ESJ members (regular and honorary members, hereafter the same). Non-ESJ members are not eligible to be organizers.
 * It is not permitted to be an organizer or a speaker (main explainer of the talk, hereafter the same) of more than one symposium.
 * Symposia organizers/speakers cannot be organizers/speakers of workshops or presenters of general sessions (both oral and poster presentations).
@@ -71,8 +71,8 @@ multi_language: true
 ### Concept and application limits for workshops
 * The ESJ has traditionally considered workshops as important opportunities to discuss unconventional topics and launch new fields in Ecology.
 * For the workshop, the explanation of the purpose, registered overview, and the abstracts of individual presentations will be posted on the meeting webpage and meeting platform.
-* [Organizers](https://esj-meeting.net/regist_information/) (including co-organizers, hereafter the same) need to be ESJ members (regular and honorary members, hereafter the same). Non-ESJ members cannot become organizers.
-* [Speakers](https://esj-meeting.net/regist_information/##eligibility-for-presentations) (main explainer of the talk, hereafter the same) need to be ESJ members. Non-ESJ members cannot become invited speakers. However, non-ESJ members can make comments and/or express opinions without registering an abstract.
+* [Organizers](regist_information/) (including co-organizers, hereafter the same) need to be ESJ members (regular and honorary members, hereafter the same). Non-ESJ members cannot become organizers.
+* [Speakers](regist_information/##eligibility-for-presentations) (main explainer of the talk, hereafter the same) need to be ESJ members. Non-ESJ members cannot become invited speakers. However, non-ESJ members can make comments and/or express opinions without registering an abstract.
 * Workshop speakers and organizers can be speakers at either oral or poster sessions.
 * Workshop speakers and organizers cannot be organizers or speakers of symposia and/or other workshops.
 
