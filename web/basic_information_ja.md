@@ -47,10 +47,10 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 <tbody>
 <tr class="even">
 <td>総会</td>
+<td></td>
+<td></td>
+<td></td>
 <td>○ Live</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td>授賞式・受賞講演</td>
