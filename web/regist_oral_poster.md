@@ -22,7 +22,7 @@ Regular presentations include oral and poster sessions.
 - We will allocate a core time during the conference for on-site poster presentations.
 - Although there will be no core time for online poster presentations, there will be a viewing period for all online posters before the conference starts (scheduled from March 12 to 14).
 - Student members without a Ph.D. who have not previously received a poster award at any past Annual Meeting of the Ecological Society of Japan are eligible to apply for the [Poster Award](#poster-award).
-- Please note that the method for presenting online posters has been updated since the last conference, so be sure to review the details in the [Guidelines for Online Poster Presentations](#guidelines-for-online-poster-presentations).
+- Please note that the method for presenting online posters has been updated since the last conference, so be sure to review the details in the [Guidelines for Online Poster Presentations](for_presentation#guidelines-for-online-poster-presentations).
 
 ## Application for Regular Presentations
 
@@ -131,22 +131,3 @@ The selection process will emphasize the ability to convey information and the q
 - An award will be presented to an individual conference participant who has contributed to the excitement of all poster presentations, including high school student posters, by posting quality comments.
 - Selection will be made based on the total number of "Likes!" recieved on their comments from each conference participant.
 - This award was created specifically to encourage communication among participants using the comment function.
-
-<!-- Please move the following section to another webpage -->
-## Poster Presentation Guidelines 
-### Guidelines for Online Poster Presentations
-
-- Since it will be difficult for on-site participants to view online posters during the conference, a viewing period for all participants will be provided before the conference (scheduled for March 12-14). Therefore, all poster presenters must upload their posters to ONLINE CONF by the specified deadline (scheduled for March 11 at 23:59). Note that you may revise or replace your poster after uploading it. Poster uploads are expected to become available after January 31. 
-- For similar reasons, there will be no core time or video discussion spaces for online posters at this conference. If you wish to provide direct explanations online, please use online meeting systems such as Zoom on your own. The text chat function on ONLINE CONF is available, so please make use of it.
-- For online poster presentations, you may upload a graphical abstract, the main poster, supplementary materials (PDF), and an explanatory video. Uploading supplementary materials, graphical abstracts, and explanatory videos is not mandatory.
-- In line with the concept that "a poster presentation is a way to concisely summarize research content within a limited space," the poster format should be one A0-sized sheet. The orientation can be either portrait or landscape, depending on your preference, such as choosing portrait orientation to match on-site presentations or landscape orientation to fit computer screens.
-- The main poster should be created in PDF format (without embedded audio or video). The maximum file size is 5MB. Please ensure that your file does not exceed this limit. To facilitate quicker loading on the platform, it is recommended to keep the file size below 1MB and the size per page below 500KB.
-- Our conference places a strong emphasis on international exchange. We welcome considerations for audiences who may not understand Japanese. Specifically, consider providing key points in both Japanese and English on the poster or preparing a separate English version of the poster. If you opt for "bilingual," include explanations in English on the poster or prepare an English version of the poster. When preparing a separete English version of the poster, we recommend providing two sets of A0-sized posters (one in Japanese and one in English). If opting for "English" only, please prepare your poster in English.
-- Supplementary materials (such as additional figures, data, or documents) can also be included to enhance the audience's understanding. These materials should be stored in the same PDF file as the poster, following the main poster content on separate pages, and uploaded as a single PDF file (the total file size, including the English version or supplementary materials, must not exceed 5MB).
-- The graphical abstract will be used as the thumbnail image in the poster list and as the first poster image displayed on the platform. Please create it as a JPG image with dimensions of 1200 pixels by 1200 pixels. It does not necessarily need to be an image that summarizes the research content; for example, a photo of the organism being studied is also acceptable. What is important is that it serves as an eye-catching element. If a graphical abstract is not uploaded, the first page of the poster itself will be displayed in the poster list.
-
-### Guidelines for On-site Poster Presentations
-
-- The size of the boards used for on-site poster displays is 210 cm (height) × 90 cm (width), allowing for A0-sized vertical posters. Presenters are free to use this space as needed. However, please ensure that the poster does not extend beyond this space and interfere with neighboring boards.
-- Core times will be scheduled during the conference period for each poster presentation. During these core times, please be present at your poster to explain it to participants.
-
