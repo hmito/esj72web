@@ -26,7 +26,7 @@ Important deadlines
 
 <img src="../media/regist_flowchart.png" usemap="#ImageMap" alt="参加登録フロー"/>
 
-## 大会参加申込み
+## Registration for participation
 以下のページから大会参加申込みが可能です。
 
 **[【大会参加申込みサイトへ】](大会参加URL)**
@@ -49,7 +49,7 @@ Important deadlines
 - 高校生ポスター発表会での発表者、共著者、2名までの引率者は参加費無料です。また、「みんなのジュニア生態学」も無料でご参加いただけます。詳しくは、[高校生向け企画](high_school_student_ja)の案内をご覧下さい。
 - [その他の注意点](#その他注意点)もご確認ください。
 
-## 各種講演申込み
+## Registration for presentation or session organization
 以下のページから各種講演申込みが可能です。各講演についての説明（下記表のリンク）および[その他の注意点](#その他注意点)もご確認の上、申込みを行ってください。
 
 **[【各種講演申込みサイトへ】](各種講演URL)**
