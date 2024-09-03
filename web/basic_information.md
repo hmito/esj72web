@@ -27,7 +27,7 @@ The status of support for online participation is as follows. Note that question
 |---|:---:|:---:|
 |Award Lectures, ER Symposia, Open Session|O|O|
 |General meeeting|O|O|
-|Symposia|P|O||
+|Symposia|P|P||
 |Workshops, Forums|X|P|
 |Oral presentations, English oral presentations|X|X|
 |Public lectures|X|X|
