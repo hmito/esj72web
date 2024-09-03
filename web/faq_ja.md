@@ -1,7 +1,7 @@
 ---
 url: https://esj-meeting.net/faq_ja/
 menu: お問合せ > よくある質問
-toc: false
+toc: true
 multi_language: true
 ---
 
