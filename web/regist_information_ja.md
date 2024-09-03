@@ -24,7 +24,7 @@ multi_language: true
 - 2023年から学会費が未納の会員は、納付が確認できるまで[各種申込み手続きができません](#2023年から学会費未納の場合各種手続きができません)。
   - 学会費の納入状況は [【マイページ】](https://iap-jp.org/esj/mypage/login/login) からご確認ください。
 
-<img src="../media/regist_flowchart.png" usemap="#ImageMap" alt="参加登録フロー"/>
+<img src="../media/regist_flowchart_ja.png" usemap="#ImageMap" alt="参加登録フロー"/>
 
 ## 大会参加申込み
 以下のページから大会参加申込みが可能です。
