@@ -61,7 +61,8 @@ multi_language: true
 </colgroup>
 <tbody>
 <tr>
-  <td colspan=2>テストセッション名 (公募セッション)</td>
+  <td><a href="schedule_session_ja#公募セッション">音響生態学 (公募)</a></td>
+  <td><a href="schedule_session_ja#公募セッション">シカ害問題 (公募)</a></td>
   <td>行動</td>
   <td>植物生理生態</td>
 </tr>
