@@ -9,7 +9,7 @@ multi_language: true
 
 We are currently accepting applications for [General Presentations](regist_oral_poster), [Symposia](regist_session\#call-for-symposia), and [Workshops](regist_session\#call-for-workshops). Please check the details and register the application site below.
 
-**[【Go to the Applications site】](https://iap-jp.org/esj/conf/login.php)**
+**[[Go to the Applications site]](https://iap-jp.org/esj/conf/login.php)**
 
 Important deadlines are as follows.
 
@@ -30,7 +30,7 @@ Important deadlines are as follows.
 ## Resistrations
 You can register for the conference at the below link.
 
-**[【Go to the Application site】](https://iap-jp.org/esj/conf/login.php)**
+**[[Go to the Application site]](https://iap-jp.org/esj/conf/login.php)**
 
 ||Early bird<br/>until 21st Feb.|Normal<br/>after 22nd Feb.|
 |---|---|---|
@@ -53,7 +53,7 @@ You can register for the conference at the below link.
 You can apply for General Presentaions, Symposia, and Workshops at the below link.
 Please read the description of each session (links in the table below) and [Other Notes](#other-notes) before applications.
 
-**[【Go to Application site】](https://iap-jp.org/esj/conf/login.php)**
+**[[Go to Application site]](https://iap-jp.org/esj/conf/login.php)**
 
 <table>
   <colgroup>
@@ -101,7 +101,7 @@ Please read the description of each session (links in the table below) and [Othe
 There are restrictions on overlapping presentations at the conference:
 
 - Symposium organizers and presenters cannot be organizers or presenters in other symposium, workshop, or general presentations.
-  - However, providing context or serving as a commentator/opinion presenter without abstract submission is not subject to overlap restrictions.
+  - However, explanations of aim, comments, or statement of opinions without abstract submission is not subject to overlap restrictions.
 - Workshop organizers and presenters can also be general presentation speakers.
 - Forum organizers and topic providers are not subject to overlap presentation restrictions.
 
@@ -136,7 +136,7 @@ Presentations at the conference are generally limited to members (regular and em
 
 Non-members are not eligible to present with [some exceptions](#presentation-eligibility-by-membership-type). Non-members who do not fall under any of the exceptions must **apply for membership in the Ecological Society of Japan prior to submitting registration and proposal**. The admission procedure may take some time, so please complete the procedure well in advance.
 
-**[【Go to the ESJ membership procedure site】](https://www.esj.ne.jp/esj/English/join.html)**
+**[[Go to the ESJ membership procedure site]](https://www.esj.ne.jp/esj/English/join.html)**
 
 1. Please follow the above link to complete the new membership procedure.
 2. Upon confirmation of your application for membership, the Member Service Desk will notify you of your temporary membership number.
