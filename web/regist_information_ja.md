@@ -36,7 +36,7 @@ multi_language: true
     </tr>
     <tr class="odd">
       <td>フォーラム</td>
-      <td>2024年9月13日 (金) 23:59</td>
+      <td>2024年9月15日 (日) 23:59</td>
     </tr>
     <tr class="even">
       <td>シンポジウム<br />
