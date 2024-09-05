@@ -78,7 +78,7 @@ Please read the description of each session (links in the table below) and [Othe
     </tr>
     <tr class="odd">
       <td><a href = "regist_session/#application-for-forums">Forum</a></td>
-      <td><s>Friday, 13th Sep. 2024 23:59 (JST)</s></td>
+      <td><s>Friday, 15th Sep. 2024 23:59 (JST)</s></td>
     </tr>
     <tr class="even">
       <td><a href = "regist_session/#call-for-symposia">Symposium</a><br />

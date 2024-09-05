@@ -77,7 +77,7 @@ multi_language: true
     </tr>
     <tr class="odd">
       <td><a href = "regist_session_ja/#フォーラム">フォーラム</a></td>
-      <td><s>2024年9月13日 (金) 23:59</s></td>
+      <td><s>2024年9月15日 (日) 23:59</s></td>
     </tr>
     <tr class="even">
       <td><a href = "regist_session_ja/#シンポジウム">シンポジウム</a><br />
