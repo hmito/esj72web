@@ -61,8 +61,8 @@ multi_language: true
 </colgroup>
 <tbody>
 <tr>
-  <td>音響生態学 (公募セッション1)</td>
-  <td>シカ害問題 (公募セッション2)</td>
+  <td><a href="schedule_session_ja#公募セッション">音響生態学 (公募)</a></td>
+  <td><a href="schedule_session_ja#公募セッション">シカ害問題 (公募)</a></td>
   <td>行動</td>
   <td>植物生理生態</td>
 </tr>

@@ -51,7 +51,10 @@ You can apply for various types of presentations at the following page.
 - Please register your abstract (maximum 800 characters for Japanese, 400 words for English) from the conference application site by February 21, 2025.
 - Please also check [Other Notes](regist_information#other-notes) before submitting your abstract.
 
-<table border rules="none"> <colgroup> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> </colgroup> <tbody> <tr> <td>Acoustic Ecology (Open session 1)</td> <td>Deer-induced Problems (Open session 2)</td> <td>Behavior</td> <td>Plant physiology and ecology</td> </tr> <tr> <td>Biodiversity</td> <td>Evolution</td> <td>Animal populations</td> <td>Plant populations</td> </tr> <tr> <td>Introduced species</td> <td>Mathematics</td> <td>Animal life history</td> <td>Plant life history</td> </tr> <tr> <td>Conservation</td>
+<table border rules="none"> <colgroup> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> </colgroup> <tbody> <tr> 
+  <td><a href="schedule_session#open-session">Acoustic Ecology (Open session)</a></td>
+  <td><a href="schedule_session#open-session">Deer-induced Problems (Open session)</a></td>
+  <td>Behavior</td> <td>Plant physiology and ecology</td> </tr> <tr> <td>Biodiversity</td> <td>Evolution</td> <td>Animal populations</td> <td>Plant populations</td> </tr> <tr> <td>Introduced species</td> <td>Mathematics</td> <td>Animal life history</td> <td>Plant life history</td> </tr> <tr> <td>Conservation</td>
 <td>Landscape</td>
 <td>Animal reproduction</td>
 <td>Plant reproduction</td>

@@ -6,85 +6,101 @@ multi_language: true
 ---
 
 # Proposal for sessions
-* There are three types of sessions: [Symposia](#call-for-symposia), [Workshops](#call-for-workshops),and [Forums](#application-for-forums). Symposium category includes the general symposium as well as two special types: the [Open Session](opensession), where the theme is introduced as a new presentation field within the Ecological Society, and the [ER Symposium](er_symposium), which provides travel support for invited international researchers with free admission to the meeting.**These symposia are the central sessions of the meeting**. The ESJ has traditionally considered **workshops as important opportunities to discuss unconventional topics and launch new fields in Ecology**. Please understand the concept of these session (described below) and submit your proposal. We look forward to receiving enthusiastic proposals from researchers from various positions, genders, and nationalities.
+* There are three types of sessions: [Symposia](#call-for-symposia), [Workshops](#call-for-workshops),and [Forums](#application-for-forums).
+    - Symposium category includes the general symposium as well as two special types: the [Open Session](opensession), where the theme is introduced as a new presentation field within the Ecological Society, and the [ER Symposium](er_symposium), where travel grants and free admission to the conference are available for inviting international researchers.
+- Please refer to the table and explanation below for the concept of each sessions, presentation eligibility, and overlap restrictions with other sessions and general general presentations before submitting.
+- We look forward to receiving enthusiastic proposals from researchers from various positions, genders, and nationalities.
+
+| |Symposium|Workshop|Forum|
+|:----:|:-------------------:|:--------------------:|:---------------------:|
+|Concept|Main sessions|Free discussion bout various topics|Building consensus within the academic society on issues in the field|
+|Applicant|Open|Open|Applied by committees of ESJ|
+|Time|3 hours|1.5 hours|1.5 hours|
+|Online support<br>(on request)|On-demand streaming<br>Real-time streaming (partly)|On-demand streaming (partly)|On-demand streaming (partly)|
+|Priority|Top proiority|Lottery if too many applications|Top priority|
+|Presentations by non-ESJ members|**Encouraged**<br>Invited speakers are exempt from the registration fee|**Not allowed**<br>Comments and opinios without abstract submissions are allowed|**Allowed**|
+|General Presentations by organizers/speakers|Not allowed|Allowed|Allowed|
+|Presentations in other sessions by organizers/speakers|Not allowed|Not Allowed|Allowed|
+
+## Concept of sessions
+
+### Symposium
+
+Symposium is the main session of the conference, and we call members to submit proposals for organizing. Conference participants look forward to symposia with fresh themes that have never been presented before.
+
+- Duration of the session is 180 minutes.
+- In principle, speakers are required to present on-site.
+- If desired, presentations will be recorded and made available on-demand to conference participants during the meeting or for about a month after the conference. Real-time streaming will also be available if there is sufficient streaming capacity.
+- To promote international information dissemination and discussion at the symposium, we welcome the active participation of international researchers through online participation and non-members through the Invited Speaker System.
+- To promote exchange with other disciplines, non-members of the Ecological Society of Japan are welcome to give invited lectures. The conference registration fee for invited speakers will be waived. **Please note that the same non-member cannot be the invited speaker for two consecutive years**.
+
+### Workshop
+
+Workshop is the session traditionally emphasized by the Ecological Society of Japan as a place to help launch new fields and to allow free discussion of various topics outside the framework of ecology.
+
+- Duration of the session is 90 minutes.
+- In principle, speakers are required to present on-site.
+- If desired, presentations will be recorded and made available on-demand to conference participants during the meeting or for about a month after the conference. However, if a large number of applicants wish to give the on-demand streaming, the application will be adopted on a first-come, first-served basis.
+- It is also possible to hold the session without abstract submissions, such as statement of opinions or lightning talks. In this case, there is no need to register for abstract submissions.
+
+### Forum
+
+Forum is organized by the committees of the Ecological Society of Japan to solicit the opinions of a wide range of members on issues related to the management of the Ecological Society of Japan and ecology that the Society is working on, to promote information sharing among members, and to build consensus within the Society through wide-ranging discussions.
+
+- Duration of the session is 90 minutes.
+- Members (regular, student, and emeritus members, the same below) may attend the forum free of charge, regardless of whether or not they have applied to attend the conference. Members will be notified of the URL of Zoom, where the forum will be held, by e-mail prior to the meeting.
+- Non-member conference attendees (those who have paid the registration fee) may also participate in the forum.
+
+## Organization of Syposium and Workshop
+
+### On the occasion of organization
+
+- For all sessions, the organizers and speakers must be members of the Ecological Society of Japan. However, non-members may be invited to give invited lectures for symposia only ([see eligibility for each membership category](regist_information#presentation-eligibility-by-membership-type)).
+- The Organizer/speaker of a Symposium/Workshop cannot be a organizer/speaker of another session or a speaker of General Presentations. However, only the combination of Workshop and General presentation can be duplicated (see [overlap restrictions](regist_information#overlap-restrictions)).
+- Non-members are also welcome to present in the symposium, as explantion of aims, comments, and statement of opinions that do not involve abstract submission are not regarded as presentations and are not subject to the overlap restrictions.
+    - Please note that even if you are only making comments or statement of opinions without submitting an abstract, you are still required to register for the conference. Organizers, please be alert them.
+- If you apply to Symposium, it should consist of at least two speakers. If there is only one speaker, please apply to Workshop.
+- From the viewpoint of respecting diversity, organizers are requested to structure the sessions with consideration for the balance of positions and genders of organizers and speakers.
+- In addition to the overall explanation of aims and summary, abstracts of individual presentations will be posted on the conference web page and on the conference platform.
+- In view of the increasing number of international students and participants from overseas, we encourage Symposia to be held in English. Even if the meeting is held in Japanese, please make efforts to the extent possible by writing the slides in English and preparing a simple handout in English.
 
 
-|                                                                           |                              Symposium                              |                                    Workshop                                    |
-| ------------------------------------------------------------------------- | :-----------------------------------------------------------------: | :----------------------------------------------------------------------------: |
-| Concept                                                                   |                            Main meetings                            |                      Free discussion about various topics                      |
-| Time                                                                      |                               3 hours                               |                                   1.5 hours                                    |
-| Priority                                                                  |                            Top priority                             |                         Lottery if too many applicants                         |
-| Scheduling                                                                |               Time at which audiences  easily gather                |                           Held mainly in the evening                           |
-| Presentations by non-ESJ members                                          | **Encouraged**<br>Invited speakers are exempt from the registration fee | **Not allowed**<br>Comments and opinions with no abstract registration are allowed |
-| Presentations of oral or poster sessions by organizers and speakers       |                             Not allowed                             |                                    Allowed                                     |
-| Organization or presentation in other sessions by organizers and speakers |                             Not allowed                             |                                  Not allowed                                   |
-                                         
-## CALL FOR SYMPOSIA
-* The participants of the meetings usually prefer to join symposia on various subjects. Thus, they expect new topics not yet covered in recent ESJ symposia. To promote interdisciplinary exchange, it is possible to invite non-ESJ members to be symposium speakers (they will not have to pay the registration fee). Kindly be aware that the same non-member cannot be invited to give guest lectures for two consecutive years.  
-* Each symposium will be held for three hours. We are planning to hold the symposia in a hybrid style (i.e., onsite & online) but, in principle, speakers will give their presentations on-site. **Please note that the presentations in symposia will be recorded and distributed on-demand during ESJ72 meeting and for about a month afterward.** The recording permissions will be confirmed when the proposal is submitted. 
+### Procedures to be followd by organizers
 
-### Procedures for symposia organizers
-* The deadline for the submission of symposia and workshops proposals is **23:59 (JST), Thursday, 31 October 2024.**
-* The Annual Meeting Planning Committee will not be involved in the content of the symposia. However, symposium proposals that are judged to contain contents that slander or libel any individual or organization will be declined.
-* When submitting the proposal for symposia, organizers are requested to answer whether the entire meeting (including an explanation of the purpose and comments by the commentator) can be distributed on-demand and whether each presentation can be distributed on-demand.
-* Organizers will register all the presentations at once. **Before submitting the proposal, organizers should collect information on each presentation (title, names, and affiliations of speakers and co-presenters) in both Japanese and English, as well as the membership numbers of organizers, co-organizers, and speakers (login IDs for invited speakers).**
-* Please access the [registration site](regist_information/) and enter the symposium title, abstract (maximum 800 characters in Japanese, 200 words in English), and information for each presentation. Please note that the information of co-presenters will also be confirmed by this entry and cannot be changed at the time of the abstract submission.
+You can apply for the sessions at the following pages.
 
-### Procedures for symposia speakers
-* Except for non-ESJ member invited speakers, only members who have applied for membership in ESJ by Thursday, 31 October 2024 and have paid the annual membership fee by 21 February 2025 (regular and honorary members, hereinafter the same) are eligible to speak at the symposium.
-* All speakers (except invited speakers) are required to pay the meeting registration fee by the day of the meeting. We recommend that you pay the fee as early as possible to log in to the meeting platform smoothly.
-* **Each speaker is requested to provide the following information, in both Japanese and English, to the symposium organizer by the symposium proposal deadline (31 October 2024): title (maximum 40 characters in Japanese and 150 characters in English), name and affiliation of the speaker and co-presenters, and the speaker's membership number (login ID for invited speakers).** Please also let the organizer know whether you would like your presentation to be distributed on-demand.
-* Each speaker is required to register an abstract (maximum 800 words in Japanese, 200 words in English) on the meeting registration site by Friday, 21 February 2025.
+**[[Go to Application site]](https://iap-jp.org/esj/conf/login.php)**
 
-### [Limitations on submitting proposals](regist_information/##eligibility-for-presentations)
-* Organizers (including co-organizers, hereinafter the same) must be ESJ members (regular and honorary members, hereafter the same). Non-ESJ members are not eligible to be organizers.
-* It is not permitted to be an organizer or a speaker (main explainer of the talk, hereafter the same) of more than one symposium.
-* Symposia organizers/speakers cannot be organizers/speakers of workshops or presenters of general sessions (both oral and poster presentations).
-* Explanation of the purpose, comments, and expressions of opinions without abstract registration are not counted as presentations in the symposia. Therefore, these are not subject to the limitation of overlapping presentations mentioned above.
-* At least two speakers are required to apply for the organization of a symposium. If you have only one speaker, please apply for the organization of a workshop.
+- The deadline to apply for the Symposium and Workshop is Friday, October 31, 2024 at 23:59 (JST).
+- Organizers apply for proposal of sessions using the membership number registered on the conference application site. The membership number can also be found by using the member search function on [My Page](https://iap-jp.org/esj/mypage/login/login).
+    - **When the organizer submits an application, the co-organizers/speakers (main presenters, the same applies below) must be registered on the conference application site**. Co-organizers and speakers are requested to log in to the conference application site using their own membership number (login ID for non-member speakers) and register their applicant information (e-mail address, affiliation, etc.) as soon as possible.
+- Organizers will register all presentation together. Please collect the following informations before submitting.
+    - Title (both in Japanese and English, maximum 40 characters for Japanese/150 characters for English)
+	- Name and affiliation of speakers/co-presenters (both in Japanese and English)
+	- Membership number of speakers (login ID for invited speakers)
+- Please access the application site and enter the session title, session abstract (maximum 800 characters for Japanese, 400 words for English), and information on each presentation.
+	- Please do not register as speakers any explanation of aims, comments, or statement of opinions that does not involve abstract submission, and include the information in the session abstract.
+    - Organizers will also be asked to indicate whether or not you would like to stream the entire session (including the purpose statement and commentary by commentators) on demand, and whether or not you would like to stream each of the presentation on demand.
+- Organizers will be notified by email approximately three weeks after the deadline as to whether or not their proposal will be accepted. If the number of proposals significantly exceeds the number of previous years, a lottery will be held to determine acceptance or rejection.
+- The conference committee will not be involved in the content of the session, but those that are deemed to contain the contents that defames or slanders individuals or groups may not be adopted.
+- Please also read [Other Notes](regist_information#other-notes) before applying.
 
-### Use of English is encouraged
-* ESJ has seen an increase in the number of international students and participants from overseas attending its meetings. To further promote research exchange among participants, we encourage the use of English (including in combination with Japanese) in symposia.
-* For symposia held in Japanese, please try to include English on the slides and prepare a simple English handout, if possible (handouts and bilingual slides are also effective in encouraging non-English speakers to participate in English-language symposia).
+### Procedures to be followed by speakers
 
+- Only members of the Ecological Society of Japan are eligible to present at Symposia and Workshops, with the exception of invited symposium speakers.
+	- Non-members are requested to apply for membership by Friday, October 31, 2024 and pay the conference fee by Friday, February 21, 2025, by referring to [this page](regist_information#procedure-for-new-membership-to-the-ecological-society-of-japan).
+- When applying for the session, please provide the following information to the organizer. Please note that these informations cannot be changed after the deadline.
+	- Title (both in Japanese and English, maximum 40 characters for Japanese/150 characters for English)
+    - Name and affiliation of speakers/co-presenters (both in Japanese and English)
+	- Membership number of speakers (login ID for invited speakers)
+- Please submit your abstract (meximum 800 chacaters in Japanese or 400 words in English) through the conference application site by Friday, February 21, 2025. Also, please let the organizer know whether or not your presentation is available for on-demand streaming.
+- Please complete the [conference registration procedures](regist_information#resistrations) and pay the registration fee before the day of the conference (free of charge for invited speakers). We recommend paying as early as possible to ensure smooth log-in to the conference platform.
+- Please also see [Other Notes](regist_information#other-notes).
 
-## CALL FOR WORKSHOPS
-*  ESJ72 is calling for workshops. The ESJ has traditionally regarded workshops as valuable opportunities to explore unconventional topics and initiate new fields in ecology.
-* The workshops are planned to be around 90 minutes long. **We will confirm your preference for online or hybrid participation at the time of application.** If the event is held in a hybrid format, speakers will be expected to present on site. Presentations will be recorded and are expected to be available on-demand to conference participants either during the conference or for about a month afterward. We will confirm the recording permissions when the proposal is submitted.
+## Proposal of Forum
 
-### Procedures for organizers of workshops
-* The deadline for applications for workshops is **23:59 (JST), Thursday, 31 October 2024.**
-* **In terms of respecting diversity, organizers are requested to consider the speakers' positions, gender, etc. when choosing the speakers that will participate in a workshop.**
-* The Annual Meeting Planning Committee will not be involved in the contents of the workshop, but workshops that are judged to include content that defames specific persons or organizations will not be accepted.
-* When submitting the proposal, organizers are requested to answer whether the entire workshop (including an explanation of the purpose and comments by the commentator) can be distributed on-demand and whether each presentation can be distributed on-demand.
-* Organizers will register all the presentations at once. Before submitting the proposal, organizers should collect information on each presentation (title, names and affiliations of speakers and co-presenters) in both Japanese and English, as well as the membership numbers of organizers, co-organizers, and speakers (no need to enter the membership numbers for those who make comments and/or express opinions without abstract registration). Please access the registration site and enter the workshop title, abstract (maximum 800 characters in Japanese, 200 words in English), and information for each presentation. Please note that the information of co-presenters will also be confirmed by this entry and cannot be changed at the time of abstract submission.
-
-### Acceptance or rejection of a workshop
-* We are planning to secure enough Zoom accounts. However, if the number of proposals exceeds that of previous years, we will hold a lottery to decide whether to accept or reject the proposed workshop.
-* You will be notified by e-mail about three weeks after the deadline.
-
-### Procedures for workshop speakers
-* **Only members who have applied for membership in ESJ by Thursday, 31 October 2024 and have paid the annual membership fee by 21 February 2025 are eligible to speak at the workshop.** However, non-ESJ members can make comments and/or express opinions without registering an abstract.
-* All speakers are required to pay the meeting registration fee by the day of the meeting. We recommend that you pay the fee as early as possible to log in to the meeting platform smoothly.
-* Each speaker is requested to provide the following information, in both Japanese and English, to the workshop organizer by the workshop proposal deadline (31 October 2024): title (maximum 40 characters in Japanese and 150 characters in English), name and affiliation of the speaker and co-presenters, and the speaker's membership number (login ID for invited speakers). Please also let the organizer know whether you would like your presentation to be distributed on-demand. **Each speaker is required to register an abstract (maximum 800 characters in Japanese, 200 words in English) on the meeting registration site by Friday, 21 February 2025.** When registering your abstract, you will be asked to select about 5 keywords related to your presentation.
-
-### Concept and application limits for workshops
-* The ESJ has traditionally considered workshops as important opportunities to discuss unconventional topics and launch new fields in Ecology.
-* For the workshop, the explanation of the purpose, registered overview, and the abstracts of individual presentations will be posted on the meeting webpage and meeting platform.
-* [Organizers](regist_information/) (including co-organizers, hereafter the same) need to be ESJ members (regular and honorary members, hereafter the same). Non-ESJ members cannot become organizers.
-* [Speakers](regist_information/##eligibility-for-presentations) (main explainer of the talk, hereafter the same) need to be ESJ members. Non-ESJ members cannot become invited speakers. However, non-ESJ members can make comments and/or express opinions without registering an abstract.
-* Workshop speakers and organizers can be speakers at either oral or poster sessions.
-* Workshop speakers and organizers cannot be organizers or speakers of symposia and/or other workshops.
-
-### Notes
-* It is also possible to hold a workshop without abstract registration, such as an opinion session or lightning talk. In this case, you do not need to register for your presentation.
-* Explanation of the purpose of the workshop, comments, and expressions of opinions without abstract registration are not counted as presentations. Therefore, the information of the person who makes comments and opinions without abstract registration should not be registered as a speaker but should be included in the meeting abstract.
-* Those who will make comments and/or express opinions without registering for abstracts must also register for the meeting or purchase a ticket for workshops. Please remind the organizers.
-
-## APPLICATION FOR FORUMS
-Forums are organized by the committees of ESJ and are aimed at inviting broad opinions of ESJ members on ecology-related issues in which ESJ is engaged. The ESJ addresses, promotes, and shares information among ESJ members and develops agreement within ESJ via widespread discussion. Ecological Society of Japan members (regular and honorary members, hereafter the same) can attend forums for free regardless of registration for attendance. Organizing and providing topics for forums are exempted from the "one presentation rule." Tentative proposals for forums are due 13 September 2024. The proposals will be considered by the Board of Directors and the final decision will be made for each proposal after an adjustment between the Annual Meeting Planning Committee and the Organizing Committee of ESJ72. Organizers may be asked to revise the proposal or style of the forums. **For forums that have been accepted, organizers will be invited to apply for a full proposal via the online registration system. Each forum will be held for 90 minutes.**
-
-### Notes
-* Non-member meeting participants (those who pay the registration fee) can attend the forums.
-* Non-members who have workshop tickets cannot attend the forums.
-* Non-member speakers invited to the forums can attend forums for free. To attend other sessions (e.g., symposia, oral, and poster sessions), they are required to pay the registration fee.
+- Tentative proposals for Forum are due on Friday, September 13, 2024. Applications should be submitted by the representative of each committee.
+- Tentative proposals will be reviewed by the Board of Directors, and a final decision on whether or not to adopt the proposals will be made after coordination with the Annual Meeting Planning Committee and the Executive Committee. In the course of these discussions, it may be requested to revise the content or adjust the format of the event.
+- For those forums that have been adopted, please submit the full proposal through the conference application website.
+- Organization and presentation in Forums are not subject to the overlap restriction.
+- If non-member speakers are invited to the Forum, they may attend only that forum free of charge. Free participation in other programs, such as Symposia and General Presentation, is not allowed, and if they wish to attend, they must pay the conference registration fee.

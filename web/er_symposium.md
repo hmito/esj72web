@@ -7,6 +7,8 @@ multi_language: true
 
 # ER Symposium
 
+[\<Check the selected ER-Symposium\>](schedule_session#er-symposia)
+
 ESJ72 features a system called "ER Symposium," where outstanding overseas researchers are invited to give presentations and contribute to the journal Ecological Research (ER).
 
 The symposium committee, responsible for the selection process, will choose one of the overseas researchers speaking at an ER Symposium to be the ER Invited Speaker. This esteemed role comes with a waived conference participation fee, travel expenses (subject to regulations, see Note 2), and the opportunity to submit a review or feature paper related to the symposium content to Ecological Research after the conference. If the submitted paper is accepted, it will be published as open access at the society's expense.

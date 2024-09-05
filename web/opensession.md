@@ -7,6 +7,8 @@ multi_language: true
 
 # Open Session
 
+[\<Check the selected Open Session\>](schedule_session#open-session)
+
 Following the previous meeting, ESJ72 will feature symposia (open sessions) that involve the addition of new presentation categories. We invite symposium conveners to propose "themes." If selected, these themes will be used to organize symposia, and the proposed "themes" will be added as new categories for general presentations.
 
 Applicants for oral presentations, poster presentations, and workshops can select these new categories as their preferred presentation fields (excluding symposia). Presentations accepted in these categories will be scheduled consecutively with the open session or given priority for poster displays near the session venue.
