@@ -29,9 +29,8 @@ multi_language: true
 
 Symposium is the main session of the conference, and we call members to submit proposals for organizing. Conference participants look forward to symposia with fresh themes that have never been presented before.
 
-- Duration of the session is 180 minutes.
-- In principle, speakers are required to present on-site.
-- If desired, presentations will be recorded and made available on-demand to conference participants during the meeting or for about a month after the conference.
+- Duration of the session is 180 minutes. Speakers are required to present on-site.
+- In principle, all presentations will be recorded and made available on-demand to conference participants during the meeting or for about a month after the conference.
 - To promote international information dissemination and discussion at the symposium, we welcome the active participation of international researchers through online participation and non-members through the Invited Speaker System.
 - To promote exchange with other disciplines, non-members of the Ecological Society of Japan are welcome to give invited lectures. The conference registration fee for invited speakers will be waived. **Please note that the same non-member cannot be the invited speaker for two consecutive years**.
 
@@ -39,8 +38,7 @@ Symposium is the main session of the conference, and we call members to submit p
 
 Workshop is the session traditionally emphasized by the Ecological Society of Japan as a place to help launch new fields and to allow free discussion of various topics outside the framework of ecology.
 
-- Duration of the session is 90 minutes.
-- In principle, speakers are required to present on-site.
+- Duration of the session is 90 minutes. Speakers are required to present on-site.
 - If desired, presentations will be recorded and made available on-demand to conference participants during the meeting or for about a month after the conference. However, if a large number of applicants wish to give the on-demand streaming, the application will be adopted on a first-come, first-served basis.
 - It is also possible to hold the session without abstract submissions, such as statement of opinions or lightning talks. In this case, there is no need to register for abstract submissions.
 
@@ -48,7 +46,7 @@ Workshop is the session traditionally emphasized by the Ecological Society of Ja
 
 Forum is organized by the committees of the Ecological Society of Japan to solicit the opinions of a wide range of members on issues related to the management of the Ecological Society of Japan and ecology that the Society is working on, to promote information sharing among members, and to build consensus within the Society through wide-ranging discussions.
 
-- Duration of the session is 90 minutes.
+- Duration of the session is 90 minutes. Speakers are required to present on-site.
 - Members (regular, student, and emeritus members, the same below) may attend the forum free of charge, regardless of whether or not they have applied to attend the conference. Members will be notified of the URL of Zoom, where the forum will be held, by e-mail prior to the meeting.
 - Non-member conference attendees (those who have paid the registration fee) may also participate in the forum.
 
