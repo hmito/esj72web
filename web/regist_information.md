@@ -37,7 +37,7 @@ We are currently accepting applications for open sessions and the ER Symposium. 
     </tr>
     <tr class="odd">
       <td>Forum</td>
-      <td>13th Sep. 2024 23:59 JST</td>
+      <td>15th Sep. 2024 23:59 JST</td>
     </tr>
     <tr class="even">
       <td>Symposium<br />
