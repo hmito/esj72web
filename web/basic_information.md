@@ -27,7 +27,7 @@ The status of support for online participation is as follows. Note that question
 |---|:---:|:---:|
 |Award Lectures, ER Symposia, Open Session|O|O|
 |General meeeting|O|O|
-|Symposia|P|P||
+|Symposia|X|O|
 |Workshops, Forums|X|P|
 |Oral presentations, English oral presentations|X|X|
 |Public lectures|X|X|
@@ -95,9 +95,9 @@ X : Unavailable
 <td colspan=2>Symposia</td>
 <td></td>
 <td></td>
-<td>O partly Live</td>
-<td>O partly Live</td>
-<td>O partly Live</td>
+<td>O O/D</td>
+<td>O O/D</td>
+<td>O O/D</td>
 </tr>
 <tr class="odd">
 <td colspan=2>Workshops, Forums</td>

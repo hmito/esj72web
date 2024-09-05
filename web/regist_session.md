@@ -16,7 +16,8 @@ multi_language: true
 |Concept|Main sessions|Free discussion bout various topics|Building consensus within the academic society on issues in the field|
 |Applicant|Open|Open|Applied by committees of ESJ|
 |Time|3 hours|1.5 hours|1.5 hours|
-|Online support<br>(on request)|On-demand streaming<br>Real-time streaming (partly)|On-demand streaming (partly)|On-demand streaming (partly)|
+|Format| On-site|On-site|On-site|
+|Online support<br>(on request)|On-demand streaming|On-demand streaming (partly)|On-demand streaming (partly)|
 |Priority|Top proiority|Lottery if too many applications|Top priority|
 |Presentations by non-ESJ members|**Encouraged**<br>Invited speakers are exempt from the registration fee|**Not allowed**<br>Comments and opinios without abstract submissions are allowed|**Allowed**|
 |General Presentations by organizers/speakers|Not allowed|Allowed|Allowed|
@@ -30,7 +31,7 @@ Symposium is the main session of the conference, and we call members to submit p
 
 - Duration of the session is 180 minutes.
 - In principle, speakers are required to present on-site.
-- If desired, presentations will be recorded and made available on-demand to conference participants during the meeting or for about a month after the conference. Real-time streaming will also be available if there is sufficient streaming capacity.
+- If desired, presentations will be recorded and made available on-demand to conference participants during the meeting or for about a month after the conference.
 - To promote international information dissemination and discussion at the symposium, we welcome the active participation of international researchers through online participation and non-members through the Invited Speaker System.
 - To promote exchange with other disciplines, non-members of the Ecological Society of Japan are welcome to give invited lectures. The conference registration fee for invited speakers will be waived. **Please note that the same non-member cannot be the invited speaker for two consecutive years**.
 
