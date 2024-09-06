@@ -65,21 +65,21 @@ X : Unavailable
 <td></td>
 <td></td>
 <td></td>
-<td>O Live</td>
+<td>☆</td>
 </tr>
 <tr class="odd">
 <td colspan=2>Award celemony and lecture</td>
 <td></td>
 <td></td>
-<td>O Live</td>
-<td>O Live</td>
-<td>O Live</td>
+<td>☆</td>
+<td>☆</td>
+<td>☆</td>
 </tr>
 <tr class="even">
 <td colspan=2>Open session</td>
 <td></td>
 <td></td>
-<td>O Live</td>
+<td>☆</td>
 <td></td>
 <td></td>
 </tr>
@@ -88,37 +88,37 @@ X : Unavailable
 <td></td>
 <td></td>
 <td></td>
-<td>O Live</td>
-<td>O Live</td>
+<td>☆</td>
+<td>☆</td>
 </tr>
 <tr class="even">
 <td colspan=2>Symposia</td>
 <td></td>
 <td></td>
-<td>O O/D</td>
-<td>O O/D</td>
-<td>O O/D</td>
+<td>◎</td>
+<td>◎</td>
+<td>◎</td>
 </tr>
 <tr class="odd">
 <td colspan=2>Workshops, Forums</td>
 <td></td>
-<td>O partly O/D</td>
-<td>O partly O/D</td>
-<td>O partly O/D</td>
-<td>O partly O/D</td>
+<td>◎ or 〇</td>
+<td>◎ or 〇</td>
+<td>◎ or 〇</td>
+<td>◎ or 〇</td>
 </tr>
 <tr class="even">
 <td colspan=2>Oral session</td>
 <td></td>
-<td>O</td>
-<td>O</td>
-<td>O</td>
-<td>O</td>
+<td>〇</td>
+<td>〇</td>
+<td>〇</td>
+<td>〇</td>
 </tr>
 <tr class="odd">
 <td rowspan=2>Poster session</td>
 <td>online</td>
-<td>O Conf</td>
+<td>△</td>
 <td colspan=4>* Can be viewed and commented on ONLINE CONF during the meeting.</td>
 <td></td>
 <td></td>
@@ -127,22 +127,22 @@ X : Unavailable
 <tr class="odd">
 <td>Onsite</td>
 <td></td>
-<td>O</td>
-<td>O</td>
-<td>O</td>
+<td>〇</td>
+<td>〇</td>
+<td>〇</td>
 <td></td>
 </tr>
 <tr class="even">
 <td rowspan=2>High school student poster</td>
 <td>Online</td>
-<td>O Conf</td>
+<td>△</td>
 <td colspan=4>* Can be viewed and commented on ONLINE CONF during the meeting.</td>
 </tr>
 <tr class="even">
 <td>Onsite</td>
 <td></td>
 <td></td>
-<td>O</td>
+<td>〇</td>
 <td></td>
 <td></td>
 </tr>
@@ -150,14 +150,14 @@ X : Unavailable
 <td colspan=2>Ecology course for high school students</td>
 <td></td>
 <td></td>
-<td>O</td>
+<td>〇</td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td colspan=2>Public lecture</td>
 <td></td>
-<td>O</td>
+<td>〇</td>
 <td></td>
 <td></td>
 <td></td>
@@ -165,11 +165,10 @@ X : Unavailable
 </tbody>
 </table>
 
-
-O：Implementation date<br/>
-Live: real-time streaming + on-demand streaming<br/>
-O/D: on-demand streaming only<br/>
-Conf: ONLINE CONF<br/>
+☆: onsite + real-time streaming + on-demand streaming<br/>
+◎: onsite + on-demand streaming<br/>
+〇: onsite only<br/>
+△: ONLINE CONF<br/>
 
 <!-- [Phase 3] #参加者の交流の促進
 ※ 大会公式イベントとしての懇親会は開催しませんが、会場内に簡単な懇親用スペースを設ける予定です。なお、飲食物についてはご持参ください。

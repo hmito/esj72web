@@ -38,7 +38,9 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 ×：非対応
 
 ## スケジュール
+
 [TODO:実行委員会からの確定情報待ち]
+
 <table>
 <colgroup>
 <col style="width: 16%" />
@@ -66,21 +68,21 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 <td></td>
 <td></td>
 <td></td>
-<td>O Live</td>
+<td>☆</td>
 </tr>
 <tr class="odd">
 <td colspan=2>授賞式・受賞講演</td>
 <td></td>
 <td></td>
-<td>O Live</td>
-<td>O Live</td>
-<td>O Live</td>
+<td>☆</td>
+<td>☆</td>
+<td>☆</td>
 </tr>
 <tr class="even">
 <td colspan=2>公募セッション</td>
 <td></td>
 <td></td>
-<td>O Live</td>
+<td>☆</td>
 <td></td>
 <td></td>
 </tr>
@@ -89,37 +91,37 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 <td></td>
 <td></td>
 <td></td>
-<td>O Live</td>
-<td>O Live</td>
+<td>☆</td>
+<td>☆</td>
 </tr>
 <tr class="even">
 <td colspan=2>シンポジウム</td>
 <td></td>
 <td></td>
-<td>O O/D</td>
-<td>O O/D</td>
-<td>O O/D</td>
+<td>◎</td>
+<td>◎</td>
+<td>◎</td>
 </tr>
 <tr class="odd">
 <td colspan=2>自由集会･フォーラム</td>
 <td></td>
-<td>O 一部O/D</td>
-<td>O 一部O/D</td>
-<td>O 一部O/D</td>
-<td>O 一部O/D</td>
+<td>◎ or 〇</td>
+<td>◎ or 〇</td>
+<td>◎ or 〇</td>
+<td>◎ or 〇</td>
 </tr>
 <tr class="even">
 <td colspan=2>口頭発表･英語口頭発表</td>
 <td></td>
-<td>O</td>
-<td>O</td>
-<td>O</td>
-<td>O</td>
+<td>〇</td>
+<td>〇</td>
+<td>〇</td>
+<td>〇</td>
 </tr>
 <tr class="odd">
 <td rowspan=2>ポスター発表</td>
 <td>オンライン</td>
-<td>O Conf</td>
+<td>△</td>
 <td colspan=4>※大会終了までONLINE CONF上で閲覧・コメント可能</td>
 <td></td>
 <td></td>
@@ -128,22 +130,22 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 <tr class="odd">
 <td>オンサイト</td>
 <td></td>
-<td>O</td>
-<td>O</td>
-<td>O</td>
+<td>〇</td>
+<td>〇</td>
+<td>〇</td>
 <td></td>
 </tr>
 <tr class="even">
 <td rowspan=2>高校生ポスター</td>
 <td>オンライン</td>
-<td>O Conf</td>
+<td>△</td>
 <td colspan=4>※大会終了までONLINE CONF上で閲覧・コメント可能</td>
 </tr>
 <tr class="even">
 <td>オンサイト</td>
 <td></td>
 <td></td>
-<td>O</td>
+<td>〇</td>
 <td></td>
 <td></td>
 </tr>
@@ -151,14 +153,14 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 <td colspan=2>ジュニア生態学講座</td>
 <td></td>
 <td></td>
-<td>O</td>
+<td>〇</td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td colspan=2>公開講演会</td>
 <td></td>
-<td>O</td>
+<td>〇</td>
 <td></td>
 <td></td>
 <td></td>
@@ -166,11 +168,12 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 </tbody>
 </table>
 
+☆：対面＋リアルタイム配信＋オンデマンド配信<br/>
+◎：対面＋オンデマンド配信<br/>
+〇：対面のみ<br/>
+△：ONLINE CONF<br/>
 
-○：実施日<br/>
-Live: リアルタイム配信＋オンデマンド配信<br/>
-O/D: オンデマンド配信のみ<br/>
-Conf: ONLINE CONFにて掲載<br/>
+
 
 <!-- [Phase 3] #参加者の交流の促進
 ※ 大会公式イベントとしての懇親会は開催しませんが、会場内に簡単な懇親用スペースを設ける予定です。なお、飲食物についてはご持参ください。
