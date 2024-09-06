@@ -9,7 +9,7 @@ multi_language: true
 
 ## Deadline and conference program
 
-### Can you extend the deadline? The deadline has expired for: applying for membership to conduct a session or presentation; applying for a session or a presentation; submitting an abstract
+### Can you extend the deadline? The deadline has passed for: applying for membership to conduct a session or presentation; applying for a session or a presentation; submitting an abstract
 
 We cannot extend the deadlines for any reason.
 
@@ -25,9 +25,9 @@ We cannot accept any requests to change the conference program. For more details
 
 ### Can non-members participate or give a presentation?
 
-Upon paying the registration fee, non-members can join the audience. Please confirm the qualifications for entry for other roles (e.g., presenter or organizer) in the [Eligibility for Registration](regist_information#presentation-eligibility-by-membership-type).
+Upon paying the registration fee, non-members can join the audience. Non-members can be co-authors of presentations. 
 
-About the presentation, except for invited speakers to the Symposia or the Forum, non-members cannot be either organizers or speakers. However, non-members can be co-authors of presentations.
+About the presentation, except for invited speakers to the Symposia or the Forum, non-members cannot be either organizers or speakers. Please confirm the qualifications for entry for other roles (e.g., presenter or organizer) in the [Eligibility for Registration](regist_information#presentation-eligibility-by-membership-type).
 
 ### Are the workshop presenters required to apply for entry and pay the registration fee?
 
@@ -35,7 +35,7 @@ Because the workshops are formalized events, presenters who only attend the work
 
 ### Are audience members who only attend the workshops required to apply for entry and pay the registration fee?
 
-Participants who attend only the workshops are also required to register for the conference and pay the registration fee. Since in ESJ72 online contents seems to be exteremely limited, the workshop-only-participation fee is no longer offered. We apologize for the inconvenience, but we kindly ask you to participate in the convention as a regular participant.
+Participants who attend only the workshops are also required to register for the conference and pay the registration fee. Since in ESJ72 online contents seems to be exteremely limited, [the workshop-only-participation fee is no longer offered](regist_information#Abolition-of-Quota-for-Participation-in-Workshops-Only). We apologize for the inconvenience, but we kindly ask you to participate in the convention as a regular participant.
 
 ### Can non-members attend the public lectures?
 
@@ -79,7 +79,7 @@ Please contact the [inquiry form](contact). You can cancel your registration fre
 
 Please don't apply for symposium and oral/poster presentation together. In case your proposal is not accepted, alternative measures such as transferring for the workshop or oral/poster presentation will be provided.
 
-## abstracts
+## Abstracts
 
 ### Will abstracts be peer-reviewed?
 
