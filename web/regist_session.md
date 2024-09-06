@@ -16,8 +16,8 @@ multi_language: true
 |Concept|Main sessions|Free discussion bout various topics|Building consensus within the academic society on issues in the field|
 |Applicant|Open|Open|Applied by committees of ESJ|
 |Time|3 hours|1.5 hours|1.5 hours|
-|Format| On-site|On-site|On-site|
-|Online support<br>(on request)|On-demand streaming|On-demand streaming (partly)|On-demand streaming (partly)|
+|Presenter| On-site|On-site|On-site|
+|Online support|On-demand streaming|On-demand streaming (partly)|On-demand streaming (partly)|
 |Priority|Top proiority|Lottery if too many applications|Top priority|
 |Presentations by non-ESJ members|**Encouraged**<br>Invited speakers are exempt from the registration fee|**Not allowed**<br>Comments and opinios without abstract submissions are allowed|**Allowed**|
 |General Presentations by organizers/speakers|Not allowed|Allowed|Allowed|
@@ -39,15 +39,15 @@ Symposium is the main session of the conference, and we call members to submit p
 Workshop is the session traditionally emphasized by the Ecological Society of Japan as a place to help launch new fields and to allow free discussion of various topics outside the framework of ecology.
 
 - Duration of the session is 90 minutes. Speakers are required to present on-site.
-- If desired, presentations will be recorded and made available on-demand to conference participants during the meeting or for about a month after the conference. However, if a large number of applicants wish to give the on-demand streaming, the application will be adopted on a first-come, first-served basis.
+- If requested, the presentations will be recorded and streamed on-demand to conference participants during the congress or for about a month after the congress. However, in the case of a large number of requests for streaming, on-demand streaming may be selected in principle on a first-come, first-served basis.
 - It is also possible to hold the session without abstract submissions, such as statement of opinions or lightning talks. In this case, there is no need to register for abstract submissions.
 
 ### Forum
 
-Forum is organized by the committees of the Ecological Society of Japan to solicit the opinions of a wide range of members on issues related to the management of the Ecological Society of Japan and ecology that the Society is working on, to promote information sharing among members, and to build consensus within the Society through wide-ranging discussions.
+Forum is organized by the committees of the Ecoloｓｓgical Society of Japan to solicit the opinions of a wide range of members on issues related to the management of the Ecological Society of Japan and ecology that the Society is working on, to promote information sharing among members, and to build consensus within the Society through wide-ranging discussions.
 
 - Duration of the session is 90 minutes. Speakers are required to present on-site.
-- Members (regular, student, and emeritus members, the same below) may attend the forum free of charge, regardless of whether or not they have applied to attend the conference. Members will be notified of the URL of Zoom, where the forum will be held, by e-mail prior to the meeting.
+- If requested, the presentations will be recorded and streamed on-demand to conference participants during the congress or for about a month after the congress. However, in the case of a large number of requests for streaming, on-demand streaming may be selected in principle on a first-come, first-served basis.
 - Non-member conference attendees (those who have paid the registration fee) may also participate in the forum.
 
 ## Organization of Syposium and Workshop

@@ -48,16 +48,16 @@ multi_language: true
 <td>90分</td>
 </tr>
 <tr class="even">
-<td>開催形式</td>
+<td>演者の発表</td>
 <td>オンサイト</td>
 <td>オンサイト</td>
 <td>オンサイト</td>
 </tr>
 <tr class="odd">
 <td>オンライン対応</td>
-<td>全件オンデマンド配信可</td>
-<td>一部オンデマンド配信可</td>
-<td>一部オンデマンド配信可</td>
+<td>全件オンデマンド配信</td>
+<td>一部オンデマンド配信</td>
+<td>一部オンデマンド配信</td>
 </tr>
 <tr class="even">
 <td>開催の優先度</td>
