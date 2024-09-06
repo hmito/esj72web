@@ -1,95 +1,182 @@
 ---
-url: https://esj-meeting.net/regist_information_ja/
+url: https://esj-meeting.net/regist_information/
 menu: Registration > Registlation and Proposal
 toc: false
 multi_language: true
 ---
 
-# Registrations and Proposals
+# Outline of Resistrations and Proposals
 
-We are currently accepting applications for open sessions and the ER Symposium. For details, please visit the following pages:
+We are currently accepting applications for [General Presentations](regist_oral_poster), [Symposia](regist_session\#call-for-symposia), and [Workshops](regist_session\#call-for-workshops). Please check the details and register the application site below.
 
-- [Open Sessions](opensession)
-- [ER Symposium](er_symposium)
+**[[Go to the Applications site]](https://iap-jp.org/esj/conf/login.php)**
 
-## Deadlines for Presentations and Proposals
+Important deadlines are as follows.
+
+||**Thursday, 31st Oct. 2024 <br/>23:59 (JST)**|**Friday, 21st Feb. 2024 <br/>23:59 (JST)**|**On-site**|
+|---|---|---|---|
+|[**Procedures to participate in the conference**](#resistrations)||Early bird<br/>　Regular：17000 JPY<br/>　Student：8500 JPY|Normal<br/>　Regular：19000 JPY<br/>　Student：9500 JPY|
+|[**Procedures for Presentations**](#applications)|Deadline for Proposals|Abstract Submission Deadline||
+|[**Non-members joining the Ecological Society of Japan for presentations**](#procedure-for-new-membership-to-the-ecological-society-of-japan)|Deadline for new members to join the Ecological Society of Japan|Deadline for payment of membership fee for 2025||
+
+- Invited speakers at symposia and forums, and undergraduate or below who is not organizer and speaker may participate free of charge.
+- Due to system transition, registrations will not be available from December 1, 2024 to January 5, 2025.
+- Members who have not paid the membership fee from 2023 will [not be able to complete the registration and application procedures](#if-you-have-not-paid-the-membership-fee-from-2023-you-will-not-be-able-to-complete-the-various-procedures) until payment is confirmed. Please pay the membership fee, at least, one week before the deadline.
+  - You can check the payment status of the membership fee from [My Page](https://iap-jp.org/esj/mypage/login/login).
+
+
+<img src="../media/regist_flowchart_en.png" usemap="#ImageMap" alt="registration_flow"/>
+
+## Resistrations
+You can register for the conference at the below link.
+
+**[[Go to the Application site]](https://iap-jp.org/esj/conf/login.php)**
+
+||Early bird<br/>until 21st Feb.|Normal<br/>after 22nd Feb.|
+|---|---|---|
+|**Regular**|17000 JPY|19000 JPY|
+|**Student**|8500 JPY|9500 JPY|
+|**Invited speaker <br/>undergraduate or below without presentation**|Free|Free|
+
+- The system used for the registration and payment procedures differs depending on the period.
+  - The application site will be used until November 30, 2024, and the conference platform (ONLINE CONF) will be used after January 6, 2025.
+  - Due to system transition, registrations will not be available from December 1, 2024 to January 5, 2025.
+  - It is no problem to make registration and payment at different periods and in different systems.
+- Please complete the registration and payment procedures as far as possible before the day of the conference.
+  - You will not be able to view or upload posters without paying the registration fee.
+- No applications will be accepted after the deadline. No corrections will be made for typing errors or garbled text. Please note that no corrections will be made by errata.
+- Non-members are welcome to attend the conference as audience members if they pay the registration fee.
+  - The registration fee is “free” for university undergraduates and below (including junior high and high school students) as audience members, who can register on the conference platform after January 6, 2025.
+- Please also read [Other Notes](#other-notes) when registering.
+
+## Proposals
+You can apply for General Presentaions, Symposia, and Workshops at the below link.
+Please read the description of each session (links in the table below) and [Other Notes](#other-notes) before applications.
+
+**[[Go to Application site]](https://iap-jp.org/esj/conf/login.php)**
 
 <table>
   <colgroup>
-    <col style="width: 30%" />
-    <col style="width: 35%" />
-    <col style="width: 35%" />
+    <col style="width: 20%" />
+    <col style="width: 40%" />
+    <col style="width: 40%" />
   </colgroup>
   <thead><tr class="header">
-    <th>Presentation Type</th>
+    <th>Session type</th>
     <th><strong>Application Deadline</strong></th>
-    <th><strong> Abstract Submission Deadline </strong></th>
+    <th><strong>Abstract Submission Deadline</strong></th>
     </tr></thead>
   <tbody>
     <tr class="odd">
       <td><a href = "opensession">Open Session</a></td>
-      <td>31st Jul. 2024 23:59 JST</td>
-      <td rowspan=7>21st Feb. 2025 23:59 JST</td>
+      <td><s>Wednesday, 31st Jul. 2024 23:59 (JST)</s></td>
+      <td rowspan=7>Friday, 21st Feb. 2025 23:59 (JST)</td>
     </tr>
     <tr class="even">
       <td><a href = "er_symposium">ER Symposium</a></td>
-      <td>30th Aug. 2024 23:59 JST</td>
+      <td><s>Friday, 30th Aug. 2024 23:59 (JST)</s></td>
     </tr>
     <tr class="odd">
-      <td>Forum</td>
-      <td>15th Sep. 2024 23:59 JST</td>
+      <td><a href = "regist_session/#application-for-forums">Forum</a></td>
+      <td><s>Friday, 15th Sep. 2024 23:59 (JST)</s></td>
     </tr>
     <tr class="even">
-      <td>Symposium<br />
-      <td rowspan=4> 31st Oct. 2024 23:59 JST</td>
+      <td><a href = "regist_session/#call-for-symposia">Symposium</a><br />
+      <td rowspan=4>Thursday, 31st Oct. 2024 23:59 (JST)</td>
     </tr>
     <tr class="odd">
-      <td>Workshop</td>
+      <td><a href = "regist_session/#call-for-workshops">Workshop</a></td>
     </tr>
     <tr class="even">
-     <td>General Presentation<br />
-    </tr>
-    <tr class="odd">
-      <td>High School Student Poster Session</td>
+     <td><a href = "regist_oral_poster">General Presentation</a><br />
     </tr>
   </tbody>
 </table>
 
-## Eligibility for Presentations
-
-### Presentation Eligibility by Membership Type
-Presentations at the conference are generally limited to members (regular and honorary members). Non-members are eligible in the following two cases:
-
-1. When to speak as an invited speaker in symposium
-2. When participating as a commentator or opinion presenter in symposium/workshop without abstract submission.
-3. When give a presentation in High School Student Poster Session.
-
-| **Presentation Type**                              | **Member \*1** | **Non-Member** |
-|----------------------------------------------------|:--------------:|:--------------:|
-| General Presentation (Oral or Poster) \*2            | ◯            |                |
-| Symposium/Workshop Organizer                | ◯            |                |
-| Symposium Presenter \*2                           | ◯            | ◯ \*3         |
-| Workshop Presenter \*2                       | ◯            |                |
-| Commentator/Opinion in Symposium/Workshop    | ◯            | ◯              |
-
-\*1 Refers to regular members (general and student) and honorary members of the Ecological Society of Japan. Associate members are not included.  
-\*2 Refers to the primary presenter (speaker). Co-presenters do not need to be members.  
-\*3 Limited to invited speakers.
+- We are unable to respond to inquiries from 17:00 to the next day 10:00 (JST) on each deadline. Please check various procedures as soon as possible.
+- For all deadlines, we will not be able to respond to requests for additions, corrections, etc. after the deadline.
+- Please also read [Other Notes](#other-notes) when applying.
 
 ### Overlap Restrictions
 There are restrictions on overlapping presentations at the conference:
 
 - Symposium organizers and presenters cannot be organizers or presenters in other symposium, workshop, or general presentations.
-  - However, providing context or serving as a commentator/opinion presenter without abstract submission is not subject to overlap restrictions.
+  - However, explanations of aim, comments, or statement of opinions without abstract submission is not subject to overlap restrictions.
 - Workshop organizers and presenters can also be general presentation speakers.
 - Forum organizers and topic providers are not subject to overlap presentation restrictions.
 
-||Symposium|Workshop|General Presentation|Forum|
+||Symposium|Workshop|Genral Presentation|Forum|
 |:---:|:---:|:---:|:---:|:---:|
 |Symposium|×|×|×|〇|
 |Workshop|×|×|〇|〇|
-|General Presentation|×|〇|×|〇|
+|Genral Presentation|×|〇|×|〇|
 |Forum|〇|〇|〇|〇|
 
-If you are already an organizer or a speaker of the respective category, you cannot become an organizer or a speaker of a lecture of the category marked with an "×".
+※ If you are already an organizer or a speaker of the respective category, you cannot become an organizer or a speaker of a lecture of the category marked with an "×".
 
+### Presentation Eligibility by Membership Type
+Presentations at the conference are generally limited to members (regular and emeritus members). Non-members are eligible in the following two cases:
+
+- When to speak as an invited speaker in symposium
+- When participating as a commentator or opinion presenter in symposium/workshop without abstract submission.
+
+| **Session type**                                      | **Member ※1** | **Non-member** |
+|---------------------------------------------------|:-------------:|:------------:|
+| General Presentaion (Oral or Poster) ※2             | ◯           |            |
+| Symposium/Workshop organizer                 | ◯           |            |
+| Symposium presenter ※2                           | ◯           | ◯ ※3      |
+| Workshop presenter ※2                               | ◯           |            |
+| Commentator/Opinion in Symposium/Workshop| ◯           | ◯          |
+
+※1　Refers to regular members (general and student) and emeritus members of the Ecological Society of Japan. Associate members are not included.  
+※2　Refers to the primary presenter (speaker). Co-presenters do not need to be members.  
+※3　Limited to invited speakers.
+
+## Procedure for new membership to the Ecological Society of Japan
+
+Non-members are not eligible to present with [some exceptions](#presentation-eligibility-by-membership-type). Non-members who do not fall under any of the exceptions must **apply for membership in the Ecological Society of Japan prior to submitting registration and proposal**. The admission procedure may take some time, so please complete the procedure well in advance.
+
+**[[Go to the ESJ membership procedure site]](https://www.esj.ne.jp/esj/English/join.html)**
+
+1. Please follow the above link to complete the new membership procedure.
+2. Upon confirmation of your application for membership, the Member Service Desk will notify you of your temporary membership number.
+3. Please use your temporary membership number to register for the conference and presentation.
+
+## Other Notes
+
+### If you have not paid the membership fee from 2023, you will not be able to complete the various procedures.
+
+If you have not paid the membership fee from 2023, you will not be able to apply to speak at the 2025 conference until we can confirm payment of your 2023 membership fee. As you will not be able to submit your presentation until your payment is confirmed and your status is updated, please pay the membership fee, at least, one week before the deadline.
+
+To check the status of your membership fee payment, please visit [My Page](https://iap-jp.org/esj/mypage/login/login).
+
+### Abolition of Quota for Participation in Workshops Only
+
+In the past, the ESJ conference has included a “Workshop Only Attendance” category in the registration process. However, taking into acount the fact that the Workshop requires significant operating expenses and that only a few people have applied for this category in the past few years, the Board of Directors has decided to abolish the “Workshop Only Attendance” category for the ESJ72. Therefore, it has led to the possibility that there may be little or no online content available for online-only attendees.
+
+As a result of discussions based on the above, the ESJ72 has decided to abolish the “Workshop Only” participation framework itself. We apologize for the inconvenience, but we ask that those who wish to attend only Workshops also follow the regular procedures to participate in the conference.
+
+### Participation Certificates/Receipts
+
+Participation certificates and receipts will be issued from the conference platform ONLINE CONF, not from the application site. Please note that printed copies will not be sent out and will be available for downloading after January 6, when ONLINE CONF will be opened. Please note that the amount shown on the receipt is non-taxable for members (both general and student) and taxable for non-members.
+
+The Ecological Society of Japan is **not registered** as a Qualified Invoicing Business and cannot issue invoices.
+
+If you wish to pay the registration fee publicly (e.g., by invoice payment), please apply for registration first. Next, please select “Postal Transfer” as the payment method, complete the application, and then contact us via the inquiry page. We ask that payment be made in advance.
+
+### Abolition of Errata
+
+The conference does not accept revisions based on errata after the presentation application or proposal has been submitted. Please make sure that there are no errors in the content when submitting your abstract. Students who have little experience in participating in academic meetings are especially encouraged to discuss the title and presenter information thoroughly with their academic advisors before submitting their abstracts.
+
+### Cancellation Policy
+
+If a cancellation request is received before the refund deadline for each event (February 21, 2025 for this year's event), a refund will be made, excluding bank transfer fees and other expenses. In principle, no refunds will be made after the refund deadline has passed.
+
+### Handling of research achievements when presentations cannot be given at ESJ72
+
+Speakers who have registered their abstracts and paid the registration fee by the deadline will have their presentation information and abstracts recognized as achievements by the society on the web page where the abstracts are published, even if they were unable to present their presentations due to the following reasons.
+
+- Cancellation of the conference due to fire, earthquake, weather, man-made disasters, infectious diseases, etc.
+- Failure of conference platform or major network fault 
+
+However, if the registration fee is not paid by the deadline, the presentation information and abstract will be removed from the web page where the abstracts are published, and the research concerned will not be recognized as an achievement, even if it is listed in the program.
