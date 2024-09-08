@@ -22,7 +22,7 @@ Important deadlines are as follows.
 - Invited speakers at symposia and forums, and undergraduate or below who is not organizer and speaker may participate free of charge.
 - Due to system transition, registrations will not be available from December 1, 2024 to January 5, 2025.
 - Members who have not paid the membership fee from 2023 will [not be able to complete the registration and application procedures](#if-you-have-not-paid-the-membership-fee-from-2023-you-will-not-be-able-to-complete-the-various-procedures) until payment is confirmed. Please pay the membership fee, at least, one week before the deadline.
-  - You can check the payment status of the membership fee from [My Page](https://iap-jp.org/esj/mypage/login/login).
+	- You can check the payment status of the membership fee from [My Page](https://iap-jp.org/esj/mypage/login/login).
 
 
 <img src="../media/regist_flowchart_en.png" usemap="#ImageMap" alt="registration_flow"/>
@@ -39,14 +39,14 @@ You can register for the conference at the below link.
 |**Invited speaker <br/>undergraduate or below without presentation**|Free|Free|
 
 - The system used for the registration and payment procedures differs depending on the period.
-  - The application site will be used until November 30, 2024, and the conference platform (ONLINE CONF) will be used after January 6, 2025.
-  - Due to system transition, registrations will not be available from December 1, 2024 to January 5, 2025.
-  - It is no problem to make registration and payment at different periods and in different systems.
+	- The application site will be used until November 30, 2024, and the conference platform (ONLINE CONF) will be used after January 6, 2025.
+	- Due to system transition, registrations will not be available from December 1, 2024 to January 5, 2025.
+	- It is no problem to make registration and payment at different periods and in different systems.
 - Please complete the registration and payment procedures as far as possible before the day of the conference.
-  - You will not be able to view or upload posters without paying the registration fee.
+	- You will not be able to view or upload posters without paying the registration fee.
 - No applications will be accepted after the deadline. No corrections will be made for typing errors or garbled text. Please note that no corrections will be made by errata.
 - Non-members are welcome to attend the conference as audience members if they pay the registration fee.
-  - The registration fee is “free” for university undergraduates and below (including junior high and high school students) as audience members, who can register on the conference platform after January 6, 2025.
+	- The registration fee is “free” for university undergraduates and below (including junior high and high school students) as audience members, who can register on the conference platform after January 6, 2025.
 - Please also read [Other Notes](#other-notes) when registering.
 
 ## Proposals
@@ -56,41 +56,41 @@ Please read the description of each session (links in the table below) and [Othe
 **[[Go to Application site]](https://iap-jp.org/esj/conf/login.php)**
 
 <table>
-  <colgroup>
-    <col style="width: 20%" />
-    <col style="width: 40%" />
-    <col style="width: 40%" />
-  </colgroup>
-  <thead><tr class="header">
-    <th>Session type</th>
-    <th><strong>Application Deadline</strong></th>
-    <th><strong>Abstract Submission Deadline</strong></th>
-    </tr></thead>
-  <tbody>
-    <tr class="odd">
-      <td><a href = "opensession">Open Session</a></td>
-      <td><s>Wednesday, 31st Jul. 2024 23:59 (JST)</s></td>
-      <td rowspan=7>Friday, 21st Feb. 2025 23:59 (JST)</td>
-    </tr>
-    <tr class="even">
-      <td><a href = "er_symposium">ER Symposium</a></td>
-      <td><s>Friday, 30th Aug. 2024 23:59 (JST)</s></td>
-    </tr>
-    <tr class="odd">
-      <td><a href = "regist_session/#application-for-forums">Forum</a></td>
-      <td><s>Friday, 15th Sep. 2024 23:59 (JST)</s></td>
-    </tr>
-    <tr class="even">
-      <td><a href = "regist_session/#call-for-symposia">Symposium</a><br />
-      <td rowspan=4>Thursday, 31st Oct. 2024 23:59 (JST)</td>
-    </tr>
-    <tr class="odd">
-      <td><a href = "regist_session/#call-for-workshops">Workshop</a></td>
-    </tr>
-    <tr class="even">
-     <td><a href = "regist_oral_poster">General Presentation</a><br />
-    </tr>
-  </tbody>
+	<colgroup>
+		<col style="width: 20%" />
+		<col style="width: 40%" />
+		<col style="width: 40%" />
+	</colgroup>
+	<thead><tr class="header">
+		<th>Session type</th>
+		<th><strong>Application Deadline</strong></th>
+		<th><strong>Abstract Submission Deadline</strong></th>
+		</tr></thead>
+	<tbody>
+		<tr class="odd">
+			<td><a href = "opensession">Open Session</a></td>
+			<td><s>Wednesday, 31st Jul. 2024 23:59 (JST)</s></td>
+			<td rowspan=7>Friday, 21st Feb. 2025 23:59 (JST)</td>
+		</tr>
+		<tr class="even">
+			<td><a href = "er_symposium">ER Symposium</a></td>
+			<td><s>Friday, 30th Aug. 2024 23:59 (JST)</s></td>
+		</tr>
+		<tr class="odd">
+			<td><a href = "regist_session/#application-for-forums">Forum</a></td>
+			<td><s>Friday, 15th Sep. 2024 23:59 (JST)</s></td>
+		</tr>
+		<tr class="even">
+			<td><a href = "regist_session/#call-for-symposia">Symposium</a><br />
+			<td rowspan=4>Thursday, 31st Oct. 2024 23:59 (JST)</td>
+		</tr>
+		<tr class="odd">
+			<td><a href = "regist_session/#call-for-workshops">Workshop</a></td>
+		</tr>
+		<tr class="even">
+		 <td><a href = "regist_oral_poster">General Presentation</a><br />
+		</tr>
+	</tbody>
 </table>
 
 - We are unable to respond to inquiries from 17:00 to the next day 10:00 (JST) on each deadline. Please check various procedures as soon as possible.
@@ -101,7 +101,7 @@ Please read the description of each session (links in the table below) and [Othe
 There are restrictions on overlapping presentations at the conference:
 
 - Symposium organizers and presenters cannot be organizers or presenters in other symposium, workshop, or general presentations.
-  - However, explanations of aim, comments, or statement of opinions without abstract submission is not subject to overlap restrictions.
+	- However, explanations of aim, comments, or statement of opinions without abstract submission is not subject to overlap restrictions.
 - Workshop organizers and presenters can also be general presentation speakers.
 - Forum organizers and topic providers are not subject to overlap presentation restrictions.
 
