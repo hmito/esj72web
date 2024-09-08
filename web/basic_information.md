@@ -9,8 +9,8 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 # Basic Information
 
 The 72nd Annual Meeting of the Ecological Society of Japan (ESJ72)\
-**Dates**: March 15 (Sat) – March 18 (Tue), 2025\
-**Venue**: Sapporo Convention Center / ONLINE CONF
+**Dates**: [March 15 (Sat) – March 18 (Tue), 2025](#schedule)\
+**Venue**: [Sapporo Convention Center](venue) / ONLINE CONF
 
 ## Format of the Meeting
 The conference will be held in a hybrid format, primarily on-site. The online platform for the conference (hereafter referred to as the "conference platform") will be [ONLINE CONF](https://gakkai.online/).
@@ -195,6 +195,9 @@ Participation fees are as follows. For more information on how to apply for part
 |**Invited speakers<br/>Undergraduate or below without presentation**|Free|Free|
 
 <!-- 7/1のTFで対応　Note: Participation in workshops only is available online, not on-site. -->
+
+## Support for Participants
+ESJ72 will have a [childcare room](childcare#child-care) at the venue. We also plan to set up a [Family Lounge](childcare#family-lounge) for use by all participants with families, regardless of whether or not they are using childcare. Please check the [Childcare Support](childcare) page for details.
 
 ## Promoting Diversity
 
