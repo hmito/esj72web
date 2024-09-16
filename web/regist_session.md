@@ -8,7 +8,7 @@ multi_language: true
 # Proposal for sessions
 * There are three types of sessions: [Symposia](#call-for-symposia), [Workshops](#call-for-workshops),and [Forums](#application-for-forums).
     - Symposium category includes the general symposium as well as two special types: the [Open Session](opensession), where the theme is introduced as a new presentation field within the Ecological Society, and the [ER Symposium](er_symposium), where travel grants and free admission to the conference are available for inviting international researchers.
-- Please refer to the table and explanation below for the concept of each sessions, presentation eligibility, and overlap restrictions with other sessions and general general presentations before submitting.
+- Please refer to the table and explanation below for the concept of each sessions, presentation eligibility, and overlap restrictions with other sessions and regular presentations before submitting.
 - We look forward to receiving enthusiastic proposals from researchers from various positions, genders, and nationalities.
 
 | |Symposium|Workshop|Forum|
@@ -20,7 +20,7 @@ multi_language: true
 |Online support|On-demand streaming|On-demand streaming (partly)|On-demand streaming (partly)|
 |Priority|Top proiority|Lottery if too many applications|Top priority|
 |Presentations by non-ESJ members|**Encouraged**<br>Invited speakers are exempt from the registration fee|**Not allowed**<br>Comments and opinios without abstract submissions are allowed|**Allowed**|
-|General Presentations by organizers/speakers|Not allowed|Allowed|Allowed|
+|Regular Presentations by organizers/speakers|Not allowed|Allowed|Allowed|
 |Presentations in other sessions by organizers/speakers|Not allowed|Not Allowed|Allowed|
 
 ## Concept of sessions
@@ -55,7 +55,7 @@ Forum is organized by the committees of the Ecoloｓｓgical Society of Japan to
 ### On the occasion of organization
 
 - For all sessions, the organizers and speakers must be members of the Ecological Society of Japan. However, non-members may be invited to give invited lectures for symposia only ([see eligibility for each membership category](regist_information#presentation-eligibility-by-membership-type)).
-- The Organizer/speaker of a Symposium/Workshop cannot be a organizer/speaker of another session or a speaker of General Presentations. However, only the combination of Workshop and General presentation can be duplicated (see [overlap restrictions](regist_information#overlap-restrictions)).
+- The Organizer/speaker of a Symposium/Workshop cannot be a organizer/speaker of another session or a speaker of Regular Presentations. However, only the combination of Workshop and Regular presentation can be duplicated (see [overlap restrictions](regist_information#overlap-restrictions)).
 - Non-members are also welcome to present in the symposium, as explantion of aims, comments, and statement of opinions that do not involve abstract submission are not regarded as presentations and are not subject to the overlap restrictions.
     - Please note that even if you are only making comments or statement of opinions without submitting an abstract, you are still required to register for the conference. Organizers, please be alert them.
 - If you apply to Symposium, it should consist of at least two speakers. If there is only one speaker, please apply to Workshop.
@@ -102,4 +102,4 @@ You can apply for the sessions at the following pages.
 - Tentative proposals will be reviewed by the Board of Directors, and a final decision on whether or not to adopt the proposals will be made after coordination with the Annual Meeting Planning Committee and the Executive Committee. In the course of these discussions, it may be requested to revise the content or adjust the format of the event.
 - For those forums that have been adopted, please submit the full proposal through the conference application website.
 - Organization and presentation in Forums are not subject to the overlap restriction.
-- If non-member speakers are invited to the Forum, they may attend only that forum free of charge. Free participation in other programs, such as Symposia and General Presentation, is not allowed, and if they wish to attend, they must pay the conference registration fee.
+- If non-member speakers are invited to the Forum, they may attend only that forum free of charge. Free participation in other programs, such as Symposia and Regular Presentation, is not allowed, and if they wish to attend, they must pay the conference registration fee.

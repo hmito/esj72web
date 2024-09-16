@@ -5,9 +5,9 @@ toc: false
 multi_language: true
 ---
 
-# Outline of Resistrations and Proposals
+# Resistrations and Proposals
 
-We are currently accepting applications for [General Presentations](regist_oral_poster), [Symposia](regist_session\#call-for-symposia), and [Workshops](regist_session\#call-for-workshops). Please check the details and register the application site below.
+We are currently accepting applications for [Regular Presentations](regist_oral_poster), [Symposia](regist_session#symposium), and [Workshops](regist_session#workshop). Please check the details and register the application site below.
 
 **[[Go to the Applications site]](https://iap-jp.org/esj/conf/login.php)**
 
@@ -15,11 +15,11 @@ Important deadlines are as follows.
 
 ||**Thursday, 31st Oct. 2024 <br/>23:59 (JST)**|**Friday, 21st Feb. 2024 <br/>23:59 (JST)**|**On-site**|
 |---|---|---|---|
-|[**Procedures to participate in the conference**](#resistrations)||Early bird<br/>　Regular：17000 JPY<br/>　Student：8500 JPY|Normal<br/>　Regular：19000 JPY<br/>　Student：9500 JPY|
-|[**Procedures for Presentations**](#applications)|Deadline for Proposals|Abstract Submission Deadline||
+|[**Procedures to participate in the conference**](#registration-for-participation)||Early bird<br/>　Regular：17000 JPY<br/>　Student：8500 JPY|Normal<br/>　Regular：19000 JPY<br/>　Student：9500 JPY|
+|[**Procedures for Presentations**](#proposals-for-presentations-and-sessions)|Deadline for Proposals|Abstract Submission Deadline||
 |[**Non-members joining the Ecological Society of Japan for presentations**](#procedure-for-new-membership-to-the-ecological-society-of-japan)|Deadline for new members to join the Ecological Society of Japan|Deadline for payment of membership fee for 2025||
 
-- Invited speakers at symposia and forums, and undergraduate or below who is not organizer and speaker may participate free of charge.
+- Invited speakers at symposia and forums, and undergraduate or below who is not organizer and speaker can participate free of charge.
 - Due to system transition, registrations will not be available from December 1, 2024 to January 5, 2025.
 - Members who have not paid the membership fee from 2023 will [not be able to complete the registration and application procedures](#if-you-have-not-paid-the-membership-fee-from-2023-you-will-not-be-able-to-complete-the-various-procedures) until payment is confirmed. Please pay the membership fee, at least, one week before the deadline.
 	- You can check the payment status of the membership fee from [My Page](https://iap-jp.org/esj/mypage/login/login).
@@ -27,7 +27,7 @@ Important deadlines are as follows.
 
 <img src="../media/regist_flowchart_en.png" usemap="#ImageMap" alt="registration_flow"/>
 
-## Resistrations
+## Registration for Participation
 You can register for the conference at the below link.
 
 **[[Go to the Application site]](https://iap-jp.org/esj/conf/login.php)**
@@ -49,8 +49,8 @@ You can register for the conference at the below link.
 	- The registration fee is “free” for university undergraduates and below (including junior high and high school students) as audience members, who can register on the conference platform after January 6, 2025.
 - Please also read [Other Notes](#other-notes) when registering.
 
-## Proposals
-You can apply for General Presentaions, Symposia, and Workshops at the below link.
+## Proposals for Presentations and Sessions
+You can apply for Regular Presentaions, Symposia, and Workshops at the below links.
 Please read the description of each session (links in the table below) and [Other Notes](#other-notes) before applications.
 
 **[[Go to Application site]](https://iap-jp.org/esj/conf/login.php)**
@@ -88,7 +88,7 @@ Please read the description of each session (links in the table below) and [Othe
 			<td><a href = "regist_session/#call-for-workshops">Workshop</a></td>
 		</tr>
 		<tr class="even">
-		 <td><a href = "regist_oral_poster">General Presentation</a><br />
+		 <td><a href = "regist_oral_poster">Regular Presentation</a><br />
 		</tr>
 	</tbody>
 </table>
@@ -100,16 +100,16 @@ Please read the description of each session (links in the table below) and [Othe
 ### Overlap Restrictions
 There are restrictions on overlapping presentations at the conference:
 
-- Symposium organizers and presenters cannot be organizers or presenters in other symposium, workshop, or general presentations.
+- Symposium organizers and presenters cannot be organizers or presenters in other symposium, workshop, or regular presentations.
 	- However, explanations of aim, comments, or statement of opinions without abstract submission is not subject to overlap restrictions.
-- Workshop organizers and presenters can also be general presentation speakers.
+- Workshop organizers and presenters can also be regular presentation speakers.
 - Forum organizers and topic providers are not subject to overlap presentation restrictions.
 
-||Symposium|Workshop|Genral Presentation|Forum|
+||Symposium|Workshop|Regular Presentation|Forum|
 |:---:|:---:|:---:|:---:|:---:|
 |Symposium|×|×|×|〇|
 |Workshop|×|×|〇|〇|
-|Genral Presentation|×|〇|×|〇|
+|Regular Presentation|×|〇|×|〇|
 |Forum|〇|〇|〇|〇|
 
 ※ If you are already an organizer or a speaker of the respective category, you cannot become an organizer or a speaker of a lecture of the category marked with an "×".
@@ -122,13 +122,13 @@ Presentations at the conference are generally limited to members (regular and em
 
 | **Session type**                                      | **Member ※1** | **Non-member** |
 |---------------------------------------------------|:-------------:|:------------:|
-| General Presentaion (Oral or Poster) ※2             | ◯           |            |
+| Regular Presentaion (Oral or Poster) ※2             | ◯           |            |
 | Symposium/Workshop organizer                 | ◯           |            |
 | Symposium presenter ※2                           | ◯           | ◯ ※3      |
 | Workshop presenter ※2                               | ◯           |            |
 | Commentator/Opinion in Symposium/Workshop| ◯           | ◯          |
 
-※1　Refers to regular members (general and student) and emeritus members of the Ecological Society of Japan. Associate members are not included.  
+※1　Refers to regular, student or emeritus members of the Ecological Society of Japan. Associate members are not included.  
 ※2　Refers to the primary presenter (speaker). Co-presenters do not need to be members.  
 ※3　Limited to invited speakers.
 
@@ -136,9 +136,9 @@ Presentations at the conference are generally limited to members (regular and em
 
 Non-members are not eligible to present with [some exceptions](#presentation-eligibility-by-membership-type). Non-members who do not fall under any of the exceptions must **apply for membership in the Ecological Society of Japan prior to submitting registration and proposal**. The admission procedure may take some time, so please complete the procedure well in advance.
 
-**[[Go to the ESJ membership procedure site]](https://www.esj.ne.jp/esj/English/join.html)**
+**[[Go to the ESJ membership application site]](https://www.esj.ne.jp/esj/English/join.html)**
 
-1. Please follow the above link to complete the new membership procedure.
+1. Please follow the above link to complete the new membership application.
 2. Upon confirmation of your application for membership, the Member Service Desk will notify you of your temporary membership number.
 3. Please use your temporary membership number to register for the conference and presentation.
 
@@ -158,7 +158,7 @@ As a result of discussions based on the above, the ESJ72 has decided to abolish 
 
 ### Participation Certificates/Receipts
 
-Participation certificates and receipts will be issued from the conference platform ONLINE CONF, not from the application site. Please note that printed copies will not be sent out and will be available for downloading after January 6, when ONLINE CONF will be opened. Please note that the amount shown on the receipt is non-taxable for members (both general and student) and taxable for non-members.
+Participation certificates and receipts will be issued from the conference platform ONLINE CONF, not from the application site. Please note that printed copies will not be sent out and will be available for downloading after January 6, when ONLINE CONF will be opened. Please note that the amount shown on the receipt is non-taxable for members (both regular and student) and taxable for non-members.
 
 The Ecological Society of Japan is **not registered** as a Qualified Invoicing Business and cannot issue invoices.
 

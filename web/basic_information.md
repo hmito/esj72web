@@ -19,7 +19,7 @@ The conference will be held in a hybrid format, primarily on-site. The online pl
 - Poster session is available for viewing on the conference platform throughout the conference period. Additionally, those who wish may also display their posters on-site. 		
 	-  The online poster presentation will take the form of a ‘viewing period’ of approximately three days from 12-14 March before the conference. There will be no core time and the opinion exchange forum (video call function) will not be available, but the text chat function will be available.
 	- Core time will be available for on-site participants.
-	- For more information, see [gidleins for poster presentation](for_presentation#poster-presentation).
+	- For more information, see [Guidelines for poster presentation](for_presentation#poster-presentation).
 
 The status of support for online participation is as follows. Note that question and answer sessions will only be available for ER symposia and open call symposia.
 
@@ -201,6 +201,6 @@ ESJ72 will have a [childcare room](childcare#child-care) at the venue. We also p
 
 ## Promoting Diversity
 
-The Ecological Society respects diversity. We expect ambitious proposals from researchers of diverse positions, genders and nationalities. Organisers of symposia and workshops should also take into consideration the balance of positions and genders of the organisers and speakers.
+The Ecological Society of Japan respects diversity. We expect ambitious proposals from researchers of diverse positions, genders and nationalities. Organisers of symposia and workshops should also take into consideration the balance of positions and genders of the organisers and speakers.
 
 The conference will make considerations in accordance with the Disability Discrimination Act, so if you require any consideration when attending the conference, please contact us via [Contact form](contact). If you wish to give a presentation, please contact us as far as possible by 31 October 2024.

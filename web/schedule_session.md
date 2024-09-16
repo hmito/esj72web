@@ -32,7 +32,7 @@ Knowledge Related to Deer Overabundance and Future Prospects　ーToward Solving
 
 ---
 
-These selected themes will be used to organize symposia, and the proposed "themes" will be added as new categories for general presentations. Applicants for oral presentations, poster presentations, and workshops can select these new categories as their preferred presentation fields (excluding symposia). Presentations accepted in these categories will be scheduled consecutively with the open session or given priority for poster displays near the session venue. See [open session](opensession) in datail.
+These selected themes will be used to organize symposia, and the proposed "themes" will be added as new categories for regular presentations. Applicants for oral presentations, poster presentations, and workshops can select these new categories as their preferred presentation fields (excluding symposia). Presentations accepted in these categories will be scheduled consecutively with the open session or given priority for poster displays near the session venue. See [open session](opensession) in datail.
 
 ## ER Symposia
 The following symposium was selected for this year's [ER Symposum](er_symposium) (symposium where outstanding overseas researchers are invited to give presentations and contribute to the journal Ecological Research).
