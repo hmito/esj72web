@@ -7,7 +7,7 @@ multi_language: true
 <!--英語版です_-->
 
 # Childcare support
-[Child care](#child-care) and [family lounge](#family-lounge) will be available at the ESJ72 meeting. 
+[Child care](childcare#Child_Care) and [family lounge](childcare#Family_Lounge) will be available at the ESJ72 meeting. 
 
 ## Child Care 
 Contact for the child care clerk, the ESJ72 Organizing Committee: nursery[at]esj.ne.jp
