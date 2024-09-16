@@ -39,9 +39,8 @@ You can register for the conference at the below link.
 |**Invited speaker <br/>undergraduate or below without presentation**|Free|Free|
 
 - The system used for the registration and payment procedures differs depending on the period.
-	- The application site will be used until November 30, 2024, and the conference platform (ONLINE CONF) will be used after January 6, 2025.
-	- Due to system transition, registrations will not be available from December 1, 2024 to January 5, 2025.
-	- It is no problem to make registration and payment at different periods and in different systems.
+	- The application website will be used until 30 Nov. 2024, and the conference platform (ONLINE CONF) will be used after 6 Jan. 2025.
+	- Due to system transition, registrations will not be available from 1st Dec. 2024 to 5th Jan. 2025.
 - Please complete the registration and payment procedures as far as possible before the day of the conference.
 	- You will not be able to view or upload posters without paying the registration fee.
 - No applications will be accepted after the deadline. No corrections will be made for typing errors or garbled text. Please note that no corrections will be made by errata.
