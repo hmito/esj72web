@@ -45,9 +45,9 @@ You can apply for various types of presentations at the following page.
 
 - Speakers are requested to submit their applications by 31st Oct. 2024 23:59 (JST).
 - The following information is required to apply for a presentation. Please note that this information cannot be changed after the deadline.
-	- Title of your presentation (in both Japanese and English, within 40 Japanese characters/ 150 English characters)
-	- Names and affiliations of speakers and co-presenters (both in Japanese and English)
-- Please select your field of interest when applying for a presentation (see table below). A list of possible fields will be shown on the Regular Presentation Application form, so please select up to your third choice. Please note that fields may be consolidated or eliminated depending on the number of applications.
+	- Title of your presentation (no more than 150 characters).
+	- Names and affiliations of you and co-presenters.
+- Please select research field of your presentation (see table below). A list of possible fields will be shown on the Regular Presentation Application form, so please select up to your third choice. Please note that fields may be consolidated or eliminated depending on the number of applications.
 - Please register your abstract (maximum 800 characters for Japanese, 400 words for English) from the conference application site by 21st Feb. 2025 23:59 (JST).
 - Please also check [Other Notes](regist_information#other-notes) before submitting your abstract.
 
@@ -92,13 +92,13 @@ This award is not a competition for fluency in English or other language skills.
 
 ## Poster Award
 
-To encourage early-career researchers in their acadamic activities, poster awards will be given for outstanding poster presentations. Due to the availability of judges, the maximum number of poster award applications will be set at 500. There is no upper limit on the number of poster presentations, which will not be subject to award consideration.
+To encourage early-career researchers in their academic activities, poster awards will be given for outstanding poster presentations. Due to the availability of judges, the maximum number of poster award applications will be set at 500. There is no upper limit on the number of poster presentations, which will not be subject to award consideration.
 
 ### Eligibility
 
 - Student members who have not obtained a Ph.D. as of the deadline for regular presentations are eligible to apply.
 - However, those who have received the “Best Award” or “Excellence Award” for the Poster Prize at any past Annual Meeting of the Ecological Society of Japan are not eligible to apply, even if they meet the above requirements. Past Annual Meetings of Ecological Society of Japan include those run jointly with EAFES.
-- Speakers who requested “Acoustic Ecology” and "Deer-induced Problems" in the Open session as their presentation field are also not eligible to apply for the Poster Award.
+- Speakers who requested “Acoustic Ecology” and "Deer-induced Problems" in the [Open session](schedule_session#open-session) as their presentation field are also not eligible to apply for the Poster Award.
 - To reduce the burden on applicants, the poster award application does not require the submission of a graphical abstract or explanatory video for this conference. While the content of graphical abstracts and videos will generally not be subject to evaluation, judges may refer to them to better understand the research.
 
 ### Judging Criteria
