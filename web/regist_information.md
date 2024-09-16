@@ -76,15 +76,15 @@ Please read the description of each session (links in the table below) and [Othe
 			<td><s>Friday, 30th Aug. 2024 23:59 (JST)</s></td>
 		</tr>
 		<tr class="odd">
-			<td><a href = "regist_session/#application-for-forums">Forum</a></td>
+			<td><a href = "regist_session/#Forum">Forum</a></td>
 			<td><s>Friday, 15th Sep. 2024 23:59 (JST)</s></td>
 		</tr>
 		<tr class="even">
-			<td><a href = "regist_session/#call-for-symposia">Symposium</a><br />
+			<td><a href = "regist_session/#Symposium">Symposium</a><br />
 			<td rowspan=4>Thursday, 31st Oct. 2024 23:59 (JST)</td>
 		</tr>
 		<tr class="odd">
-			<td><a href = "regist_session/#call-for-workshops">Workshop</a></td>
+			<td><a href = "regist_session/#Workshop">Workshop</a></td>
 		</tr>
 		<tr class="even">
 		 <td><a href = "regist_oral_poster">Regular Presentation</a><br />
