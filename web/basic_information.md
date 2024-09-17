@@ -125,7 +125,7 @@ X : Unavailable
 <td></td>
 </tr>
 <tr class="odd">
-<td>Onsite</td>
+<td>onsite</td>
 <td></td>
 <td>〇</td>
 <td>〇</td>
@@ -134,12 +134,12 @@ X : Unavailable
 </tr>
 <tr class="even">
 <td rowspan=2>High school student poster</td>
-<td>Online</td>
+<td>online</td>
 <td>△</td>
 <td colspan=4>* Can be viewed and commented on ONLINE CONF during the meeting.</td>
 </tr>
 <tr class="even">
-<td>Onsite</td>
+<td>onsite</td>
 <td></td>
 <td></td>
 <td>〇</td>
