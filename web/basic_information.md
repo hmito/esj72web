@@ -26,7 +26,7 @@ The status of support for online participation is as follows. Note that question
 ||Real-time video streaming |On-demand video streaming|
 |---|:---:|:---:|
 |Award Lectures, ER Symposia, Open Session|O|O|
-|General meeeting|O|O|
+|General meeting|O|O|
 |Symposia|X|O|
 |Workshops, Forums|X|P|
 |Oral presentations, English oral presentations|X|X|
@@ -68,7 +68,7 @@ X : Unavailable
 <td>☆</td>
 </tr>
 <tr class="odd">
-<td colspan=2>Award celemony and lecture</td>
+<td colspan=2>Award ceremony and lecture</td>
 <td></td>
 <td></td>
 <td>☆</td>
@@ -186,7 +186,7 @@ SpatialChat
 <!-- -->
 
 ## Fees and Registrations
-Participation fees are as follows. For more information on how to apply for participation, presentation and organisation of a session, see [Registrations and Proposals](regist_information).
+Participation fees are as follows. For more information on how to apply for participation, presentation and organization of a session, see [Registrations and Proposals](regist_information).
 
 ||Early bird<br/>Until 2/21| Normal price<br/>After 2/22|
 |---|---|---|
@@ -201,6 +201,6 @@ ESJ72 will have a [childcare room](childcare#child-care) at the venue. We also p
 
 ## Promoting Diversity
 
-The Ecological Society of Japan respects diversity. We expect ambitious proposals from researchers of diverse positions, genders and nationalities. Organisers of symposia and workshops should also take into consideration the balance of positions and genders of the organisers and speakers.
+The Ecological Society of Japan respects diversity. We expect ambitious proposals from researchers of diverse positions, genders and nationalities. Organizers of symposia and workshops should also take into consideration the balance of positions and genders of the organizers and speakers.
 
 The conference will make considerations in accordance with the Disability Discrimination Act, so if you require any consideration when attending the conference, please contact us via [Contact form](contact). If you wish to give a presentation, please contact us as far as possible by 31 October 2024.

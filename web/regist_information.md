@@ -1,11 +1,11 @@
 ---
 url: https://esj-meeting.net/regist_information/
-menu: Registration > Registlation and Proposal
+menu: Registration and Proposal > Overview
 toc: false
 multi_language: true
 ---
 
-# Resistrations and Proposals
+# Registrations and Proposals
 
 We are currently accepting applications for [Regular Presentations](regist_oral_poster), [Symposia](regist_session#symposium), and [Workshops](regist_session#workshop). Please check the details and register the application site below.
 
@@ -49,7 +49,7 @@ You can register for the conference at the below link.
 - Please also read [Other Notes](#other-notes) when registering.
 
 ## Proposals for Presentations and Sessions
-You can apply for Regular Presentaions, Symposia, and Workshops at the below links.
+You can apply for Regular Presentations, Symposia, and Workshops at the below links.
 Please read the description of each session (links in the table below) and [Other Notes](#other-notes) before applications.
 
 **[[Go to Application site]](https://iap-jp.org/esj/conf/login.php)**
@@ -121,7 +121,7 @@ Presentations at the conference are generally limited to members (regular and em
 
 | **Session type**                                      | **Member ※1** | **Non-member** |
 |---------------------------------------------------|:-------------:|:------------:|
-| Regular Presentaion (Oral or Poster) ※2             | ◯           |            |
+| Regular Presentation (Oral or Poster) ※2             | ◯           |            |
 | Symposium/Workshop organizer                 | ◯           |            |
 | Symposium presenter ※2                           | ◯           | ◯ ※3      |
 | Workshop presenter ※2                               | ◯           |            |
@@ -151,7 +151,7 @@ To check the status of your membership fee payment, please visit [My Page](https
 
 ### Abolition of Quota for Participation in Workshops Only
 
-In the past, the ESJ conference has included a “Workshop Only Attendance” category in the registration process. However, taking into acount the fact that the Workshop requires significant operating expenses and that only a few people have applied for this category in the past few years, the Board of Directors has decided to abolish the “Workshop Only Attendance” category for the ESJ72. Therefore, it has led to the possibility that there may be little or no online content available for online-only attendees.
+In the past, the ESJ conference has included a “Workshop Only Attendance” category in the registration process. However, taking into account the fact that the Workshop requires significant operating expenses and that only a few people have applied for this category in the past few years, the Board of Directors has decided to abolish the “Workshop Only Attendance” category for the ESJ72. Therefore, it has led to the possibility that there may be little or no online content available for online-only attendees.
 
 As a result of discussions based on the above, the ESJ72 has decided to abolish the “Workshop Only” participation framework itself. We apologize for the inconvenience, but we ask that those who wish to attend only Workshops also follow the regular procedures to participate in the conference.
 

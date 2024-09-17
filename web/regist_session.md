@@ -6,7 +6,7 @@ multi_language: true
 ---
 
 # Proposal for sessions
-* There are three types of sessions: [Symposia](#call-for-symposia), [Workshops](#call-for-workshops),and [Forums](#application-for-forums).
+* There are three types of sessions: [Symposia](#symposium), [Workshops](#workshop),and [Forums](#forum).
     - Symposium category includes the regular symposium as well as two special types: the [Open Session](opensession), where the theme is introduced as a new presentation field within the Ecological Society, and the [ER Symposium](er_symposium), where travel grants and free admission to the conference are available for inviting international researchers.
 - Please refer to the table and explanation below for the concept of each sessions, presentation eligibility, and overlap restrictions with other sessions and regular presentations before submitting.
 - We look forward to receiving enthusiastic proposals from researchers from various positions, genders, and nationalities.
@@ -88,11 +88,11 @@ You can apply for the sessions at the following pages.
 
 - Only members of the Ecological Society of Japan are eligible to present at Symposia and Workshops, with the exception of invited symposium speakers.
 	- Non-members are requested to apply for membership by 31st Oct. 2024 23:59 (JST) and pay the conference fee by 21st Feb. 2025 23:59 (JST), by referring to [this page](regist_information#procedure-for-new-membership-to-the-ecological-society-of-japan).
-- When applying for the session, please provide the following information to the organizer. Please note that these informations cannot be changed after the deadline.
-	- Title (both in Japanese and English, maximum 40 characters for Japanese/150 characters for English)
+- When applying for the session, please provide the following information to the organizer. Please note that these information cannot be changed after the deadline.
+	- Title (both in Japanese and English, maximum 150 characters)
     - Name and affiliation of speakers/co-presenters (both in Japanese and English)
 	- Membership number of speakers (login ID for invited speakers)
-- Please submit your abstract (meximum 800 chacaters in Japanese or 400 words in English) through the conference application site by 21st Feb. 2025 23:59 (JST). Also, please let the organizer know whether or not your presentation is available for on-demand streaming.
+- Please submit your abstract (maximum 400 words) through the conference application site by 21st Feb. 2025 23:59 (JST). Also, please let the organizer know whether or not your presentation is available for on-demand streaming.
 - Please complete the [conference registration procedures](regist_information#resistrations) and pay the registration fee before the day of the conference (free of charge for invited speakers). We recommend paying as early as possible to ensure smooth log-in to the conference platform.
 - Please also see [Other Notes](regist_information#other-notes).
 

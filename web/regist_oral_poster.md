@@ -127,11 +127,11 @@ The selection process will emphasize the ability to convey information and the q
 ### "Like!" Award
 
 - To encourage communication among participants through the comment function, we are introducing a "Like!" Award in addition to the regular poster awards. All posters will be considered for the "Like!" Award. 
-- Selection will be based on the number of "likes" received for the poster presentations. All conference participants, including high school students, are eligible to vote.
+- Selection will be based on the number of "Like!" received for the poster presentations. All conference participants, including high school students, are eligible to push "Like!" button.
 - In the selection process for this award, posters that receive more viewers will have an advantage. Due to the nature of the viewing system, the smaller numbered posters may have a higher chance of winning.
 
 ### Best Discusser Award
 
 - An award will be presented to an individual conference participant who has contributed to the excitement of all poster presentations, including high school student posters, by posting quality comments.
-- Selection will be made based on the total number of "Likes!" recieved on their comments from each conference participant.
+- Selection will be made based on the total number of "Likes!" received on their comments from each conference participant.
 - This award was created specifically to encourage communication among participants using the comment function.
