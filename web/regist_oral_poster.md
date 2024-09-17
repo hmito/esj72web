@@ -34,7 +34,7 @@ Regular presentations include oral and poster sessions.
 	- Non-members who wish to present a lecture should complete the admission procedure to the Society by 31st Oct. 2024 23:59 (JST), referring to [Procedure for new membership to the Ecological Society of Japan](regist_information#procedure-for-new-membership-to-the-ecological-society-of-japan).
 - Please note the [overlap restrictions](regist_information#overlap-restrictions). A speaker of a regular presentation cannot be a speaker of another regular presentation or a symposium organizer or speaker.
 	- Duplication with Workshop is allowed.
-	- Explanations of aim, comments, and statements of opinions at symposiums that do not involve abstract submission do not count as presentations and are therefore not subject to the onverlap restrictions.
+	- Explanations of aim, comments, and statements of opinions at symposiums that do not involve abstract submission do not count as presentations and are therefore not subject to the overlap restrictions.
 - For the sake of interaction with participants who do not understand Japanese, such as invitees from overseas and international students, it is recommended that some presentations be given in English even if they are given in Japanese.
 
 
@@ -54,22 +54,22 @@ You can apply for various types of presentations at the following page.
 <table border rules="none"> <colgroup> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> <col style="width: 25%" /> </colgroup> <tbody> <tr> 
   <td><a href="schedule_session#open-session">Acoustic Ecology (Open session)</a></td>
   <td><a href="schedule_session#open-session">Deer-induced Problems (Open session)</a></td>
-  <td>Behavior</td> <td>Plant physiology and ecology</td> </tr> <tr> <td>Biodiversity</td> <td>Evolution</td> <td>Animal populations</td> <td>Plant populations</td> </tr> <tr> <td>Introduced species</td> <td>Mathematics</td> <td>Animal life history</td> <td>Plant life history</td> </tr> <tr> <td>Conservation</td>
-<td>Landscape</td>
+  <td>Behavior</td> <td>Plant ecophysiology</td> </tr> <tr> <td>Biodiversity</td> <td>Evolution</td> <td>Animal populations</td> <td>Plant populations</td> </tr> <tr> <td>Invasive species</td> <td>Mathematical ecology</td> <td>Life history of animals</td> <td>Life history of plants</td> </tr> <tr> <td>Conservation</td>
+<td>Landscape ecology</td>
 <td>Animal reproduction</td>
 <td>Plant reproduction</td>
 </tr>
 <tr>
 <td>Ecosystem management</td>
-<td>Succession and renewal</td>
+<td>Succession and regeneration</td>
 <td>Animal communities</td>
-<td>Communities</td>
+<td>Plant communities</td>
 </tr>
 <tr>
-<td>Ecology education and dissemination</td>
-<td>Material cycles</td>
-<td>Interrelationships between animals and plants</td>
-<td>Fungi and microorganisms</td>
+<td>Education and popularization of ecology</td>
+<td>Material cycling</td>
+<td>Anima-plant interactions</td>
+<td>Microbial ecology</td>
 </tr>
 </tbody>
 </table>
