@@ -151,9 +151,7 @@ To check the status of your membership fee payment, please visit [My Page](https
 
 ### Abolition of Quota for Participation in Workshops Only
 
-In the past, the ESJ conference has included a “Workshop Only Attendance” category in the registration process. However, taking into account the fact that the Workshop requires significant operating expenses and that only a few people have applied for this category in the past few years, the Board of Directors has decided to abolish the “Workshop Only Attendance” category for the ESJ72. Therefore, it has led to the possibility that there may be little or no online content available for online-only attendees.
-
-As a result of discussions based on the above, the ESJ72 has decided to abolish the “Workshop Only” participation framework itself. We apologize for the inconvenience, but we ask that those who wish to attend only Workshops also follow the regular procedures to participate in the conference.
+In the past, the ESJ conference has included a “Workshop Only Attendance” category in the registration process. However, taking into account the fact that the Workshop requires significant operating expenses and that only a few people have applied for this category in the past few years, the Board of Directors has decided to abolish the “Workshop Only Attendance” category for the ESJ72. We apologize for the inconvenience, but we ask that those who wish to attend only Workshops also follow the regular procedures to participate in the conference.
 
 ### Participation Certificates/Receipts
 
