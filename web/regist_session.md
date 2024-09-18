@@ -52,11 +52,11 @@ Forum is organized by the committees of the Ecological Society of Japan to solic
 
 ## Organization of Symposium and Workshop
 
-### On Organizing a Sessions
+### How to organize Sessions
 
 - For all sessions, the organizers and speakers must be members of the Ecological Society of Japan. However, non-members may be invited to give invited lectures for symposia only ([see eligibility for each membership category](regist_information#presentation-eligibility-by-membership-type)).
-- The Organizer/speaker of a Symposium/Workshop cannot be an organizer/speaker of another session or a speaker of Regular Presentations. However, only the combination of Workshop and Regular presentation can be duplicated (see [overlap restrictions](regist_information#overlap-restrictions)).
-- Non-members may participate in a session as a statement of aim, commentator, or opinion presenter only if they have not registered an abstract. This is not considered a presentation and is not subject to duplication restrictions.
+- The organizer/speaker of a Symposium/Workshop cannot be an organizer/speaker of another session or a speaker of Regular Presentations. However, only the combination of Workshop and Regular presentation can be duplicated (see [Overlap restrictions](regist_information#overlap-restrictions)).
+- Explanation of aim, comments, and statements of opinion that do not involve abstract registration do not count as presentations. Therefore, non-members may participate in the conference in these forms and are not subject to duplication restrictions.
     - Please note that even if you are only making comments or statement of opinions without submitting an abstract, you are still required to register for the conference. Organizers, please be alert them.
 - If you apply to Symposium, it should consist of at least two speakers. If there is only one speaker, please apply to Workshop.
 - From the viewpoint of respecting diversity, organizers are requested to structure the sessions with consideration for the balance of positions and genders of organizers and speakers.
@@ -90,7 +90,7 @@ You can apply for the sessions at the following pages.
 	- Non-members are requested to apply for membership by 31st Oct. 2024 23:59 (JST) and pay the conference fee by 21st Feb. 2025 23:59 (JST), by referring to [this page](regist_information#procedure-for-new-membership-to-the-ecological-society-of-japan).
 - When applying for the session, please provide the following information to the organizer. Please note that these information cannot be changed after the deadline.
 	- Title (both in Japanese and English, maximum 150 characters)
-    - Name and affiliation of speakers/co-presenters (both in Japanese and English)
+    - Name and affiliation of speakers/co-presenters
 	- Membership number of speakers (login ID for invited speakers)
 - Please submit your abstract (maximum 400 words) through the conference application site by 21st Feb. 2025 23:59 (JST). Also, please let the organizer know whether or not your presentation is available for on-demand streaming.
 - Please complete the [conference registration procedures](regist_information#resistrations) and pay the registration fee before the day of the conference (free of charge for invited speakers). We recommend paying as early as possible to ensure smooth log-in to the conference platform.

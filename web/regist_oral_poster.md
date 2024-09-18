@@ -6,6 +6,7 @@ multi_language: true
 ---
 
 <!-- 一般講演の英訳をRegular presentationからGeneral presentationに変更。意味的にはどちらも同じだと思いますが、昨年の英語版に合わせる形で修正 -->
+<!-- 今更ですが、非日本語話者のために日英併記することを推奨する旨の文章が英語版にあるのは変な気がしたので削除しました (日本語版には当然残してます)　池川-->
 # Regular Presentations
 
 Regular presentations include oral and poster sessions.
@@ -35,8 +36,6 @@ Regular presentations include oral and poster sessions.
 - Please note the [overlap restrictions](regist_information#overlap-restrictions). A speaker of a regular presentation cannot be a speaker of another regular presentation or a symposium organizer or speaker.
 	- Duplication with Workshop is allowed.
 	- Explanations of aim, comments, and statements of opinions at symposiums that do not involve abstract submission do not count as presentations and are therefore not subject to the overlap restrictions.
-- For the sake of interaction with participants who do not understand Japanese, such as invitees from overseas and international students, it is recommended that some presentations be given in English even if they are given in Japanese.
-
 
 ### How to apply
 You can apply for various types of presentations at the following page.
@@ -68,7 +67,7 @@ You can apply for various types of presentations at the following page.
 <tr>
 <td>Education and popularization of ecology</td>
 <td>Material cycling</td>
-<td>Anima-plant interactions</td>
+<td>Animal-plant interactions</td>
 <td>Microbial ecology</td>
 </tr>
 </tbody>

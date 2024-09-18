@@ -7,7 +7,7 @@ multi_language: true
 
 # Registrations and Proposals
 
-We are currently accepting applications for [Regular Presentations](regist_oral_poster), [Symposia](regist_session#symposium), and [Workshops](regist_session#workshop). Please check the details and register the application site below.
+We are currently accepting applications for [Regular Presentations](regist_oral_poster), [Symposia](regist_session#symposium), and [Workshops](regist_session#workshop). Please check the details and register from the application site below.
 
 **[[Go to the Applications site]](https://iap-jp.org/esj/conf/login.php)**
 
@@ -44,8 +44,9 @@ You can register for the conference at the below link.
 - Please complete the registration and payment procedures as far as possible before the day of the conference.
 	- You will not be able to view or upload posters without paying the registration fee.
 - No applications will be accepted after the deadline. No corrections will be made for typing errors or garbled text. Please note that no corrections will be made by errata.
-- Non-members are welcome to attend the conference as audience members if they pay the registration fee.
-	- The registration fee is “free” for university undergraduates and below (including junior high and high school students) as audience members, who can register on the conference platform after January 6, 2025.
+- Non-members are welcome to attend the conference as audience if they pay the registration fee.
+	- The registration fee is “free” for university undergraduates and below (including junior high and high school students) as audience, who can register on the conference platform after January 6, 2025.
+	- If none of the above apply, please pay the registration fee.
 - Please also read [Other Notes](#other-notes) when registering.
 
 ## Proposals for Presentations and Sessions
@@ -99,10 +100,10 @@ Please read the description of each session (links in the table below) and [Othe
 ### Overlap Restrictions
 There are restrictions on overlapping presentations at the conference:
 
-- Symposium organizers and presenters cannot be organizers or presenters in other symposium, workshop, or regular presentations.
+- Symposium organizers and speakers cannot be organizers or speakers in other symposium, workshop, or regular presentations.
 	- However, explanations of aim, comments, or statement of opinions without abstract submission is not subject to overlap restrictions.
-- Workshop organizers and presenters can also be regular presentation speakers.
-- Forum organizers and topic providers are not subject to overlap presentation restrictions.
+- Workshop organizers and speakers can also be regular presentation speakers.
+- Forum organizers and topic providers are not subject to the overlap restrictions.
 
 ||Symposium|Workshop|Regular Presentation|Forum|
 |:---:|:---:|:---:|:---:|:---:|
@@ -114,7 +115,7 @@ There are restrictions on overlapping presentations at the conference:
 ※ If you are already an organizer or a speaker of the respective category, you cannot become an organizer or a speaker of a lecture of the category marked with an "×".
 
 ### Presentation Eligibility by Membership Type
-Presentations at the conference are generally limited to members (regular and emeritus members). Non-members are eligible in the following two cases:
+Presentations at the conference are generally limited to members (regular, student, and emeritus members). Non-members are eligible in the following two cases:
 
 - When to speak as an invited speaker in symposium
 - When participating as a commentator or opinion presenter in symposium/workshop without abstract submission.
