@@ -5,8 +5,6 @@ toc: false
 multi_language: true
 ---
 
-<!-- 一般講演の英訳をRegular presentationからGeneral presentationに変更。意味的にはどちらも同じだと思いますが、昨年の英語版に合わせる形で修正 -->
-<!-- 今更ですが、非日本語話者のために日英併記することを推奨する旨の文章が英語版にあるのは変な気がしたので削除しました (日本語版には当然残してます)　池川-->
 # Regular Presentations
 
 Regular presentations include oral and poster sessions.
@@ -104,8 +102,7 @@ To encourage early-career researchers in their academic activities, poster award
 
 The selection process will emphasize the ability to convey information and the quality of research. Poster award applicants are requested to take these points into consideration when preparing their posters.
 
-- For the ability of posters to convey information, the judge will assess whether the research content is presented in an easy-to-understand manner.
-  This includes considerations such as  (1) a good title, (2) a clear abstract, (3) engaging visual elements, and (4) effective design that allows for understanding the general content quickly. It is important that the text and figures are easy to read, that there is not too much information, and that the key points can be understood without additional explanation. To ensure fairness, please avoid changing the title of your poster after it has been registered.
+- For the ability of posters to convey information, the judge will assess whether the research content is presented in an easy-to-understand manner. This includes considerations such as  (1) a good title, (2) a clear abstract, (3) engaging visual elements, and (4) effective design that allows for understanding the general content quickly. It is important that the text and figures are easy to read, that there is not too much information, and that the key points can be understood without additional explanation. To ensure fairness, please avoid changing the title of your poster after it has been registered.
 - The quality of the research will also be evaluated based on the following criteria: (1) novelty and originality, (2) quality and quantity of data, (3) appropriateness of analysis methods, and (4) validity of the discussion and conclusions.
 
 ### Precautions

@@ -8,8 +8,10 @@ multi_language: true
 # Proposal for sessions
 * There are three types of sessions: [Symposia](#symposium), [Workshops](#workshop),and [Forums](#forum).
     - Symposium category includes the regular symposium as well as two special types: the [Open Session](opensession), where the theme is introduced as a new presentation field within the Ecological Society, and the [ER Symposium](er_symposium), where travel grants and free admission to the conference are available for inviting international researchers.
-- Please refer to the table and explanation below for the concept of each sessions, presentation eligibility, and overlap restrictions with other sessions and regular presentations before submitting.
+- At all sessions, speakers will be asked to present on-site in principle.
 - We look forward to receiving enthusiastic proposals from researchers from various positions, genders, and nationalities.
+
+## Concept of sessions
 
 | |Symposium|Workshop|Forum|
 |:----:|:-------------------:|:--------------------:|:---------------------:|
@@ -22,8 +24,6 @@ multi_language: true
 |Presentations by non-ESJ members|**Encouraged**<br>Invited speakers are exempt from the registration fee|**Not allowed**<br>Comments and opinions without abstract submissions are allowed|**Allowed**|
 |Regular Presentations by organizers/speakers|Not allowed|Allowed|Allowed|
 |Presentations in other sessions by organizers/speakers|Not allowed|Not Allowed|Allowed|
-
-## Concept of sessions
 
 ### Symposium
 
