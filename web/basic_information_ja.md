@@ -79,7 +79,7 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 <td>☆</td>
 </tr>
 <tr class="even">
-<td colspan=2>公募セッション</td>
+<td colspan=2><a href="schedule_session_ja#公募セッション">公募セッション</a></td>
 <td></td>
 <td></td>
 <td>☆</td>
@@ -87,7 +87,7 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 <td></td>
 </tr>
 <tr class="odd">
-<td colspan=2>ERシンポジウム</td>
+<td colspan=2><a href="schedule_session_ja#er-シンポジウム">ERシンポジウム</a></td>
 <td></td>
 <td></td>
 <td></td>

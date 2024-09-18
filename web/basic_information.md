@@ -76,7 +76,7 @@ X : Unavailable
 <td>☆</td>
 </tr>
 <tr class="even">
-<td colspan=2>Open session</td>
+<td colspan=2><a href="schedule_session#open-session">Open session</a></td>
 <td></td>
 <td></td>
 <td>☆</td>
@@ -84,7 +84,7 @@ X : Unavailable
 <td></td>
 </tr>
 <tr class="odd">
-<td colspan=2>ER Symposia</td>
+<td colspan=2><a href="schedule_session#er-symposia"> ER Symposia </a></td>
 <td></td>
 <td></td>
 <td></td>
@@ -197,7 +197,7 @@ Participation fees are as follows. For more information on how to apply for part
 <!-- 7/1のTFで対応　Note: Participation in workshops only is available online, not on-site. -->
 
 ## Support for Participants
-ESJ72 will have a [childcare room](childcare#child-care) at the venue. We also plan to set up a [Family Lounge](childcare#family-lounge) for use by all participants with families, regardless of whether or not they are using childcare. Please check the [Childcare Support](childcare) page for details.
+ESJ72 will have a [Childcare Room](childcare#child-care) at the venue. We also plan to set up a [Family Lounge](childcare#family-lounge) for use by all participants with families, regardless of whether or not they are using childcare. Please check the [Childcare Support](childcare) page for details.
 
 ## Promoting Diversity
 
