@@ -15,10 +15,10 @@ multi_language: true
 
 **【音響生態学 / Acoustic Ecology】**
 
-【提案者】
+【提案者】<br/>
  Dr. Samuel R.P-J. Ross (Okinawa Institute of Science & Technology Graduate University)
 
-【提案の狙い】
+【提案の狙い】<br/>
 Because many animals produce sound to communicate, the study of sound in ecology is now common. These studies take many forms, including: the study of behaviour and acoustic signalling; ecological studies of populations or communities monitored using new developments in passive acoustic recording technologies; and the study of how anthropogenic noise pollution affects species and ecosystems. Acoustic studies now span multiple realms and taxa, with traditional studies including marine mammals or stridulating insects or birds, but new studies on freshwater streams, soil invertebrates, and plant responses to noise. The Open Session "Acoustic Ecology" invites any researchers studying any aspects of sound and ecology to discuss in an open setting the role of sound in the study of ecology.
 Objectives
 1. Demonstrate the power of acoustic monitoring, bioacoustics, and ecoacoustics for the applied and fundamental ecology from individuals to communities.
@@ -26,10 +26,10 @@ Objectives
 
 **【シカ害問題 / Deer-induced Problems】**
 
-【提案者】
+【提案者】<br/>
 片山歩美准教授（九州大学）
 
-【提案の狙い】
+【提案の狙い】<br/>
 全国の様々な地域でシカの個体数が増加しており、各地で深刻な問題をもたらしている。シカに関する研究は、例えば、獣医学（シカの生態など）、生態学（シカ食害が植物や動物の多様性に与える影響など）、林学（シカ食害から造林木をどの様に守るかなど）、生態系生態学（シカ食害による下層植生消失が物質循環に与える影響など）など、多岐の学問分野にわたる。個々のテーマにおける研究や論文は蓄積され、社会的にも関心が高いことから、これまでの成果を分野横断的に理解・整理し、本当に解決すべき問題を新たに見出す段階に来ていると考えられる。本大会で公募セッションという枠組みを利用し、シカに関するあらゆる研究を発表する機会を設けることで、それぞれの研究のさらなる発展および分野横断的な大型プロジェクトの立案や特集号の企画に繋げ、実社会におけるシカ問題の解決の一端を担うことを狙いとする。
 
 ---
@@ -41,9 +41,13 @@ Objectives
 
 ---
 
-[TODO:ERシンポ採択結果待ち]
+**『Species responses to climate change in terrestrial and aquatic ecosystems』**
 
-**『ER シンポジウム採択用のテストシンポ』**
+【提案者】<br/>
+森本淳子教授（北海道大学）
+
+【ER招待候補者】<br/>
+Prof. Jonathan Lenoir (University of Picardy Jules Verne, France)
 
 ---
 
