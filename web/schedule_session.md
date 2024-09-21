@@ -39,12 +39,12 @@ The following symposium was selected for this year's [ER Symposium](er_symposium
 
 ---
 
-**『Species responses to climate change in terrestrial and aquatic ecosystems』**
+**"Species responses to climate change in terrestrial and aquatic ecosystems" (tentative)**
 
-【Convener】<br/>
+【Organizer】<br/>
 Prof. Junko Morimoto (Hokkaido University)
 
-【Invited Speaker】<br/>
+【ER Invited Speaker】<br/>
 Prof. Jonathan Lenoir (University of Picardy Jules Verne, France)
 
 ---
