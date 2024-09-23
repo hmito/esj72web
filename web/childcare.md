@@ -7,7 +7,7 @@ multi_language: true
 <!--英語版です_-->
 
 # Childcare support
-[Child care](#child-care) and [family lounge](#family-lounge) will be available at the ESJ72 meeting. 
+[Child care](childcare#Child_Care) and [family lounge](childcare#Family_Lounge) will be available at the ESJ72 meeting. 
 
 ## Child Care 
 Contact for the child care clerk, the ESJ72 Organizing Committee: nursery[at]esj.ne.jp
@@ -29,7 +29,7 @@ To be updated (in late December 2024).
 To be updated (in late December 2024).
 
 ## Family Lounge
-Contac for the family lounge clerk, the ESJ72 Organizing Committee: nursery[at]esj.ne.jp
+Contact for the family lounge clerk, the ESJ72 Organizing Committee: nursery[at]esj.ne.jp
 
 A family lounge will be set up for participants with their infant(s) and school children. No reservation is required. Please use the room to eat with your child(ren) or just to relax.
 To prevent accidents, do not let infants and those younger than 9-year-olds use the room on their own. Ten-year-olds and older may use the room on their own, but do not leave them alone for a long time. A nursing room, changing room, diaper-changing tables and kid's bathroom are located near.

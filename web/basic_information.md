@@ -9,8 +9,8 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 # Basic Information
 
 The 72nd Annual Meeting of the Ecological Society of Japan (ESJ72)\
-**Dates**: March 15 (Sat) – March 18 (Tue), 2025\
-**Venue**: Sapporo Convention Center / ONLINE CONF
+**Dates**: [March 15 (Sat) – March 18 (Tue), 2025](#schedule)\
+**Venue**: [Sapporo Convention Center](venue) / ONLINE CONF
 
 ## Format of the Meeting
 The conference will be held in a hybrid format, primarily on-site. The online platform for the conference (hereafter referred to as the "conference platform") will be [ONLINE CONF](https://gakkai.online/).
@@ -19,14 +19,14 @@ The conference will be held in a hybrid format, primarily on-site. The online pl
 - Poster session is available for viewing on the conference platform throughout the conference period. Additionally, those who wish may also display their posters on-site. 		
 	-  The online poster presentation will take the form of a ‘viewing period’ of approximately three days from 12-14 March before the conference. There will be no core time and the opinion exchange forum (video call function) will not be available, but the text chat function will be available.
 	- Core time will be available for on-site participants.
-	- For more information, see [gidleins for poster presentation](for_presentation#poster-presentation).
+	- For more information, see [Guidelines for poster presentation](for_presentation#poster-presentation).
 
 The status of support for online participation is as follows. Note that question and answer sessions will only be available for ER symposia and open call symposia.
 
 ||Real-time video streaming |On-demand video streaming|
 |---|:---:|:---:|
 |Award Lectures, ER Symposia, Open Session|O|O|
-|General meeeting|O|O|
+|General meeting|O|O|
 |Symposia|X|O|
 |Workshops, Forums|X|P|
 |Oral presentations, English oral presentations|X|X|
@@ -68,7 +68,7 @@ X : Unavailable
 <td>☆</td>
 </tr>
 <tr class="odd">
-<td colspan=2>Award celemony and lecture</td>
+<td colspan=2>Award ceremony and lecture</td>
 <td></td>
 <td></td>
 <td>☆</td>
@@ -76,7 +76,7 @@ X : Unavailable
 <td>☆</td>
 </tr>
 <tr class="even">
-<td colspan=2>Open session</td>
+<td colspan=2><a href="schedule_session#open-session">Open session</a></td>
 <td></td>
 <td></td>
 <td>☆</td>
@@ -84,7 +84,7 @@ X : Unavailable
 <td></td>
 </tr>
 <tr class="odd">
-<td colspan=2>ER Symposia</td>
+<td colspan=2><a href="schedule_session#er-symposia"> ER Symposia </a></td>
 <td></td>
 <td></td>
 <td></td>
@@ -125,7 +125,7 @@ X : Unavailable
 <td></td>
 </tr>
 <tr class="odd">
-<td>Onsite</td>
+<td>onsite</td>
 <td></td>
 <td>〇</td>
 <td>〇</td>
@@ -134,12 +134,12 @@ X : Unavailable
 </tr>
 <tr class="even">
 <td rowspan=2>High school student poster</td>
-<td>Online</td>
+<td>online</td>
 <td>△</td>
 <td colspan=4>* Can be viewed and commented on ONLINE CONF during the meeting.</td>
 </tr>
 <tr class="even">
-<td>Onsite</td>
+<td>onsite</td>
 <td></td>
 <td></td>
 <td>〇</td>
@@ -186,7 +186,7 @@ SpatialChat
 <!-- -->
 
 ## Fees and Registrations
-Participation fees are as follows. For more information on how to apply for participation, presentation and organisation of a session, see [Registrations and Proposals](regist_information).
+Participation fees are as follows. For more information on how to apply for participation, presentation and organization of a session, see [Registrations and Proposals](regist_information).
 
 ||Early bird<br/>Until 2/21| Normal price<br/>After 2/22|
 |---|---|---|
@@ -196,8 +196,11 @@ Participation fees are as follows. For more information on how to apply for part
 
 <!-- 7/1のTFで対応　Note: Participation in workshops only is available online, not on-site. -->
 
+## Support for Participants
+ESJ72 will have a [Childcare Room](childcare#child-care) at the venue. We also plan to set up a [Family Lounge](childcare#family-lounge) for use by all participants with families, regardless of whether or not they are using childcare. Please check the [Childcare Support](childcare) page for details.
+
 ## Promoting Diversity
 
-The Ecological Society respects diversity. We expect ambitious proposals from researchers of diverse positions, genders and nationalities. Organisers of symposia and workshops should also take into consideration the balance of positions and genders of the organisers and speakers.
+The Ecological Society of Japan respects diversity. We expect ambitious proposals from researchers of diverse positions, genders and nationalities. Organizers of symposia and workshops should also take into consideration the balance of positions and genders of the organizers and speakers.
 
 The conference will make considerations in accordance with the Disability Discrimination Act, so if you require any consideration when attending the conference, please contact us via [Contact form](contact). If you wish to give a presentation, please contact us as far as possible by 31 October 2024.

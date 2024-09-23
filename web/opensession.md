@@ -9,11 +9,11 @@ multi_language: true
 
 [\<Check the selected Open Session\>](schedule_session#open-session)
 
-Following the previous meeting, ESJ72 will feature symposia (open sessions) that involve the addition of new presentation categories. We invite symposium conveners to propose "themes." If selected, these themes will be used to organize symposia, and the proposed "themes" will be added as new categories for general presentations.
+Following the previous meeting, ESJ72 will feature symposia (open sessions) that involve the addition of new presentation categories. We invite symposium conveners to propose "themes." If selected, these themes will be used to organize symposia, and the proposed "themes" will be added as new categories for regular presentations.
 
 Applicants for oral presentations, poster presentations, and workshops can select these new categories as their preferred presentation fields (excluding symposia). Presentations accepted in these categories will be scheduled consecutively with the open session or given priority for poster displays near the session venue.
 
-This procedure offers conveners more opportunities to interact with more speakers and audience members than regular symposia. Also, general presenters can expect to engage in direct discussions and interactions with symposium organizers. We encourage those planning to propose symposia to review the following guidelines and consider applying for an open session.
+This procedure offers conveners more opportunities to interact with more speakers and audience members than regular symposia. Also, regular presenters can expect to engage in direct discussions and interactions with symposium organizers. We encourage those planning to propose symposia to review the following guidelines and consider applying for an open session.
 
 ## Guidelines
 
@@ -33,7 +33,7 @@ The ESJ72 Planning Committee will review the proposed "themes" and select 1-2 ba
 
 The review will focus on the "appeal of the theme in ecology," "expected impact at the conference," and "clear differentiation from existing categories." We encourage proposals that address recent trends or themes not previously covered by the Ecological Society.
 
-### Coordination with General Presentations
+### Coordination with Regular Presentations
 
 Conveners of accepted themes will receive a list of oral presentations, poster presentations, and workshops submitted under the new category. Conveners may select presentations if necessary. Unselected presentations will be reallocated to secondary categories, but the right to present will not be lost. Note that posters presented in the open session category will not be eligible for poster awards (see Note 2).
 
@@ -64,7 +64,7 @@ This is because securing judges for new themes is challenging. Therefore, poster
 
 1. Symposium organizers (including co-organizers) must be regular members of the Ecological Society of Japan.
 2. Symposia will be held for approximately three hours.
-3. Those proposing themes must also apply for presentations in the same way as general presentations. The registration deadline is the same as for other general presentations.
+3. Those proposing themes must also apply for presentations in the same way as regular presentations. The registration deadline is the same as for other regular presentations.
 
 We look forward to receiving your proposals.
 

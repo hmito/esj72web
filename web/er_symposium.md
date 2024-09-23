@@ -80,7 +80,7 @@ Travel expenses are covered within the society's travel expense regulations (URL
 2. Symposia will be held for approximately three hours.
 3. To promote interdisciplinary exchange, non-members can be invited as guest speakers. The conference participation fee for guest speakers will be waived. However, the same non-member cannot be invited to speak at two consecutive conferences.
 4. When proposing a symposium on the same theme as a previous conference, ensure that new insights and research progress are included. Proposals with the same title, topics, or abstract as previous symposia will not be accepted.
-5. The abstract submission deadline for presentations is the same as for general oral and poster presentations.
+5. The abstract submission deadline for presentations is the same as for regular oral and poster presentations.
 
 ***
 For inquiries and requests related to this matter, please contact Dr. Akiko Hirata, ER Symposium Coordinator of the Symposium Committee of the ESJ72 Planning Committee (Forestry and Forest Products Research Institute): hirataa [at] affrc.go.jp

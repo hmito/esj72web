@@ -31,11 +31,12 @@ About the presentation, except for invited speakers to the Symposia or the Forum
 
 ### Are the workshop presenters required to apply for entry and pay the registration fee?
 
-Because the workshops are formalized events, presenters who only attend the workshops are also required to apply for entry and pay the registration fee. Please check the [registration for participation](regist_information#Registration-for-participation).
+Because the workshops are formalized events, presenters who only attend the workshops are also required to apply for entry and pay the registration fee. Please check the [registration for participation](regist_information#
+#Registration-for-participation).
 
 ### Are audience members who only attend the workshops required to apply for entry and pay the registration fee?
 
-Participants who attend only the workshops are also required to register for the conference and pay the registration fee. Since in ESJ72 online contents seems to be exteremely limited, [the workshop-only-participation fee is no longer offered](regist_information#Abolition-of-Quota-for-Participation-in-Workshops-Only). We apologize for the inconvenience, but we kindly ask you to participate in the convention as a regular participant.
+Participants who attend only the workshops are also required to register for the conference and pay the registration fee. Since in ESJ72 online contents seems to be extremely limited, [the workshop-only-participation fee is no longer offered](regist_information#abolition-of-quota-for-participation-in-workshops-only). We apologize for the inconvenience, but we kindly ask you to participate in the convention as a regular participant.
 
 ### Can non-members attend the public lectures?
 
@@ -73,7 +74,7 @@ You can freely cancel your presentation on the webpage before the deadline for r
 
 ### I want to cancel my registration to the ESJ72. How should I do this?
 
-Please contact the [inquiry form](contact). You can cancel your registration free of charge until 21st Feburary 2024.
+Please contact the [inquiry form](contact). You can cancel your registration free of charge until 21st Feb. 2024.
 
 ### I would like to give a presentation at the symposium. Can I also apply for the oral or poster presentation to have a presentation in case my proposal for the symposium is not accepted?
 
