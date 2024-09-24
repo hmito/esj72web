@@ -37,7 +37,7 @@ P : Partly Available<br/>
 X : Unavailable
 
 ## Schedule
-[TODO:実行委員会からの確定情報待ち]
+
 <table>
 <colgroup>
 <col style="width: 16%" />
@@ -73,25 +73,18 @@ X : Unavailable
 <td></td>
 <td>☆</td>
 <td>☆</td>
-<td>☆</td>
+<td></td>
 </tr>
 <tr class="even">
-<td colspan=2><a href="schedule_session#open-session">Open session</a></td>
+<td colspan=2><a href="schedule_session#open-session">Open session</a>, <a href="schedule_session#er-symposia"> ER Symposia </a></td>
 <td></td>
 <td></td>
 <td>☆</td>
-<td></td>
-<td></td>
+<td>☆</td>
+<td>☆</td>
+</tr>
 </tr>
 <tr class="odd">
-<td colspan=2><a href="schedule_session#er-symposia"> ER Symposia </a></td>
-<td></td>
-<td></td>
-<td></td>
-<td>☆</td>
-<td>☆</td>
-</tr>
-<tr class="even">
 <td colspan=2>Symposia</td>
 <td></td>
 <td></td>
@@ -99,21 +92,29 @@ X : Unavailable
 <td>◎</td>
 <td>◎</td>
 </tr>
-<tr class="odd">
-<td colspan=2>Workshops, Forums</td>
+<tr class="even">
+<td colspan=2>Workshops</td>
 <td></td>
-<td>◎ or 〇</td>
-<td>◎ or 〇</td>
-<td>◎ or 〇</td>
-<td>◎ or 〇</td>
+<td>◎ or ○ ?</td>
+<td>◎ or ○</td>
+<td>◎ or ○</td>
+<td>◎ or ○</td>
+</tr>
+<tr class="odd">
+<td colspan=2>Forums</td>
+<td></td>
+<td></td>
+<td>◎ or ○</td>
+<td>◎ or ○</td>
+<td>◎ or ○</td>
 </tr>
 <tr class="even">
 <td colspan=2>Oral session</td>
 <td></td>
-<td>〇</td>
-<td>〇</td>
-<td>〇</td>
-<td>〇</td>
+<td>○ ?</td>
+<td>○</td>
+<td>○</td>
+<td>○</td>
 </tr>
 <tr class="odd">
 <td rowspan=2>Poster session</td>
@@ -127,10 +128,10 @@ X : Unavailable
 <tr class="odd">
 <td>onsite</td>
 <td></td>
-<td>〇</td>
-<td>〇</td>
-<td>〇</td>
-<td></td>
+<td>○ ?</td>
+<td>○</td>
+<td>○</td>
+<td>○ ?</td>
 </tr>
 <tr class="even">
 <td rowspan=2>High school student poster</td>
@@ -142,24 +143,40 @@ X : Unavailable
 <td>onsite</td>
 <td></td>
 <td></td>
-<td>〇</td>
+<td>○</td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td colspan=2>Ecology course for high school students</td>
 <td></td>
+<td>○</td>
 <td></td>
-<td>〇</td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td colspan=2>Ecology course for children</td>
+<td></td>
+<td></td>
+<td>○</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td colspan=2>Public lecture</td>
 <td></td>
-<td>〇</td>
+<td>○</td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="ven">
+<td colspan=2>Social gathering venue*</td>
+<td></td>
+<td>○</td>
+<td>○</td>
+<td>○</td>
 <td></td>
 </tr>
 </tbody>
@@ -167,8 +184,11 @@ X : Unavailable
 
 ☆: onsite + real-time streaming + on-demand streaming<br/>
 ◎: onsite + on-demand streaming<br/>
-〇: onsite only<br/>
+○: onsite only<br/>
 △: ONLINE CONF<br/>
+?: Depending on the number of applications
+
+\* Although the banquet will not be held as an official event of the conference, we plan to set up a space for socializing at the venue. Please bring your own food and beverages.
 
 <!-- [Phase 3] #参加者の交流の促進
 ※ 大会公式イベントとしての懇親会は開催しませんが、会場内に簡単な懇親用スペースを設ける予定です。なお、飲食物についてはご持参ください。
