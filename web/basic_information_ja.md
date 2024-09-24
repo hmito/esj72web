@@ -26,20 +26,18 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 
 ||リアルタイム配信|オンデマンド配信|
 |---|:---:|:---:|
-|受賞講演、ERシンポ、公募セッション|〇|〇|
-|総会|〇|〇|
-|シンポジウム|×|〇|
+|受賞講演、ERシンポ、公募セッション|○|○|
+|総会|○|○|
+|シンポジウム|×|○|
 |自由集会、フォーラム|×|△|
 |口頭発表、英語口頭発表|×|×|
 |ジュニア生態学講座、公開講演会|×|×|
 
-〇：対応<br/>
+○：対応<br/>
 △：一部のみ対応<br/>
 ×：非対応
 
 ## スケジュール
-
-[TODO:実行委員会からの確定情報待ち]
 
 <table>
 <colgroup>
@@ -76,25 +74,17 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 <td></td>
 <td>☆</td>
 <td>☆</td>
-<td>☆</td>
+<td></td>
 </tr>
 <tr class="even">
-<td colspan=2><a href="schedule_session_ja#公募セッション">公募セッション</a></td>
+<td colspan=2><a href="schedule_session_ja#公募セッション#">公募セッション</a>、<a href="schedule_session_ja#er-シンポジウム">ERシンポジウム</a></td>
 <td></td>
 <td></td>
 <td>☆</td>
-<td></td>
-<td></td>
+<td>☆</td>
+<td>☆</td>
 </tr>
 <tr class="odd">
-<td colspan=2><a href="schedule_session_ja#er-シンポジウム">ERシンポジウム</a></td>
-<td></td>
-<td></td>
-<td></td>
-<td>☆</td>
-<td>☆</td>
-</tr>
-<tr class="even">
 <td colspan=2>シンポジウム</td>
 <td></td>
 <td></td>
@@ -102,21 +92,29 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 <td>◎</td>
 <td>◎</td>
 </tr>
-<tr class="odd">
-<td colspan=2>自由集会･フォーラム</td>
+<tr class="even">
+<td colspan=2>自由集会</td>
 <td></td>
-<td>◎ or 〇</td>
-<td>◎ or 〇</td>
-<td>◎ or 〇</td>
-<td>◎ or 〇</td>
+<td>◎ or ○ ?</td>
+<td>◎ or ○</td>
+<td>◎ or ○</td>
+<td>◎ or ○</td>
+</tr>
+<tr class="odd">
+<td colspan=2>フォーラム</td>
+<td></td>
+<td></td>
+<td>◎ or ○</td>
+<td>◎ or ○</td>
+<td>◎ or ○</td>
 </tr>
 <tr class="even">
 <td colspan=2>口頭発表･英語口頭発表</td>
 <td></td>
-<td>〇</td>
-<td>〇</td>
-<td>〇</td>
-<td>〇</td>
+<td>○ ?</td>
+<td>○</td>
+<td>○</td>
+<td>○</td>
 </tr>
 <tr class="odd">
 <td rowspan=2>ポスター発表</td>
@@ -130,10 +128,10 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 <tr class="odd">
 <td>オンサイト</td>
 <td></td>
-<td>〇</td>
-<td>〇</td>
-<td>〇</td>
-<td></td>
+<td>○ ?</td>
+<td>○</td>
+<td>○</td>
+<td>○ ?</td>
 </tr>
 <tr class="even">
 <td rowspan=2>高校生ポスター</td>
@@ -145,24 +143,40 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 <td>オンサイト</td>
 <td></td>
 <td></td>
-<td>〇</td>
+<td>○</td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td colspan=2>ジュニア生態学講座</td>
+<td colspan=2><a href = "high_school_student_ja/#みんなのジュニア生態学講座">みんなのジュニア生態学講座</a></td>
 <td></td>
+<td>○</td>
 <td></td>
-<td>〇</td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td colspan=2>こども生態学講座</td>
+<td></td>
+<td></td>
+<td>○</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td colspan=2>公開講演会</td>
 <td></td>
-<td>〇</td>
+<td>○</td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td colspan=2>懇親会場※</td>
+<td></td>
+<td>○</td>
+<td>○</td>
+<td>○</td>
 <td></td>
 </tr>
 </tbody>
@@ -170,8 +184,11 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 
 ☆：対面＋リアルタイム配信＋オンデマンド配信<br/>
 ◎：対面＋オンデマンド配信<br/>
-〇：対面のみ<br/>
+○：対面のみ<br/>
 △：ONLINE CONF<br/>
+?：申込件数に応じて、実施する可能性があります。
+
+※大会公式イベントとしての懇親会は開催しませんが、会場内に懇親用スペースを設ける予定です。なお、飲食物についてはご持参ください。
 
 <!-- [Phase 3] #参加者の交流の促進
 ※ 大会公式イベントとしての懇親会は開催しませんが、会場内に簡単な懇親用スペースを設ける予定です。なお、飲食物についてはご持参ください。
