@@ -9,14 +9,14 @@ multi_language: true
 
 Regular presentations include oral and poster sessions.
 
-### Oral session
+**Oral session**
 
 - The total presentation time is 15 minutes: 12 minutes for presentation and 3 minutes for Q&A. 
 - Presentations are onsite only. Online presentations are not available and will not be available on demand.
 - Oral sessions consist of sessions in both Japanese and English. The sessions in English include presentations entered for the English Presentation Award. Oral presentations can be given in English during Japanese oral sessions.
 - Student members or regular members within 5 years of receiving their degrees may be eligible to be considered for the [English Oral Presentation Award](#english-oral-presentation-award) if they make an oral presentation in the English session.
 
-### Poster session
+**Poster session**
 
 - All posters will be posted online (ONLINE CONF) and posters may be displayed on-site if desired.
 - We will allocate a core time during the conference for on-site poster presentations.
