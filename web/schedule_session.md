@@ -15,7 +15,7 @@ The following two themes were selected for this year's [Open Sessions](opensessi
 **< Acoustic Ecology >** 
 
 [Convener]<br/>
-Dr. Samuel R.P-J. Ross (Okinawa Institute of Science & Technology Graduate University)
+Samuel R.P-J. Ross (Okinawa Institute of Science & Technology Graduate University)
 
 [Theme]<br/>
 Acoustic Ecology: a new frontier in ecological research and monitoring
@@ -25,7 +25,7 @@ Acoustic Ecology: a new frontier in ecological research and monitoring
 **< Deer-induced Problems >**　
 
 [Convener]<br/>
-Assoc. Prof. Ayumi Katayama (Kyushu University)
+Ayumi Katayama (Kyushu University)
 
 [Theme]<br/>
 Knowledge Related to Deer Overabundance and Future Prospects　ーToward Solving the Deer Problem in Japanー
@@ -42,13 +42,11 @@ The following symposium was selected for this year's [ER Symposium](er_symposium
 **"Species responses to climate change in terrestrial and aquatic ecosystems" (tentative)**
 
 【Organizer】<br/>
-Prof. Junko Morimoto (Hokkaido University)
+Junko Morimoto, Nobuo Ishiyama, Tomoki Sakiyama (Hokkaido University)
 
 【ER Invited Speaker】<br/>
-Prof. Jonathan Lenoir (University of Picardy Jules Verne, France)
+Jonathan Lenoir (University of Picardy Jules Verne, France)
 
 ---
 
 In ER Symposium, the journal Ecological Research supports the travel expenses of invited speakers. Additionally, the invited speaker is invited to contribute a review or feature paper related to the symposium content on the journal of Ecological Research.
-
-
