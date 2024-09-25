@@ -74,14 +74,14 @@ You can apply for various types of presentations at the following page.
 
 ## English Oral Presentation Award
 
-The English Oral Presentation Award (EPA) is designed to promote research presentations in English at the conference and to create more opportunities for discussion with international students and international participants. At the same time, we hope to increase opportunities to improve communication skills and international information dissemination, especially for early career researchers.
+The English Oral Presentation Award (EPA) is designed to 1) encourage non-native speakers (especially early-career researchers) to present their research and improve their communication skills in English, 2) foster opportunities for more interaction with international participants, and 3) promote English research presentations in general at ESJ conferences.
 
-This award is not a competition for fluency in English or other language skills. Applicants are invited to compete on the basis of the academic content of their presentations as well as their presentation skills and attitude, and the prize will be awarded to those whose presentations are judged to be outstanding by a panel of judges.
+This award is not a competition for fluency in English. Applicants are chosen by a panel of judges on the basis of the academic content of their presentations as well as their presentation skills and attitude.
 
 ### Eligibility
 
 - Applicants must be students (undergraduate, master's, doctoral) or members of the Ecological Society of Japan within 5 years of receiving their degree by March 2025 (childcare/nursing care leave is not included in this 5-year period).
-- Past winners of the EPA Grand Prize are not eligible to apply, but past winners of the Excellence Award are eligible to apply. Please note that these eligibility requirements may change after the next competition, ESJ73.
+- Past winners of the EPA Grand Prize are not eligible to apply, but past winners of the Excellence Award are eligible to apply. Please note that these eligibility requirements may change after the next competition.
 
 ### Judging Criteria
 
