@@ -21,7 +21,7 @@ Important deadlines are as follows.
 
 - Invited speakers at symposia and forums, and undergraduate or below who is not organizer and speaker can participate free of charge.
 - Due to system transition, registrations will not be available from December 1, 2024 to January 5, 2025.
-- Members who have not paid the membership fee from 2023 will [not be able to complete the registration and application procedures](#if-you-have-not-paid-the-membership-fee-from-2023-you-will-not-be-able-to-complete-the-various-procedures) until payment is confirmed. Please pay the membership fee, at least, one week before the deadline.
+- Members who have not paid the membership fee from 2023 will <a href = "regist_information/#If_you_have_not_paid_the_membership_fee_from_2023_you_will_not_be_able_to_complete_any_procedures"> not be able to complete the registration and application procedures</a> until payment is confirmed. Please pay the membership fee, at least, one week before the deadline.
 	- You can check the payment status of the membership fee from [My Page](https://iap-jp.org/esj/mypage/login/login).
 
 

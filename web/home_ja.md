@@ -30,7 +30,7 @@ multi_language: true
 -	2024.10.01: 大会参加・各種申し込み開始に向けて、関連情報を大幅に更新しました。
 	- [大会基本情報](basic_information_ja)に大会形式、スケジュール、参加費、委員会メンバーを公開しました。
 	- [会場](venue_ja)へのアクセス情報を公開しました。
-	- [育児支援](childcare_ja)、[キャリア支援](career_ja)の取り組みを公開しました。
+	- [育児支援](childcare_ja)、[キャリア支援](career_ja)、[こども生態学講座](children_ja)の取り組みを公開しました。
 	- [各種申込み方法と注意点](regist_information_ja)を公開しました。
 	- [一般講演](regist_oral_poster_ja)、[各種集会](regist_session_ja)および本大会での[ポスター発表の方法](for_presentation_ja)についての情報を公開しました。
 	- [高校生ポスター](high_school_student_ja#高校生ポスター)および[みんなのジュニア生態学講座](high_school_student_ja#みんなのジュニア生態学講座)についての情報を公開しました。

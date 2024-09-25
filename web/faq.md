@@ -44,7 +44,7 @@ Yes. Participants who attend only the public lectures do not have to apply for e
 
 ### Can the registration and banquet fees be paid by my organization using public expense?
 
-Yes. If you wish to pay by invoice, please apply for participation at the registration system first. Please select "Postal Transfer" as the payment method. We request that you pay in advance. After completing the application, please contact the [inquiry form](contact).
+Yes. If you wish to pay by invoice, please apply for participation at the registration system first. Please select "Postal Transfer" as the payment method. We request that you pay in advance. After completing the application, please contact us from the [inquiry form](contact).
 
 ### Will receipts for the registration fee be issued?
 
@@ -58,7 +58,7 @@ The registration fee for the members (both regular participants and students) is
 
 ### I lost my membership ID/login ID
 
-If you are an ESJ member, please contact our membership administration officer using the inquiry form on the [The Ecological Society of Japan - My Page](https://bunken.org/esj/mypage/login/login). If you are not an ESJ member, please contact the [inquiry form](contact).
+If you are an ESJ member, please contact our membership administration officer using the inquiry form on the [The Ecological Society of Japan - My Page](https://bunken.org/esj/mypage/login/login). If you are not an ESJ member, please contact us from the [inquiry form](contact).
 
 ### If I'm not planning to give a presentation, can I apply to attend the meeting after the application deadline for the presentation registration has passed?
 
@@ -70,11 +70,11 @@ You can freely cancel or change your submitted information on the webpage before
 
 ### I want to cancel my presentation. How should I do this?
 
-You can freely cancel your presentation on the webpage before the deadline for registration (October 31, 2024). After the deadline, please contact the planning committee using the [inquiry form](contact). Please note that the information at the time of the registration deadline will appear on the program and the ESJ72 official website.
+You can freely cancel your presentation on the webpage before the deadline for registration (October 31, 2024). After the deadline, please contact us from the [inquiry form](contact). Please note that the information at the time of the registration deadline will appear on the program and the ESJ72 official website.
 
 ### I want to cancel my registration to the ESJ72. How should I do this?
 
-Please contact the [inquiry form](contact). You can cancel your registration free of charge until 21st Feb. 2024.
+Please contact us from the [inquiry form](contact). You can cancel your registration free of charge until 21st Feb. 2024.
 
 ### I would like to give a presentation at the symposium. Can I also apply for the oral or poster presentation to have a presentation in case my proposal for the symposium is not accepted?
 
