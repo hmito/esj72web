@@ -87,7 +87,7 @@ X : Unavailable
 <tr class="odd">
 <td colspan=2>Symposia</td>
 <td></td>
-<td></td>
+<td>◎ ?</td>
 <td>◎</td>
 <td>◎</td>
 <td>◎</td>
@@ -120,7 +120,7 @@ X : Unavailable
 <td rowspan=2>Poster session</td>
 <td>online</td>
 <td>△</td>
-<td colspan=4>* Can be viewed and commented on ONLINE CONF during the meeting.</td>
+<td colspan=4>* Can be viewed and commented on ONLINE CONF until April.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -137,7 +137,7 @@ X : Unavailable
 <td rowspan=2>High school student poster</td>
 <td>online</td>
 <td>△</td>
-<td colspan=4>* Can be viewed and commented on ONLINE CONF during the meeting.</td>
+<td colspan=4>* Can be viewed and commented on ONLINE CONF until April.</td>
 </tr>
 <tr class="even">
 <td>onsite</td>
