@@ -87,7 +87,7 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 <tr class="odd">
 <td colspan=2>シンポジウム</td>
 <td></td>
-<td></td>
+<td>◎ ?</td>
 <td>◎</td>
 <td>◎</td>
 <td>◎</td>
@@ -120,7 +120,7 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 <td rowspan=2>ポスター発表</td>
 <td>オンライン</td>
 <td>△</td>
-<td colspan=4>※大会終了までONLINE CONF上で閲覧・コメント可能</td>
+<td colspan=4>※4月頃までONLINE CONF上で閲覧・コメント可能</td>
 <td></td>
 <td></td>
 <td></td>
@@ -137,7 +137,7 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 <td rowspan=2>高校生ポスター</td>
 <td>オンライン</td>
 <td>△</td>
-<td colspan=4>※大会終了までONLINE CONF上で閲覧・コメント可能</td>
+<td colspan=4>※4月頃までONLINE CONF上で閲覧・コメント可能</td>
 </tr>
 <tr class="even">
 <td>オンサイト</td>
