@@ -1,9 +1,22 @@
 ---
-url: https://esj-meeting.net/schedule_session_ja/
+url: https://esj-meeting.net/public_lecture_ja/
 menu: 日程・各種企画 > 公開講演会
 toc: true
 multi_language: true
 ---
+
+<!--実行委員会担当者様
+
+執筆についてご案内です。
+
+・markdown形式の細かい書き方は、説明ページ（https://github.com/hmito/esj72web/blob/main/docs/esj_web_markdown.md）をご覧ください。
+・情報の準備が間に合わなければ、年明け以降の更新に先延ばしいただいてもかまいませんが、Web担当者の負担軽減のため、できれば一斉更新に間に合わせていただけると助かります。
+・構成原案はあくまで参考ですので、適宜情報が伝わりやすいよう、情報の取捨選択も含めて編集をお願いします。
+・英語版の作成もお願いいたします。
+・提出はSlackのWeb更新依頼チャンネルからお願いします。なお、チャンネルに参加されていない場合は、運営部会宛にメールでご提出ください。
+
+お手数おかけしますが、何卒よろしくお願いいたします。
+-->
 
 # 公開講演会
 
