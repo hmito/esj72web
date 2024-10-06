@@ -23,7 +23,7 @@ multi_language: true
 |Priority|Top priority|Lottery if too many applications|Top priority|
 |Presentations by non-ESJ members|**Encouraged**<br>Invited speakers are exempt from the registration fee|**Not allowed**<br>Comments and opinions without abstract submissions are allowed|**Allowed**|
 |Regular Presentations by organizers/speakers|Not allowed|Allowed|Allowed|
-|Presentations in other sessions by organizers/speakers|Not allowed|Not Allowed|Allowed|
+|Presentations in other sessions by organizers/speakers|Not allowed|Not allowed|Allowed|
 
 ### Symposium
 
