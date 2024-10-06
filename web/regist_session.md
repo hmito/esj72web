@@ -48,7 +48,6 @@ Forum is organized by the committees of the Ecological Society of Japan to solic
 
 - Duration of the session is 90 minutes. Speakers are required to present on-site.
 - If requested, the presentations will be recorded and streamed on-demand to conference participants during the congress or for about a month after the congress. However, in the case of a large number of requests for streaming, on-demand streaming may be selected in principle on a first-come, first-served basis.
-- Non-member conference attendees (those who have paid the registration fee) may also participate in the forum.
 
 ## Online Support
 
