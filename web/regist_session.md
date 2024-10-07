@@ -8,7 +8,7 @@ multi_language: true
 # Proposal for sessions
 * There are three types of sessions: [Symposia](#symposium), [Workshops](#workshop),and [Forums](#forum).
     - Symposium category includes the regular symposium as well as two special types: the [Open Session](opensession), where the theme is introduced as a new presentation field within the Ecological Society, and the [ER Symposium](er_symposium), where travel grants and free admission to the conference are available for inviting international researchers.
-- At all sessions, speakers will be asked to present on-site in principle.
+- At all sessions, [speakers will be asked to present on-site](#online-support).
 - We look forward to receiving enthusiastic proposals from researchers from various positions, genders, and nationalities.
 
 ## Concept of sessions
@@ -23,7 +23,7 @@ multi_language: true
 |Priority|Top priority|Lottery if too many applications|Top priority|
 |Presentations by non-ESJ members|**Encouraged**<br>Invited speakers are exempt from the registration fee|**Not allowed**<br>Comments and opinions without abstract submissions are allowed|**Allowed**|
 |Regular Presentations by organizers/speakers|Not allowed|Allowed|Allowed|
-|Presentations in other sessions by organizers/speakers|Not allowed|Not Allowed|Allowed|
+|Presentations in other sessions by organizers/speakers|Not allowed|Not allowed|Allowed|
 
 ### Symposium
 
@@ -31,7 +31,7 @@ Symposium is the main session of the conference, and we call members to submit p
 
 - Duration of the session is 180 minutes. Speakers are required to present on-site.
 - In principle, all presentations will be recorded and made available on-demand to conference participants during the meeting or for about a month after the conference.
-- To promote international information dissemination and discussion at the symposium, we welcome the active participation of international researchers through online participation and non-members through the Invited Speaker System.
+- To promote international information dissemination and discussion at the symposium, we welcome the active participation of international researchers and non-members through the Invited Speaker System.
 - To promote exchange with other disciplines, non-members of the Ecological Society of Japan are welcome to give invited lectures. The conference registration fee for invited speakers will be waived. **Please note that the same non-member cannot be the invited speaker for two consecutive years**.
 
 ### Workshop
@@ -48,12 +48,26 @@ Forum is organized by the committees of the Ecological Society of Japan to solic
 
 - Duration of the session is 90 minutes. Speakers are required to present on-site.
 - If requested, the presentations will be recorded and streamed on-demand to conference participants during the congress or for about a month after the congress. However, in the case of a large number of requests for streaming, on-demand streaming may be selected in principle on a first-come, first-served basis.
-- Non-member conference attendees (those who have paid the registration fee) may also participate in the forum.
+
+## Online Support
+
+### Online Presentations
+
+Online presentations will not be accepted at this conference. This is to avoid problems in advance because presenters cannot use their own PCs for presentations and there are limitations on wifi network at the conference venue. We appreciate your understanding.
+
+If it is difficult to make a presentation onsite, **prerecorded video presentations will be accepted** for presentations that do not require abstract submission (e.g., explanation of purpose, comments, and statements of opinion in the session) and for forum presentations only.
+
+### Streaming of Presentations
+
+All symposia and a part of workshops and forums will be recorded and made available on ONLINE CONF at a later date.
+
+In order to prevent problems with the recordings, all recording work will be handled by a contractor. Recording will only be done on the presentation PCs set up at the venue, so only the slides and audio will be recorded. Neither the venue nor the speaker's face will be shown on the recordings. For the Q&A session and discussions, only speeches made through the microphone can be recorded.
 
 ## Organization of Symposium and Workshop
 
 ### How to organize Sessions
 
+- Presentations must be made using the PCs set up at the venue. PCs brought in by organizers or speakers are not allowed to be used.
 - For all sessions, the organizers and speakers must be members of the Ecological Society of Japan. However, non-members may be invited to give invited lectures for symposia only ([see eligibility for each membership category](regist_information#presentation-eligibility-by-membership-type)).
 - The organizer/speaker of a Symposium/Workshop cannot be an organizer/speaker of another session or a speaker of Regular Presentations. However, only the combination of Workshop and Regular presentation can be duplicated (see [Overlap restrictions](regist_information#overlap-restrictions)).
 - Explanation of aim, comments, and statements of opinion that do not involve abstract registration do not count as presentations. Therefore, non-members may participate in the conference in these forms and are not subject to duplication restrictions.
