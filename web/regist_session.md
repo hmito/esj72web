@@ -82,11 +82,11 @@ In order to prevent problems with the recordings, all recording work will be han
 
 You can apply for the sessions at the following pages.
 
-**[[Go to Application site]](https://iap-jp.org/esj/conf/login.php)**
+**[[Go to Application site]](https://iap-jp.org/esj/conf/login_en.php)**
 
 - The deadline to apply for the Symposium and Workshop is 31st Oct. 2024 23:59 (JST).
 - Organizers apply for proposal of sessions using the membership number registered on the conference application site. The membership number can also be found by using the member search function on [My Page](https://iap-jp.org/esj/mypage/login/login).
-	- **All co-organizers/speakers must be registered on [the conference application site](https://iap-jp.org/esj/conf/login.php) before the organizer submits an application (deadline: 31st Oct. 2024).** Please make sure to inform all co-organizers and speakers to log in to the conference registration site and register their information (e-mail address, affiliation, etc.) in advance.
+	- **All co-organizers/speakers must be registered on [the conference application site](https://iap-jp.org/esj/conf/login_en.php) before the organizer submits an application (deadline: 31st Oct. 2024).** Please make sure to inform all co-organizers and speakers to log in to the conference registration site and register their information (e-mail address, affiliation, etc.) in advance.
 - Organizers will register all presentation together. Please collect the following informations before submitting.
     - Title (no more than 150 characters)
 	- Name and affiliation of speakers/co-presenters
@@ -102,7 +102,7 @@ You can apply for the sessions at the following pages.
 
 - Only members of the Ecological Society of Japan are eligible to present at Symposia and Workshops, with the exception of invited symposium speakers.
 	- Non-members are requested to apply for membership by 31st Oct. 2024 23:59 (JST) and pay the conference fee by 21st Feb. 2025 23:59 (JST), by referring to [this page](regist_information#procedure-for-new-membership-to-the-ecological-society-of-japan).
-- **All co-organizers/speakers must be registered on [the conference application site](https://iap-jp.org/esj/conf/login.php) before the organizer submits an application (deadline: 31st Oct. 2024).** Please log in to the conference application site using your membership number (login ID for non-member speakers) and register your information (e-mail address, affiliation, etc.) as soon as possible.
+- **All co-organizers/speakers must be registered on [the conference application site](https://iap-jp.org/esj/conf/login_en.php) before the organizer submits an application (deadline: 31st Oct. 2024).** Please log in to the conference application site using your membership number (login ID for non-member speakers) and register your information (e-mail address, affiliation, etc.) as soon as possible.
 - When applying for the session, please provide the following information to the organizer. Please note that these information cannot be changed after the deadline.
 	- Title (both in Japanese and English, maximum 150 characters)
     - Name and affiliation of speakers/co-presenters
