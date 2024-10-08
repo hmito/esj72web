@@ -9,7 +9,7 @@ multi_language: true
 
 Applications for [Regular Presentations](regist_oral_poster), [Symposia](regist_session#symposium), and [Workshops](regist_session#workshop) are accepted until 31st Oct. 2024 (JST). Please check the details in below and register from the application site.
 
-**[[Go to the Applications site]](https://iap-jp.org/esj/conf/login.php)**
+**[[Go to the Applications site]](https://iap-jp.org/esj/conf/login_en.php)**
 
 Important deadlines are as follows.
 
@@ -30,7 +30,7 @@ Important deadlines are as follows.
 ## Registration for Participation
 You can register for the conference participation at the below link.
 
-**[[Go to the Application site]](https://iap-jp.org/esj/conf/login.php)**
+**[[Go to the Application site]](https://iap-jp.org/esj/conf/login_en.php)**
 
 ||Early bird<br/>until 21st Feb.|Normal price<br/>after 22nd Feb.|
 |---|---|---|
@@ -52,7 +52,7 @@ You can register for the conference participation at the below link.
 You can apply for Regular Presentations, Symposia, and Workshops at the Application site.
 Please read the description of each session (links in the table below) and [Other Notes](#other-notes) before applications.
 
-**[[Go to Application site]](https://iap-jp.org/esj/conf/login.php)**
+**[[Go to Application site]](https://iap-jp.org/esj/conf/login_en.php)**
 
 <table>
 	<colgroup>
