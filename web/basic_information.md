@@ -16,7 +16,7 @@ The 72nd Annual Meeting of the Ecological Society of Japan (ESJ72)\
 The conference will be held in a hybrid format, primarily on-site. The online platform for the conference (hereafter referred to as the "conference platform") will be [ONLINE CONF](https://gakkai.online/).
 
 - All meeting events except Poster session are held on-site. 
-	- All presentations are to be given on-site. All presentations must be made onsite using the [presentation PCs provided at the venue](for_presentation#onsite-presentation).
+	- All presentations are to be given on-site. All presentations must be made onsite using the [presentation PCs provided at the venue](for_presentation#notice).
 	- Online presentations are not allowed at the sessions due to technical difficulties. For details, please refer to [here](regist_session#online-support).
 - Poster session is available for viewing on the conference platform throughout the conference period. Additionally, those who wish may also display their posters on-site. 		
 	-  The online poster presentation will take the form of a ‘viewing period’ of approximately three days from 12-14 March before the conference. There will be no core time and the opinion exchange forum (video call function) will not be available, but the text chat function will be available.
