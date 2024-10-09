@@ -67,7 +67,7 @@ In order to prevent problems with the recordings, all recording work will be han
 
 ### How to organize Sessions
 
-- Presentations must be made using the PCs set up at the venue. PCs brought in by organizers or speakers are not allowed to be used.
+- Presentations must be made using [the PCs set up at the venue](for_presentation#onsite-presentation). PCs brought in by organizers or speakers are not allowed to be used.
 - For all sessions, the organizers and speakers must be members of the Ecological Society of Japan. However, non-members may be invited to give invited lectures for symposia only ([see eligibility for each membership category](regist_information#presentation-eligibility-by-membership-type)).
 - The organizer/speaker of a Symposium/Workshop cannot be an organizer/speaker of another session or a speaker of Regular Presentations. However, only the combination of Workshop and Regular presentation can be duplicated (see [Overlap restrictions](regist_information#overlap-restrictions)).
 - Explanation of aim, comments, and statements of opinion that do not involve abstract registration do not count as presentations. Therefore, non-members may participate in the conference in these forms and are not subject to duplication restrictions.

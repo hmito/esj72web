@@ -7,6 +7,11 @@ multi_language: true
 
 # Guidelines for Presentations
 
+## Onsite Presentation
+- All oral presentations and sessions must be made using the presentation PCs set up at the venue. Presentations cannot be made using your own PC.
+- The OS of the presentation PC is Windows 10. Presentations can be made with PowerPoint files or PDF files.
+- Video can be played back as long as it is in MP4 format. Other formats are not guaranteed.
+
 ## Poster Presentation 
 ### Online Poster Presentations
 
