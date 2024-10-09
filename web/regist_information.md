@@ -155,7 +155,7 @@ In the past, the ESJ conference has included a “Workshop Only Attendance” ca
 
 ### Participation Certificates/Receipts
 
-Participation certificates and receipts will be issued from the conference platform ONLINE CONF, not from the application site. Please note that printed copies will not be sent out and will be available for downloading after 6th Jan. 2025, when ONLINE CONF will be opened. Please note that the amount shown on the receipt is non-taxable for members (both regular and student) and taxable for non-members.
+Participation certificates and receipts will be issued from the conference platform ONLINE CONF, not from the application site. Please note that printed copies will not be sent out and will be available for downloading after 6th Jan. 2025, when ONLINE CONF will be opened. Please note that the amount shown on the receipt is non-taxable for members (both regular and student) and taxable for non-members.　The participation fee covers the cost of attending the research presentations and meetings. Lunch and receptions are not included.
 
 The Ecological Society of Japan is **not registered** as a Qualified Invoicing Business and cannot issue invoices.
 
