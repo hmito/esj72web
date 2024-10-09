@@ -11,6 +11,14 @@ multi_language: true
 - All oral presentations and sessions must be made using the presentation PCs set up at the venue. Presentations cannot be made using your own PC.
 	- The OS of the presentation PC is Windows 10. Presentations can be made with PowerPoint files or PDF files.
 	- Video can be played back as long as it is in MP4 format. Other formats are not guaranteed.
+- Online poster presentations and [presentations to be streamed online](basic_information#format-of-the-meeting) are considered public transmission under the Copyright Act.
+	- If the content of your presentation includes copyrighted works, you must obtain the permission of the author to stream the presentation.
+	- Please make sure that the content of your screen-shared slides and submitted poster PDFs do not infringe on copyrights or cause defamation issues.
+	- When citing published works, please be sure to clearly indicate the source. In the unlikely event that a third party's copyright is infringed upon by the content of a presentation, the presenter will be held responsible for any damage caused to the third party.
+
+## Oral Presentation
+- The total presentation time is 15 minutes: 12 minutes for the presentation and 3 minutes for the Q&A session. Please be punctual: 1, 2, and 3 bells will be rung at 10, 12, and 14 minutes and 30 seconds; for video performances, 3 bells will be rung at 2 minutes and 30 seconds after the start of the Q&A session.
+- For oral presentations, the previous speaker will be asked to chair the next presentation, including English sessions. The first chairperson will be assigned by the room attendant.
 
 ## Poster Presentation 
 ### Online Poster Presentations
