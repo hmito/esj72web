@@ -41,6 +41,8 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 
 ## スケジュール
 
+詳細なタイムテーブルは、12月末から1月頭頃に公開予定です。
+
 <table>
 <colgroup>
 <col style="width: 16%" />

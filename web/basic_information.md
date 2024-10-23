@@ -40,6 +40,8 @@ X : Unavailable
 
 ## Schedule
 
+A detailed timetable will be available around the end of December or beginning of January.
+
 <table>
 <colgroup>
 <col style="width: 16%" />
