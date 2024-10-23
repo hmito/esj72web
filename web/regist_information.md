@@ -99,6 +99,7 @@ Please read the description of each session (links in the table below) and [Othe
 ### Overlap Restrictions
 There are restrictions on overlapping presentations at the conference:
 
+- Overlap restrictions apply only if you are already an organizer or speaker of a session or presentation. There is no restriction on being a co-author of a presentation.
 - Symposium organizers/speakers cannot be organizers/speakers in other symposium, workshop, or regular presentations.
 	- However, explanations of aim, comments, or statement of opinions without abstract submission is not subject to overlap restrictions.
 - Workshop organizers/speakers can be regular presentation speakers.
@@ -155,7 +156,7 @@ In the past, the ESJ conference has included a “Workshop Only Attendance” ca
 
 ### Participation Certificates/Receipts
 
-Participation certificates and receipts will be issued from the conference platform ONLINE CONF, not from the application site. Please note that printed copies will not be sent out and will be available for downloading after 6th Jan. 2025, when ONLINE CONF will be opened. Please note that the amount shown on the receipt is non-taxable for members (both regular and student) and taxable for non-members.
+Participation certificates and receipts will be issued from the conference platform ONLINE CONF, not from the application site. Please note that printed copies will not be sent out and will be available for downloading after 6th Jan. 2025, when ONLINE CONF will be opened. Please note that the amount shown on the receipt is non-taxable for members (both regular and student) and taxable for non-members.　The participation fee covers the cost of attending the research presentations and meetings. Lunch and receptions are not included.
 
 The Ecological Society of Japan is **not registered** as a Qualified Invoicing Business and cannot issue invoices.
 

@@ -54,6 +54,10 @@ Yes. Receipts will be issued from ONLINE CONF, not from the registration system.
 
 The registration fee for the members (both regular participants and students) is not taxable, and the registration fee for the non-members is taxable and includes tax.
 
+### What expenses are included in the participation fee?
+
+The participation fee only covers the cost of attending the research presentations and meetings. Lunch and receptions are not included.
+
 ## Application (to attend the meeting and/or apply for a presentation)
 
 ### I lost my membership ID/login ID
