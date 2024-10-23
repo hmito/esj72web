@@ -99,6 +99,7 @@ Please read the description of each session (links in the table below) and [Othe
 ### Overlap Restrictions
 There are restrictions on overlapping presentations at the conference:
 
+- Overlap restrictions apply only if you are already an organizer or speaker of a session or presentation. There is no restriction on being a co-author of a presentation.
 - Symposium organizers/speakers cannot be organizers/speakers in other symposium, workshop, or regular presentations.
 	- However, explanations of aim, comments, or statement of opinions without abstract submission is not subject to overlap restrictions.
 - Workshop organizers/speakers can be regular presentation speakers.
