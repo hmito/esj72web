@@ -19,7 +19,8 @@ Important deadlines are as follows.
 |[**Procedures for Presentations**](#proposals-for-presentations-and-sessions)|Deadline for Proposals|Deadline for Abstract Submission||
 |[**Non-members joining the ESJ for presentations**](#procedure-for-new-membership-to-the-ecological-society-of-japan)|Deadline for new members to join the ESJ|Deadline for payment of membership fee for 2025||
 
-- Invited speakers at symposia and forums, and undergraduate or below who is not organizer and speaker can participate free of charge.
+- Invited speakers at symposia, and undergraduate or below who is not organizer and speaker can participate without registration fee.
+	- Invited speakers at forum may participate in the forum without registration fee, but those who wish to participate in other sessions or meetings are required to pay the conference registration fee.
 - Due to system transition, registrations will not be available from December 1, 2024 to January 5, 2025.
 - Members who have not paid the membership fee from 2023 will <a href = "regist_information/#If_you_have_not_paid_the_membership_fee_from_2023_you_will_not_be_able_to_complete_any_procedures"> not be able to complete the registration and application procedures</a> until payment is confirmed. Please pay the membership fee, at least, one week before the deadline.
 	- You can check the payment status of the membership fee from [My Page](https://iap-jp.org/esj/mypage/login/login).
