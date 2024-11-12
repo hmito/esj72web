@@ -40,7 +40,7 @@ X : Unavailable
 
 ## Schedule
 
-A detailed timetable will be available around the end of December or beginning of January.
+The detailed timetable will be released around the end of December or beginning of January. Please note that the schedule is not final and may be subject to change in the future due to organizational reasons.
 
 <table>
 <colgroup>
@@ -74,10 +74,10 @@ A detailed timetable will be available around the end of December or beginning o
 <tr class="odd">
 <td colspan=2>Award ceremony and lecture</td>
 <td></td>
-<td></td>
 <td>☆</td>
 <td>☆</td>
 <td></td>
+<td>☆</td>
 </tr>
 <tr class="even">
 <td colspan=2><a href="schedule_session#open-session">Open session</a>, <a href="schedule_session#er-symposia"> ER Symposia </a></td>
@@ -91,7 +91,7 @@ A detailed timetable will be available around the end of December or beginning o
 <tr class="odd">
 <td colspan=2>Symposia</td>
 <td></td>
-<td>◎ ?</td>
+<td></td>
 <td>◎</td>
 <td>◎</td>
 <td>◎</td>
@@ -99,7 +99,7 @@ A detailed timetable will be available around the end of December or beginning o
 <tr class="even">
 <td colspan=2>Workshops</td>
 <td></td>
-<td>◎ or ○ ?</td>
+<td></td>
 <td>◎ or ○</td>
 <td>◎ or ○</td>
 <td>◎ or ○</td>
@@ -115,7 +115,7 @@ A detailed timetable will be available around the end of December or beginning o
 <tr class="even">
 <td colspan=2>Oral session</td>
 <td></td>
-<td>○ ?</td>
+<td>○</td>
 <td>○</td>
 <td>○</td>
 <td>○</td>
@@ -132,10 +132,10 @@ A detailed timetable will be available around the end of December or beginning o
 <tr class="odd">
 <td>onsite</td>
 <td></td>
-<td>○ ?</td>
+<td></td>
 <td>○</td>
 <td>○</td>
-<td>○ ?</td>
+<td>○</td>
 </tr>
 <tr class="even">
 <td rowspan=2>High school student poster</td>
@@ -190,7 +190,6 @@ A detailed timetable will be available around the end of December or beginning o
 ◎: onsite + on-demand streaming<br/>
 ○: onsite only<br/>
 △: ONLINE CONF<br/>
-?: Depending on the number of applications
 
 \* Although the banquet will not be held as an official event of the conference, we plan to set up a space for socializing at the venue. Please bring your own food and beverages.
 

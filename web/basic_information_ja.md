@@ -41,7 +41,7 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 
 ## スケジュール
 
-詳細なタイムテーブルは、12月末から1月頭頃に公開予定です。
+詳細なタイムテーブルは、12月末から1月頭頃に公開予定です。なお、スケジュールは確定ではなく、編成の都合で今後変更される可能性もあります。
 
 <table>
 <colgroup>
@@ -68,17 +68,17 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 <td colspan=2>総会</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 <td>☆</td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td colspan=2>授賞式・受賞講演</td>
 <td></td>
-<td></td>
 <td>☆</td>
 <td>☆</td>
 <td></td>
+<td>☆</td>
 </tr>
 <tr class="even">
 <td colspan=2><a href="schedule_session_ja#公募セッション#">公募セッション</a>、<a href="schedule_session_ja#er-シンポジウム">ERシンポジウム</a></td>
@@ -91,7 +91,7 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 <tr class="odd">
 <td colspan=2>シンポジウム</td>
 <td></td>
-<td>◎ ?</td>
+<td></td>
 <td>◎</td>
 <td>◎</td>
 <td>◎</td>
@@ -99,7 +99,7 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 <tr class="even">
 <td colspan=2>自由集会</td>
 <td></td>
-<td>◎ or ○ ?</td>
+<td></td>
 <td>◎ or ○</td>
 <td>◎ or ○</td>
 <td>◎ or ○</td>
@@ -115,7 +115,7 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 <tr class="even">
 <td colspan=2>口頭発表･英語口頭発表</td>
 <td></td>
-<td>○ ?</td>
+<td>○</td>
 <td>○</td>
 <td>○</td>
 <td>○</td>
@@ -132,10 +132,10 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 <tr class="odd">
 <td>オンサイト</td>
 <td></td>
-<td>○ ?</td>
+<td></td>
 <td>○</td>
 <td>○</td>
-<td>○ ?</td>
+<td>○ </td>
 </tr>
 <tr class="even">
 <td rowspan=2>高校生ポスター</td>
@@ -189,8 +189,7 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 ☆：対面＋リアルタイム配信＋オンデマンド配信<br/>
 ◎：対面＋オンデマンド配信<br/>
 ○：対面のみ<br/>
-△：ONLINE CONF<br/>
-?：申込件数に応じて、実施する可能性があります。
+△：ONLINE CONF
 
 ※大会公式イベントとしての懇親会は開催しませんが、会場内に懇親用スペースを設ける予定です。なお、飲食物についてはご持参ください。
 

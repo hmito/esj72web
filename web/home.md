@@ -23,6 +23,7 @@ The 72<sup>th</sup> Annual Meeting of the Ecological Society of Japan will be he
 The conference will be held in [a hybrid format, primarily on-site](basic_information#format-of-the-meeting).
 
 ## Update history
+- 2024.11.13: Some updates have been made to the [schedule](basic_information#schedule).
 - 2024.10.07: Added [Policy on Online Presentations](regist_session#online-support) for sessions.
 - 2024.10.01: The selected open sessions and ER symposium are available.
 - 2024.10.01: Significantly updated information related to the start of presentation, session organization and registration for participation.
