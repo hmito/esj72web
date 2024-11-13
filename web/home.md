@@ -8,9 +8,10 @@ multi_language: true
 # Home
 
 ## Important notice
-- **Online presentations at sessions are not allowed. For details, please check [here](regist_session#online-support).**
-- **We are now calling for [Regular presentations](regist_oral_poster), [Symposia and Workshops](regist_session). Apply from [Registrations and Proposals](regist_information#proposals-for-presentations-and-sessions) (Deadline: 31st Oct. 2024 23:59(JST))**
+- **The timetable is currently being organized. The final timetable will be available after the end of December.**
+	- 11.13 Tentative [schedule of sessions](basic_information_en#Schedule), which were supposed to be held according to the number of applications, has been posted.
 - **[Participation in the conference](regist_information#registration-for-participation) is now open for registration.**
+	- Note that registration will not be available from 1st Dec. 2024 to 5th Jan. 2025 due to the system transition.
 - **[The selected open sessions and ER symposium](schedule_session) are available.**
 
 ## Meeting information
