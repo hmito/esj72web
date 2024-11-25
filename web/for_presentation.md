@@ -11,6 +11,7 @@ multi_language: true
 - All oral presentations and sessions must be made using the presentation PCs set up at the venue. Presentations cannot be made using your own PC.
 	- The OS of the presentation PC is Windows 10. Presentations can be made with PowerPoint files or PDF files.
 	- Video can be played back as long as it is in MP4 format. Other formats are not guaranteed.
+	- Please save the files you will use for your presentation on a USB drive or similar storage device and bring it with you. Note that the venue does not provide USB drives for file transfer.
 - Online poster presentations and [presentations to be streamed online](basic_information#format-of-the-meeting) are considered public transmission under the Copyright Act.
 	- If the content of your presentation includes copyrighted works, you must obtain the permission of the author to stream the presentation.
 	- Please make sure that the content of your screen-shared slides and submitted poster PDFs do not infringe on copyrights or cause defamation issues.
