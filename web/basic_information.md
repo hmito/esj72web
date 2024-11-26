@@ -227,8 +227,3 @@ ESJ72 will have a [Childcare Room](childcare#child-care) at the venue. We also p
 The Ecological Society of Japan respects diversity. We expect ambitious proposals from researchers of diverse positions, genders and nationalities. Organizers of symposia and workshops should also take into consideration the balance of positions and genders of the organizers and speakers.
 
 The conference will make considerations in accordance with the Disability Discrimination Act, so if you require any consideration when attending the conference, please contact us via [Contact form](contact). If you wish to give a presentation, please contact us as far as possible by 31 October 2024.
-
-## Online break room
-
-ESJ72 will have an online break room (SpatialChat) that can be accessed freely by every meeting participant. The room will be accessed via a link within the conference platform (ONLINE CONF). Although there is a limit to the number of people who can connect simultaneously, the room is open anytime during the meeting period. Please feel free to use it to chat with others.
-
