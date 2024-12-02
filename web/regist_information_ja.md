@@ -7,11 +7,12 @@ multi_language: true
 
 # 各種申込み概要
 
-[一般講演](regist_oral_poster_ja)、[シンポジウム](regist_session_ja\#シンポジウム)、[自由集会](regist_session_ja\#自由集会)を募集中です。締切は2024年10月31日です。詳細を確認の上、下記申込みサイトからお手続きください。
+- **[一般講演](regist_oral_poster_ja)、[シンポジウム](regist_session_ja\#シンポジウム)、[自由集会](regist_session_ja\#自由集会)の講演申込はすべて締め切りました。多数の登録ありがとうございました。現在は要旨登録を受付中です（締切：2025年2月21日（金）23時59分）**
+- 講演をともなわない大会参加は随時受付中です。
 
 **[【大会参加・各種講演申込みサイトへ移動】](https://iap-jp.org/esj/conf/login.php)**
 
-重要な締切日は以下の通りです
+## 重要な締め切り日
 
 ||**2024年10月31日（木）<br/>23時59分まで**|**2025年2月21日（金）<br/>23時59分まで**|**大会当日まで可能**|
 |:---:|---|---|---|
@@ -81,7 +82,7 @@ multi_language: true
 	</tr>
 	<tr class="even">
 	  <td><a href = "regist_session_ja/#シンポジウム">シンポジウム</a><br />
-	  <td rowspan=4>2024年10月31日 (木) 23:59</td>
+	  <td rowspan=4><s>2024年10月31日 (木) 23:59</s></td>
 	</tr>
 	<tr class="odd">
 	  <td><a href = "regist_session_ja/#自由集会">自由集会</a></td>
