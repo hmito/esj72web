@@ -7,7 +7,8 @@ multi_language: true
 
 # Registrations and Proposals
 
-Applications for [Regular Presentations](regist_oral_poster), [Symposia](regist_session#symposium), and [Workshops](regist_session#workshop) are accepted until 31st Oct. 2024 (JST). Please check the details in below and register from the application site.
+- **Applications for [Regular Presentations](regist_oral_poster), [Symposia](regist_session#symposium), and [Workshops](regist_session#workshop) is closed. Thank you very much for your registration. Abstract registration is now open (deadline: 21st Feb. 2025, 23:59 (JST)).**
+- Registration for the conference without a lecture is open at any time.
 
 **[[Go to the Applications site]](https://iap-jp.org/esj/conf/login_en.php)**
 
@@ -82,7 +83,7 @@ Please read the description of each session (links in the table below) and [Othe
 		</tr>
 		<tr class="even">
 			<td><a href = "regist_session/#Symposium">Symposium</a><br />
-			<td rowspan=4>Thursday, 31st Oct. 2024 23:59 (JST)</td>
+			<td rowspan=4><s>Thursday, 31st Oct. 2024 23:59 (JST)</s></td>
 		</tr>
 		<tr class="odd">
 			<td><a href = "regist_session/#Workshop">Workshop</a></td>
