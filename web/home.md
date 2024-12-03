@@ -8,9 +8,14 @@ multi_language: true
 # Home
 
 ## Important notice
-- **[Tentative schedule](program#schedule) has been released. The final version of the schedule will be available after the end of December.**
-	- Please use the tentative schedule as a reference for your itinerary, such as airfare and lodging reservations. The schedule will not change significantly in the future, but the start and end times and layout of sessions are subject to change..
-- **[Participation in the conference](regist_information#registration-for-participation) is now open for registration.**
+- **The website has been updated.** 
+    - **[Conference Schedule (final version)](program#schedule)Conference Schedule is now available.**
+	- **[Child Care Room](childcare#child-care) details are now available.**
+	- **[Career Support Counseling Room](career_ja#キャリア支援相談窓口の開設について) details are now available (sorry, only in Japanese).**
+	- **[Children's Ecology Course](children_ja) details are now available (sorry, only in Japanese).**
+	- **Additions have been made to [Guidelines for Presentations](for_presentation#guidelines-for-presentations).**
+- **The deadline for abstract registration is 21st Feb. 2025 at 23:59. Please prepare as soon as possible. You can register at [[Lecture registration sites]](https://iap-jp.org/esj/conf/login.php).**
+- **Registration for the conference without giving a talk is open at any time. Please read [Registration for Participation](regist_information#registration-for-participation) carefully.** 
 	- Note that registration will not be available from 1st Dec. 2024 to 5th Jan. 2025 due to the system transition.
 - **[The selected open sessions and ER symposium](schedule_session) are available.**
 
