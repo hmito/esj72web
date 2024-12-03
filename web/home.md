@@ -29,7 +29,7 @@ The 72<sup>th</sup> Annual Meeting of the Ecological Society of Japan will be he
 The conference will be held in [a hybrid format, primarily on-site](basic_information#format-of-the-meeting).
 
 ## Update history
-- 2024.12.25: The homepage has been updated. [Conference Schedule (final version)](program#schedule) is now available. In addition, details of [Child Care Room](childcare#child-care), [Career Support Counseling Room](career_ja#キャリア支援相談窓口の開設について) , and [Children's Ecology Course](children_ja) are now available.
+- 2024.12.25: The homepage has been updated. [Conference Schedule (final version)](program#schedule) is now available. Details of [Child Care Room](childcare#child-care), [Career Support Counseling Room](career_ja#キャリア支援相談窓口の開設について) , and [Children's Ecology Course](children_ja) are now available. Additions have been made to [Guidelines for Presentations](for_presentation#guidelines-for-presentations).
 - 2024.11.13: Some updates have been made to the [schedule](basic_information#schedule).
 - 2024.10.07: Added [Policy on Online Presentations](regist_session#online-support) for sessions.
 - 2024.10.01: The selected open sessions and ER symposium are available.
