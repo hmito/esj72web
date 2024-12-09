@@ -19,4 +19,4 @@ multi_language: true
 
 ## Programs
 
-- The program and abstracts will be available from the Ecological Society of Japan's conference abstract viewing page as soon as they are ready.
+- The program is now available from the Ecological Society of Japan's [Conference Abstract Viewing Page] (https://esj.ne.jp/meeting/abst/index.html). The abstract of each presentation is now under preparation.
