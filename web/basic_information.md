@@ -40,7 +40,7 @@ X : Unavailable
 
 ## Schedule
 
-The detailed timetable will be released around the end of December or beginning of January. Please note that the schedule is not final and may be subject to change in the future due to organizational reasons.
+The tentative timetable is now available [here](program#programs). The final timetable will be released around the end of December or beginning of January. 
 
 <table>
 <colgroup>
