@@ -16,9 +16,8 @@ multi_language: true
 
 [大会日程（暫定）PDF版](../media/ESJ72_timetable_tentative_ja.pdf)
 
-<!---現状、ESJ71の日程画像を試験的に入れている。レビュー時に差し替え--->
-![大会日程（暫定）1](../media/timetable_20240112_ja_p1.png)
-![大会日程（暫定）2](../media/timetable_20240112_ja_p2.png)
+![大会日程（暫定）1](../media/ESJ72_timetable_tentative_ja-01.png)
+![大会日程（暫定）2](../media/ESJ72_timetable_tentative_ja-02.png)
 
 ## プログラム
 

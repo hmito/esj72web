@@ -15,9 +15,8 @@ multi_language: true
 
 [Schedule (tentative) PDF file](../media/ESJ72_timetable_tentative_en.pdf)
 
-<!---現状、ESJ71の日程画像を試験的に入れている。レビュー時に差し替え--->
-![Schedule（tentative）1](../media/timetable_20240112_ja_p1.png)
-![Schedule（tentative）2](../media/timetable_20240112_ja_p2.png)
+![Schedule（tentative）1](../media/ESJ72_timetable_tentative_en-01.png)
+![Schedule（tentative）2](../media/ESJ72_timetable_tentative_en-02.png)
 
 ## Programs
 
