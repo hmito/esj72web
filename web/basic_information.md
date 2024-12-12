@@ -40,7 +40,7 @@ X : Unavailable
 
 ## Schedule
 
-The tentative timetable is now available [here](program#programs). The final timetable will be released around the end of December or beginning of January. 
+The timetable is now available [here](program#programs).
 
 <table>
 <colgroup>
