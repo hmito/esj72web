@@ -8,8 +8,8 @@ multi_language: true
 # Home
 
 ## Important notice
-- **[Tentative schedule](program#schedule) has been released. The final version of the schedule will be available after the end of December.**
-	- Please use the tentative schedule as a reference for your itinerary, such as airfare and lodging reservations. The schedule will not change significantly in the future, but the start and end times and layout of sessions are subject to change..
+- **[Schedule](program#schedule) (12/13 ver.) and [programs](https://esj.ne.jp/meeting/abst/index.html) has been released.**
+	- The schedule will not change significantly in the future, but the start and end times and layout of sessions are subject to change.
 - **[Participation in the conference](regist_information#registration-for-participation) is now open for registration.**
 	- Note that registration will not be available from 1st Dec. 2024 to 5th Jan. 2025 due to the system transition.
 - **[The selected open sessions and ER symposium](schedule_session) are available.**
@@ -24,7 +24,7 @@ The 72<sup>th</sup> Annual Meeting of the Ecological Society of Japan will be he
 The conference will be held in [a hybrid format, primarily on-site](basic_information#format-of-the-meeting).
 
 ## Update history
-- 2024.12.13: [Tentative schedule](program#schedule) (12.1 version) has been released.
+- 2024.12.13: [Schedule](program#schedule) (12.13 version) has been released.
 - 2024.11.13: Some updates have been made to the [schedule](basic_information#schedule).
 - 2024.10.07: Added [Policy on Online Presentations](regist_session#online-support) for sessions.
 - 2024.10.01: The selected open sessions and ER symposium are available.
