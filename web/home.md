@@ -8,7 +8,7 @@ multi_language: true
 # Home
 
 ## Important notice
-- **[Schedule](program#schedule) (12/13 ver.) and [oral presentation programs](https://esj.ne.jp/meeting/abst/index.html) (12/13 ver.) are now available. The details of the program can also be viewed at [here (Conference Abstract Viewing Page)](https://esj.ne.jp/meeting/abst/index.html).**
+- **[Schedule](program#schedule) (12/13 ver.) and [oral presentation programs](program#programs) (12/13 ver.) are now available. The details of the program can also be viewed at [here (Conference Abstract Viewing Page)](https://esj.ne.jp/meeting/abst/index.html).**
 	- The schedule will not change significantly in the future, but the start and end times and layout of sessions are subject to change.
 - **[Participation in the conference](regist_information#registration-for-participation) is now open for registration.**
 	- Note that registration will not be available from 1st Dec. 2024 to 5th Jan. 2025 due to the system transition.
@@ -24,7 +24,7 @@ The 72<sup>th</sup> Annual Meeting of the Ecological Society of Japan will be he
 The conference will be held in [a hybrid format, primarily on-site](basic_information#format-of-the-meeting).
 
 ## Update history
-- 2024.12.13: [Schedule](program#schedule) (12.13 version) and [Oral Presentations Programs](program#Program) (12.13 version) has been released. The details of the program have also been released at [here (Conference Abstracts Viewing Page)](https://esj.ne.jp/meeting/abst/index.html).
+- 2024.12.13: [Schedule](program#schedule) (12.13 version) and [Oral Presentations Programs](program#programs) (12.13 version) has been released. The details of the program have also been released at [here (Conference Abstracts Viewing Page)](https://esj.ne.jp/meeting/abst/index.html).
 - 2024.11.13: Some updates have been made to the [schedule](basic_information#schedule).
 - 2024.10.07: Added [Policy on Online Presentations](regist_session#online-support) for sessions.
 - 2024.10.01: The selected open sessions and ER symposium are available.
