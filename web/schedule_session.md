@@ -47,7 +47,7 @@ The following symposium was selected for this year's [ER Symposium](er_symposium
 
 ---
 
-**"Species responses to climate change in terrestrial and aquatic ecosystems" (tentative)**
+**"Species responses to climate change in terrestrial and aquatic ecosystems"**
 
 【Organizer】<br/>
 Junko Morimoto, Nobuo Ishiyama, Tomoki Sakiyama (Hokkaido University)

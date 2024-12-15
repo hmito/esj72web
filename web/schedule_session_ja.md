@@ -45,7 +45,7 @@ Objectives
 
 ---
 
-**『Species responses to climate change in terrestrial and aquatic ecosystems』(仮タイトル)**
+**『Species responses to climate change in terrestrial and aquatic ecosystems』**
 
 【提案者】<br/>
 森本淳子・石山信雄・崎山智樹（北海道大学）
