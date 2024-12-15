@@ -7,6 +7,10 @@ multi_language: true
 
 # Sessions
 
+## Symposia, Workshops, and Forums
+
+The program for symposia, workshops, and forums is now available on [this website (Conference Abstract Viewing Page)](https://esj.ne.jp/meeting/abst/index.html).
+
 ## Open Session
 The following two themes were selected for this year's [Open Sessions](opensession) (symposium that involve the addition of new presentation categories).
 
