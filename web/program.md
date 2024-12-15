@@ -8,14 +8,25 @@ multi_language: true
 # Schedule and Programs
 
 ## Schedule
-<!---以下の二点は、html作成時に赤字にした方が良い--->
-- The current conference schedule is tentative and may change. Please use this information as a reference when making reservations for airline tickets and accommodations.
-- Please note that due to the organization of timetables, you may be assigned to a section of your second or third choice at the time of registration for presentation. Details of each presentation date and time will be made available on the [Conference Abstracts Viewing Page](https://esj.ne.jp/meeting/abst/index.html) around XXX.
+<!---以下の一点目は、html作成時に赤字にしてください--->
+- The start and end times and layout of sessions are subject to change. Please use this information as a reference when making reservations for airline tickets and accommodations.
+- Details of each presentation date and time are now available on the [Conference Abstract Viewing Page](https://esj.ne.jp/meeting/abst/index.html). Abstract information is not yet included, but please use this page to confirm the date and time of your presentation.
 
-<!---現状、ESJ71の日程画像を試験的に入れている。レビュー時に差し替え--->
-![大会日程（暫定）1](../media/timetable_20240112_ja_p1.png)
-![大会日程（暫定）2](../media/timetable_20240112_ja_p2.png)
+[Schedule (12/13 ver.) PDF file](../media/ESJ72_timetable_1213_en.pdf)
+
+![Schedule（12/13 ver.）1](../media/ESJ72_timetable_1213_en-01.png)
+![Schedule（12/13 ver.）2](../media/ESJ72_timetable_1213_en-02.png)
 
 ## Programs
 
-- The program and abstracts will be available from the Ecological Society of Japan's conference abstract viewing page as soon as they are ready.
+- The program is now available from the Ecological Society of Japan's [Conference Abstract Viewing Page] (https://esj.ne.jp/meeting/abst/index.html). The abstract of each presentation is now under preparation.
+
+[Oral presentation programs（12/13 ver.）PDF](../media/EN_ESJ72_Oral_20241212.pdf)
+
+![Oral presentation programs（12/13 ver.）1](../media/EN_ESJ72_Oral_20241212-01.png)
+![Oral presentation programs（12/13 ver.）2](../media/EN_ESJ72_Oral_20241212-02.png)
+![Oral presentation programs（12/13 ver.）3](../media/EN_ESJ72_Oral_20241212-03.png)
+![Oral presentation programs（12/13 ver.）4](../media/EN_ESJ72_Oral_20241212-04.png)
+![Oral presentation programs（12/13 ver.）5](../media/EN_ESJ72_Oral_20241212-05.png)
+![Oral presentation programs（12/13 ver.）6](../media/EN_ESJ72_Oral_20241212-06.png)
+![Oral presentation programs（12/13 ver.）7](../media/EN_ESJ72_Oral_20241212-07.png)

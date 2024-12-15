@@ -40,7 +40,7 @@ X : Unavailable
 
 ## Schedule
 
-[tentative schedule](program#schedule) is now available. Please note that there may be slight changes in the start and end times and venues. The final version will be available from the end of December to the beginning of January.
+The timetable is now available [here](program#programs).
 
 <table>
 <colgroup>
