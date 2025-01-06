@@ -231,4 +231,3 @@ The conference will make considerations in accordance with the Disability Discri
 ## Online break room
 
 ESJ72 will have an online break room (SpatialChat) that can be accessed freely by every meeting participant. The room will be accessed via a link within the conference platform (ONLINE CONF). Although there is a limit to the number of people who can connect simultaneously, the room is open anytime during the meeting period. Please feel free to use it to chat with others.
-

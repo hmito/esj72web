@@ -7,10 +7,10 @@ multi_language: true
 
 # 各種申込み概要
 
-- **[一般講演](regist_oral_poster_ja)、[シンポジウム](regist_session_ja\#シンポジウム)、[自由集会](regist_session_ja\#自由集会)の講演申込はすべて締め切りました。多数の登録ありがとうございました。現在は要旨登録を受付中です（締切：2025年2月21日（金）23時59分）**
-- 講演をともなわない大会参加は随時受付中です。
+- **[一般講演](regist_oral_poster_ja)、[シンポジウム](regist_session_ja\#シンポジウム)、[自由集会](regist_session_ja\#自由集会)の講演申込はすべて締め切りました。多数の登録ありがとうございました。現在は要旨登録を[【各種講演申込みサイト】](https://iap-jp.org/esj/conf/login.php)で受付中です（締切：2025年2月21日（金）23時59分）**
+- 講演をともなわない大会参加は随時受付中です。[大会プラットフォーム【ONLINE CONF】](https://esj72.gakkai.online/)からお手続きください。
 
-**[【大会参加・各種講演申込みサイトへ移動】](https://iap-jp.org/esj/conf/login.php)**
+****
 
 ## 重要な締め切り日
 
@@ -31,7 +31,7 @@ multi_language: true
 ## 大会参加申込み
 以下のページから大会参加申込みが可能です。
 
-**[【大会参加申込みサイトへ】](https://iap-jp.org/esj/conf/login.php)**
+**[【大会プラットフォーム【ONLINE CONF】へ】](https://esj72.gakkai.online/)**
 
 ||早期申込み<br/>2/21まで|通常申込み<br/>2/22以降|
 |---|---|---|

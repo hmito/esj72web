@@ -14,10 +14,9 @@ multi_language: true
 	- **[Children's Ecology Course](children_ja) details are now available (sorry, only in Japanese).**
 	- **Additions have been made to [Guidelines for Presentations](for_presentation#guidelines-for-presentations).**
 - **The deadline for abstract registration is 21st Feb. 2025 at 23:59. Please prepare as soon as possible. You can register at [[Lecture registration sites]](https://iap-jp.org/esj/conf/login.php).**
+- **[ESJ72 Platform [ONLINE CONF]](https://esj72.gakkai.online/) Open!**
 - **[Conference Schedule](program#schedule) is now available.**
-- **Registration for the conference without giving a talk is open at any time. Please read [Registration for Participation](regist_information#registration-for-participation) carefully.** 
-	- Note that registration will not be available from 1st Dec. 2024 to 5th Jan. 2025 due to the system transition.
-- **[The selected open sessions and ER symposium](schedule_session) are available.**
+- **Registration for the conference without giving a talk is open at any time. Please read [Registration for Participation](regist_information#registration-for-participation) carefully and register at .** 
 
 ## Meeting information
 
@@ -29,8 +28,10 @@ The 72<sup>th</sup> Annual Meeting of the Ecological Society of Japan will be he
 The conference will be held in [a hybrid format, primarily on-site](basic_information#format-of-the-meeting).
 
 ## Update history
-- 2024.12.25: The homepage has been updated. Details of [Child Care Room](childcare#child-care), [Career Support Counseling Room](career_ja#キャリア支援相談窓口の開設について) , and [Children's Ecology Course](children_ja) are now available. Additions have been made to [Guidelines for Presentations](for_presentation#guidelines-for-presentations).
-- 2024.12.13: [Schedule](program#schedule) (12.13 version) and [Oral Presentations Programs](program#programs) (12.13 version) has been released. The details of the program have also been released at [here (Conference Abstracts Viewing Page)](https://esj.ne.jp/meeting/abst/index.html).
+- 2025.01.13: The homepage has been updated. Details of [Child Care Room](childcare#child-care), [Career Support Counseling Room](career_ja#キャリア支援相談窓口の開設について) , [Children's Ecology Course](children_ja), and [Junior Ecology Course (for highschool students)](junior_ecolec_ja) are now available. Additions have been made to [Guidelines for Presentations](for_presentation#guidelines-for-presentations).
+- 2025.01.06: [ESJ72 Platform [ONLINE CONF]](https://esj72.gakkai.online/) is Open.
+- 2024.12.30: Information on Award Lectures is now available at [Schedule](program#schedule) (12.26 version) and [Conference Abstracts Viewing Page](https://esj.ne.jp/meeting/abst/index.html).
+- 2024.12.13: Schedule (12.13 version) and [Oral Presentations Programs](program#programs) (12.13 version) has been released. The details of the program have also been released at [here (Conference Abstracts Viewing Page)](https://esj.ne.jp/meeting/abst/index.html).
 - 2024.11.13: Some updates have been made to the [schedule](basic_information#schedule).
 - 2024.10.07: Added [Policy on Online Presentations](regist_session#online-support) for sessions.
 - 2024.10.01: The selected open sessions and ER symposium are available.
