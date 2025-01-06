@@ -18,7 +18,7 @@ The conference will be held in a hybrid format, primarily on-site. The online pl
 - All meeting events except Poster session are held on-site. 
 	- All presentations are to be given on-site. All presentations must be made onsite using the [presentation PCs provided at the venue](for_presentation#notice).
 	- Online presentations are not allowed at the sessions due to technical difficulties. For details, please refer to [here](regist_session#online-support).
-- Poster session is available for viewing on the conference platform throughout the conference period. Additionally, those who wish may also display their posters on-site. 		
+- Poster session is available online for viewing on the conference platform throughout the conference period. All poster presenters are required to upload their online posters to the conference platform by 23:59 on March 11. Additionally, those who wish may also display their posters on-site. 		
 	-  The online poster presentation will take the form of a ‘viewing period’ of approximately three days from 12-14 March before the conference. There will be no core time and the opinion exchange forum (video call function) will not be available, but the text chat function will be available.
 	- Core time will be available for on-site participants.
 	- For more information, see [Guidelines for poster presentation](for_presentation#poster-presentation).
@@ -40,7 +40,7 @@ X : Unavailable
 
 ## Schedule
 
-The timetable is now available [here](program#programs).
+The timetable is now available [here](program).
 
 <table>
 <colgroup>
@@ -67,9 +67,9 @@ The timetable is now available [here](program#programs).
 <td colspan=2>General meeting</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 <td>☆</td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td colspan=2>Award ceremony and lecture</td>

@@ -11,7 +11,7 @@ multi_language: true
 - All oral presentations and sessions must be made using the presentation PCs set up at the venue. Presentations cannot be made using your own PC.
 	- The OS of the presentation PC is Windows 10. Presentations can be made with PowerPoint files or PDF files.
 	- Video can be played back as long as it is in MP4 format. Other formats are not guaranteed.
-	- Please save the files you will use for your presentation on a USB drive or similar storage device and bring it with you. Note that the venue does not provide USB drives for file transfer.
+<!---一端保留>	- Please save the files you will use for your presentation on a USB drive or similar storage device and bring it with you. Note that the venue does not provide USB drives for file transfer.<--->
 - Online poster presentations and [presentations to be streamed online](basic_information#format-of-the-meeting) are considered public transmission under the Copyright Act.
 	- If the content of your presentation includes copyrighted works, you must obtain the permission of the author to stream the presentation.
 	- Please make sure that the content of your screen-shared slides and submitted poster PDFs do not infringe on copyrights or cause defamation issues.
@@ -22,6 +22,9 @@ multi_language: true
 - For oral presentations, the previous speaker will be asked to chair the next presentation, including English sessions. The first chairperson will be assigned by the room attendant.
 
 ## Poster Presentation 
+
+- All poster presenters are required to upload their online posters to [the conference platform (ONLINE CONF)](https://esj72.gakkai.online/). Please note that even those who have opted for on-site poster presentations must also display their posters online.
+
 ### Online Poster Presentations
 
 - Since it will be difficult for on-site participants to view online posters during the conference, a viewing period for all participants will be provided before the conference (scheduled for March 12-14). Therefore, all poster presenters must upload their posters to ONLINE CONF by the specified deadline (scheduled for March 11 at 23:59). Note that you may revise or replace your poster after uploading it. Poster uploads are expected to become available after January 31. 
