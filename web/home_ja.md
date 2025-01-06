@@ -25,7 +25,7 @@ multi_language: true
 実施形式の詳細は、[こちら](basic_information_ja#大会形式)をご覧ください。
 
 ## 更新履歴
--   2025.01.06: [ONLINE CONF]((https://esj72.gakkai.online/))をオープンしました。
+-   2025.01.06: [ONLINE CONF](https://esj72.gakkai.online/)をオープンしました。
 -   2024.12.30: [大会日程](program_ja#大会日程)(12/26版)と[大会要旨閲覧ページ](https://esj.ne.jp/meeting/abst/index.html)に受賞講演の情報を追加しました。
 -   2024.12.13: [大会日程](program_ja#大会日程)(12/13版)と[口頭発表プログラム](program_ja#プログラム)(12月13日版)を公開しました。また、プログラムの詳細を[こちらのサイト(大会要旨閲覧ページ)](https://esj.ne.jp/meeting/abst/index.html)公開しました。
 -   2024.12.13: [みんなのジュニア生態学講座](high_school_student_ja#みんなのジュニア生態学講座)についての詳細を公開しました。
