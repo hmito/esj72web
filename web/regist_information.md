@@ -7,10 +7,8 @@ multi_language: true
 
 # Registrations and Proposals
 
-- **Applications for [Regular Presentations](regist_oral_poster), [Symposia](regist_session#symposium), and [Workshops](regist_session#workshop) is closed. Thank you very much for your registration. Abstract registration is now open (deadline: 21st Feb. 2025, 23:59 (JST)).**
-- Registration for the conference without a lecture is open at any time.
-
-**[[Go to the Applications site]](https://iap-jp.org/esj/conf/login_en.php)**
+- **Applications for [Regular Presentations](regist_oral_poster), [Symposia](regist_session#symposium), and [Workshops](regist_session#workshop) is closed. Thank you very much for your registration. Abstract registration is now open at [[Applications site]](https://iap-jp.org/esj/conf/login_en.php) (deadline: 21st Feb. 2025, 23:59 (JST)).**
+- Registration for the conference without a lecture is open at any time. Please access to [the ESJ72 Platform [ONLINE CONF]](https://esj72.gakkai.online/).
 
 Important deadlines are as follows.
 
@@ -32,7 +30,7 @@ Important deadlines are as follows.
 ## Registration for Participation
 You can register for the conference participation at the below link.
 
-**[[Go to the Application site]](https://iap-jp.org/esj/conf/login_en.php)**
+**[[Go to the ESJ72 Platform [ONLINE CONF]]](https://esj72.gakkai.online/)**
 
 ||Early bird<br/>until 21st Feb.|Normal price<br/>after 22nd Feb.|
 |---|---|---|
