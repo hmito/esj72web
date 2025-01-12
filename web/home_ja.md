@@ -24,7 +24,7 @@ multi_language: true
 **第72回日本生態学会大会（ESJ72）を下記の通り開催します。**
 
 **日程：[2025年3月15日(土)〜18日(火)](basic_information_ja#スケジュール)**\
-**会場：[札幌コンベンションセンター](venue_ja)**
+**会場：[札幌コンベンションセンター](venue_ja) / [ONLINE CONF](https://esj72.gakkai.online/)**
 
 開催形式は、**オンサイトを基調とするハイブリッド形式**です。\
 実施形式の詳細は、[こちら](basic_information_ja#大会形式)をご覧ください。

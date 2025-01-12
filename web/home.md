@@ -23,7 +23,7 @@ multi_language: true
 The 72<sup>th</sup> Annual Meeting of the Ecological Society of Japan will be held as follows.
 
 **Dates: [15th March 2025 to 18th March 2025](basic_information#schedule)**\
-**Venue: [Sapporo Convention Center and ONLINE CONF](venue)**
+**Venue: [Sapporo Convention Center](venue) / [ONLINE CONF](https://esj72.gakkai.online/)**
 
 The conference will be held in [a hybrid format, primarily on-site](basic_information#format-of-the-meeting).
 

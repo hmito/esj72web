@@ -44,7 +44,8 @@ Yes. Participants who attend only the public lectures do not have to apply for e
 
 ### Can the registration and banquet fees be paid by my organization using public expense?
 
-Yes. If you wish to pay by invoice, please apply for participation at the registration system first. Please select "Postal Transfer" as the payment method. We request that you pay in advance. After completing the application, please contact us from the [inquiry form](contact).
+Possible. On the payment page of [ONLINE CONF](https://esj72.gakkai.online/), select "Bank Transfer" and click "View Bank Account Information" (green button).
+You will receive an e-mail with the payee account to your registered e-mail address. Please contact us through the [Inquiry Form](https://otoiawase.jp/do/public/form/seitai/2) with your request for payment of public expenses along with the bank account information.
 
 ### Will receipts for the registration fee be issued?
 
