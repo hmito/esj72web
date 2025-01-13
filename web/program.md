@@ -12,10 +12,10 @@ multi_language: true
 - The start and end times and layout of sessions are subject to change. Please use this information as a reference when making reservations for airline tickets and accommodations.
 - Details of each presentation date and time are now available on the [Conference Abstract Viewing Page](https://esj.ne.jp/meeting/abst/index.html). Abstract information is not yet included, but please use this page to confirm the date and time of your presentation.
 
-[Schedule (12/26 ver.) PDF file](../media/ESJ72_timetable_1226_en.pdf)
+[Schedule (1/8 ver.) PDF file](../media/ESJ72_timetable_20250108_en.pdf)
 
-![Schedule（12/26 ver.）1](../media/ESJ72_timetable_1226_en-01.png)
-![Schedule（12/26 ver.）2](../media/ESJ72_timetable_1226_en-02.png)
+![Schedule（1/8 ver.）1](../media/ESJ72_timetable_20250108_en-01.png)
+![Schedule（1/8 ver.）2](../media/ESJ72_timetable_20250108_en-02.png)
 
 ## Programs
 

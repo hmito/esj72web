@@ -17,7 +17,7 @@ multi_language: true
 - **講演要旨登録の締め切りは2025年2月21日（金）23時59分です。お早めにご準備ください。[【各種講演申込みサイト】](https://iap-jp.org/esj/conf/login.php)で登録できます。**
 - **[大会プラットフォーム【ONLINE CONF】](https://esj72.gakkai.online/)をオープンしました。**
 - **[大会日程](program_ja#大会日程)が公開中です。**
-- **講演のない大会参加申込みは随時受付中です。[大会参加申込み](regist_information_ja#大会参加申込み)をよく読んで[【ONLINE CONF】](https://esj72.gakkai.online/)からお手続きください。**
+- **講演のない大会参加申込みは随時受付中です。[大会参加申込み](regist_information_ja#大会参加申込み)をよく読んで[大会プラットフォーム【ONLINE CONF】](https://esj72.gakkai.online/)からお手続きください。**
 
 ## 大会案内
 

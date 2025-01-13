@@ -16,7 +16,7 @@ multi_language: true
 - **The deadline for abstract registration is 21st Feb. 2025 at 23:59. Please prepare as soon as possible. You can register at [[Lecture registration sites]](https://iap-jp.org/esj/conf/login.php).**
 - **[ESJ72 Platform [ONLINE CONF]](https://esj72.gakkai.online/) Open!**
 - **[Conference Schedule](program#schedule) is now available.**
-- **Registration for the conference without giving a talk is open at any time. Please read [Registration for Participation](regist_information#registration-for-participation) carefully and register at .** 
+- **Registration for the conference without giving a talk is open at any time. Please read [Registration for Participation](regist_information#registration-for-participation) carefully and register at [ESJ72 Platform [ONLINE CONF]](https://esj72.gakkai.online/).** 
 
 ## Meeting information
 
