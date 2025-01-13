@@ -7,6 +7,10 @@ multi_language: true
 
 # Sessions
 
+## Symposia, Workshops, and Forums
+
+The program for symposia, workshops, and forums is now available on [this website (Conference Abstract Viewing Page)](https://esj.ne.jp/meeting/abst/index.html).
+
 ## Open Session
 The following two themes were selected for this year's [Open Sessions](opensession) (symposium that involve the addition of new presentation categories).
 
@@ -43,7 +47,7 @@ The following symposium was selected for this year's [ER Symposium](er_symposium
 
 ---
 
-**"Species responses to climate change in terrestrial and aquatic ecosystems" (tentative)**
+**"Species responses to climate change in terrestrial and aquatic ecosystems"**
 
 【Organizer】<br/>
 Junko Morimoto, Nobuo Ishiyama, Tomoki Sakiyama (Hokkaido University)

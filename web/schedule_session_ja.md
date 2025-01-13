@@ -7,6 +7,10 @@ multi_language: true
 
 # 各種集会
 
+## シンポジウム・自由集会・フォーラム
+
+シンポジウム・自由集会・フォーラムのプログラムは、[こちらのサイト(大会要旨閲覧ページ)](https://esj.ne.jp/meeting/abst/index.html)で公開中です。
+
 ## 公募セッション
 
 今年度の[公募セッション（発表分野の追加を伴うシンポジウム）](opensession_ja)では、以下の2つのテーマが採択されました。
@@ -41,7 +45,7 @@ Objectives
 
 ---
 
-**『Species responses to climate change in terrestrial and aquatic ecosystems』(仮タイトル)**
+**『Species responses to climate change in terrestrial and aquatic ecosystems』**
 
 【提案者】<br/>
 森本淳子・石山信雄・崎山智樹（北海道大学）

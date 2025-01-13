@@ -118,3 +118,5 @@ You can apply for the sessions at the following pages.
 - For those forums that have been adopted, please submit the full proposal through the conference application website.
 - Organization and presentation in Forums are not subject to the overlap restriction.
 - If non-member speakers are invited to the Forum, they may attend only that forum free of charge. Free participation in other programs, such as Symposia and Regular Presentation, is not allowed, and if they wish to attend, they must pay the conference registration fee.
+
+Please refer to the email sent by the society secretariat to the proposal representative for the registration procedures for forum organizers and presenters.

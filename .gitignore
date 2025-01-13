@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 draft/
+=======
+.Rproj.user/*
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user
+>>>>>>> develop
