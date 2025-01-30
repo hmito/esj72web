@@ -31,6 +31,7 @@ multi_language: False
 ## ポスター
 <img src="../media/ESJ72_A4flyer_omote_final.jpg" style="width:1.84375in;height:2.6in"/>  
 <img src="../media/ESJ72_A4flyer_ura_final.jpg" style="width:1.84375in;height:2.6in"/>  
+
 [ポスター(PDF)をダウンロード](https://esj-meeting.net/wp-content/uploads/ESJ72_A4flyer_omote_ura_final.pdf)
 
 **会場**
