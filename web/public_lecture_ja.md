@@ -34,7 +34,7 @@ multi_language: False
 
 [ポスター(PDF)をダウンロード](https://esj-meeting.net/wp-content/uploads/ESJ72_A4flyer_omote_ura_final.pdf)
 
-**会場**
+## 会場
 
 会場へのアクセスは[こちら](https://esj-meeting.net/venue_ja/)を参考にして下さい。
 
