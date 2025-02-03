@@ -114,7 +114,7 @@ The timetable is now available [here](program).
 <td>◎ or ○</td>
 </tr>
 <tr class="even">
-<td colspan=2><a href="https://esj.ne.jp/meeting/abst/72/oral_index.html">Oral</a> session</td>
+<td colspan=2><a href="https://esj.ne.jp/meeting/abst/72/oral_index.html">Oral session</a></td>
 <td></td>
 <td>○</td>
 <td>○</td>
@@ -169,7 +169,7 @@ The timetable is now available [here](program).
 <td></td>
 </tr>
 <tr class="odd">
-<td colspan=2>Public lecture</td>
+<td colspan=2><a href="public_lecture_ja">Public lecture</a></td>
 <td></td>
 <td>○</td>
 <td></td>

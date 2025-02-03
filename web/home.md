@@ -9,6 +9,7 @@ multi_language: true
 
 ## Important notice
 - **The website has been updated.** 
+	- **[Public Lecture](public_lecture_ja) details are now available (sorry, only in Japanese).**	
 	- **[Child Care Room](childcare#child-care) details are now available.**
 	- **[Career Support Counseling Room](career_ja#キャリア支援相談窓口の開設について) details are now available (sorry, only in Japanese).**
 	- **[Children's Ecology Course](children_ja) details are now available (sorry, only in Japanese).**
@@ -28,6 +29,7 @@ The 72<sup>th</sup> Annual Meeting of the Ecological Society of Japan will be he
 The conference will be held in [a hybrid format, primarily on-site](basic_information#format-of-the-meeting).
 
 ## Update history
+- 2025.02.03: Details of [Public Lecture](public_lecture_ja) are now available.
 - 2025.01.13: The homepage has been updated. Details of [Child Care Room](childcare#child-care), [Career Support Counseling Room](career_ja#キャリア支援相談窓口の開設について) , [Children's Ecology Course](children_ja), and [Junior Ecology Course (for highschool students)](junior_ecolec_ja) are now available. Additions have been made to [Guidelines for Presentations](for_presentation#guidelines-for-presentations).
 - 2025.01.06: [ESJ72 Platform [ONLINE CONF]](https://esj72.gakkai.online/) is Open.
 - 2024.12.30: Information on Award Lectures is now available at [Schedule](program#schedule) (12.26 version) and [Conference Abstracts Viewing Page](https://esj.ne.jp/meeting/abst/index.html).
