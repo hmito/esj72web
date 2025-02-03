@@ -168,7 +168,7 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 <td></td>
 </tr>
 <tr class="odd">
-<td colspan=2>公開講演会</td>
+<td colspan=2><a href="public_lecture_ja">公開講演会</a></td>
 <td></td>
 <td>○</td>
 <td></td>

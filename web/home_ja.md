@@ -9,6 +9,7 @@ multi_language: true
 
 ## 重要なお知らせ
 - **ホームページの更新を行いました。**
+	- **[公開講演会](public_lecture_ja)の詳細を公開しました。**
 	- **[託児室](childcare_ja#託児室)の詳細を公開しました。**
 	- **[キャリア支援相談室](career_ja#キャリア支援相談窓口の開設について)の詳細を公開しました。**
 	- **[こども生態学講座](children_ja)の詳細を公開しました。**
@@ -30,6 +31,7 @@ multi_language: true
 実施形式の詳細は、[こちら](basic_information_ja#大会形式)をご覧ください。
 
 ## 更新履歴
+-   2025.02.03: [公開講演会](public_lecture_ja)の詳細を公開しました。
 -   2025.01.13:ホームページの更新を行い、 [託児室](childcare_ja#託児室)、[キャリア支援相談室](career_ja#キャリア支援相談窓口の開設について)、[こども生態学講座](children_ja)、[みんなのジュニア生態学講座](junior_ecoloec_ja)の詳細を公開しました。また、[講演発表方法](for_presentation_ja#発表にあたって)に追記を行いました。
 -   2025.01.06: [ONLINE CONF](https://esj72.gakkai.online/)をオープンしました。
 -   2024.12.30: [大会日程](program_ja#大会日程)(12/26版)と[大会要旨閲覧ページ](https://esj.ne.jp/meeting/abst/index.html)に受賞講演の情報を追加しました。
