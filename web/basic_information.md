@@ -10,15 +10,16 @@ remarks: 委員一覧のように見出しのないテーブルはWordPress上�
 
 The 72nd Annual Meeting of the Ecological Society of Japan (ESJ72)\
 **Dates**: [March 15 (Sat) – March 18 (Tue), 2025](#schedule)\
-**Venue**: [Sapporo Convention Center](venue) / ONLINE CONF
+**Venue**: [Sapporo Convention Center](venue) / [ONLINE CONF](https://esj72.gakkai.online/)
 
 ## Format of the Meeting
-The conference will be held in a hybrid format, primarily on-site. The online platform for the conference (hereafter referred to as the "conference platform") will be [ONLINE CONF](https://gakkai.online/).
+The conference will be held in a hybrid format, primarily on-site. The online platform for the conference (hereafter referred to as the "conference platform") will be [ONLINE CONF](https://esj72.gakkai.online/).   
+(*The official site of the ONLINE CONF is [here](https://gakkai.online/)).
 
 - All meeting events except Poster session are held on-site. 
 	- All presentations are to be given on-site. All presentations must be made onsite using the [presentation PCs provided at the venue](for_presentation#notice).
 	- Online presentations are not allowed at the sessions due to technical difficulties. For details, please refer to [here](regist_session#online-support).
-- Poster session is available for viewing on the conference platform throughout the conference period. Additionally, those who wish may also display their posters on-site. 		
+- Poster session is available online for viewing on the conference platform throughout the conference period. All poster presenters are required to upload their online posters to the conference platform by 23:59 on March 11. Additionally, those who wish may also display their posters on-site. 		
 	-  The online poster presentation will take the form of a ‘viewing period’ of approximately three days from 12-14 March before the conference. There will be no core time and the opinion exchange forum (video call function) will not be available, but the text chat function will be available.
 	- Core time will be available for on-site participants.
 	- For more information, see [Guidelines for poster presentation](for_presentation#poster-presentation).
@@ -40,7 +41,7 @@ X : Unavailable
 
 ## Schedule
 
-The timetable is now available [here](program#programs).
+The timetable is now available [here](program).
 
 <table>
 <colgroup>
@@ -67,12 +68,12 @@ The timetable is now available [here](program#programs).
 <td colspan=2>General meeting</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 <td>☆</td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td colspan=2>Award ceremony and lecture</td>
+<td colspan=2><a href="https://esj.ne.jp/meeting/abst/72/prize_winners.html">Award ceremony and lecture</a></td>
 <td></td>
 <td>☆</td>
 <td>☆</td>
@@ -89,7 +90,7 @@ The timetable is now available [here](program#programs).
 </tr>
 </tr>
 <tr class="odd">
-<td colspan=2>Symposia</td>
+<td colspan=2><a href="https://esj.ne.jp/meeting/abst/72/sympo_index.html">Symposia</a></td>
 <td></td>
 <td></td>
 <td>◎</td>
@@ -97,7 +98,7 @@ The timetable is now available [here](program#programs).
 <td>◎</td>
 </tr>
 <tr class="even">
-<td colspan=2>Workshops</td>
+<td colspan=2><a href="https://esj.ne.jp/meeting/abst/72/jiyu_index.html">Workshops</a></td>
 <td></td>
 <td></td>
 <td>◎ or ○</td>
@@ -105,7 +106,7 @@ The timetable is now available [here](program#programs).
 <td>◎ or ○</td>
 </tr>
 <tr class="odd">
-<td colspan=2>Forums</td>
+<td colspan=2><a href="https://esj.ne.jp/meeting/abst/72/forum_index.html">Forums</a></td>
 <td></td>
 <td></td>
 <td>◎ or ○</td>
@@ -113,7 +114,7 @@ The timetable is now available [here](program#programs).
 <td>◎ or ○</td>
 </tr>
 <tr class="even">
-<td colspan=2>Oral session</td>
+<td colspan=2><a href="https://esj.ne.jp/meeting/abst/72/oral_index.html">Oral session</a></td>
 <td></td>
 <td>○</td>
 <td>○</td>
@@ -121,7 +122,7 @@ The timetable is now available [here](program#programs).
 <td>○</td>
 </tr>
 <tr class="odd">
-<td rowspan=2>Poster session</td>
+<td rowspan=2><a href="https://esj.ne.jp/meeting/abst/72/poster_index.html">Poster session</a></td>
 <td>online</td>
 <td>△</td>
 <td colspan=4>* Can be viewed and commented on ONLINE CONF until April.</td>
@@ -138,7 +139,7 @@ The timetable is now available [here](program#programs).
 <td>○</td>
 </tr>
 <tr class="even">
-<td rowspan=2>High school student poster</td>
+<td rowspan=2><a href="https://esj.ne.jp/meeting/abst/72/poster_PH-36.html">High school student poster</a></td>
 <td>online</td>
 <td>△</td>
 <td colspan=4>* Can be viewed and commented on ONLINE CONF until April.</td>
@@ -152,7 +153,7 @@ The timetable is now available [here](program#programs).
 <td></td>
 </tr>
 <tr class="odd">
-<td colspan=2>Ecology course for high school students</td>
+<td colspan=2><a href = "junior_ecolec_ja">Ecology course for high school students</a></td>
 <td></td>
 <td>○</td>
 <td></td>
@@ -160,7 +161,7 @@ The timetable is now available [here](program#programs).
 <td></td>
 </tr>
 <tr class="even">
-<td colspan=2>Ecology course for children</td>
+<td colspan=2><a href="children_ja">Ecology course for children</a></td>
 <td></td>
 <td></td>
 <td>○</td>
@@ -168,7 +169,7 @@ The timetable is now available [here](program#programs).
 <td></td>
 </tr>
 <tr class="odd">
-<td colspan=2>Public lecture</td>
+<td colspan=2><a href="public_lecture_ja">Public lecture</a></td>
 <td></td>
 <td>○</td>
 <td></td>
@@ -230,4 +231,4 @@ The conference will make considerations in accordance with the Disability Discri
 
 ## Online break room
 
-ESJ72 will have an online break room (SpatialChat) that can be accessed freely by every meeting participant. The room will be accessed via a link within the conference platform (ONLINE CONF). Although there is a limit to the number of people who can connect simultaneously, the room is open anytime during the meeting period. Please feel free to use it to chat with others.
+ESJ72 will have an online break room (SpatialChat) that can be accessed freely by every meeting participant. The room will be accessed via a link within [the conference platform (ONLINE CONF)](https://esj72.gakkai.online/). Although there is a limit to the number of people who can connect simultaneously, the room is open anytime during the meeting period. Please feel free to use it to chat with others.
