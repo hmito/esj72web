@@ -8,15 +8,15 @@ multi_language: true
 # Home
 
 ## Important notice
+- **The deadline for abstract registration is 21st Feb. 2025 at 23:59. Please prepare as soon as possible. You can register at [[Lecture registration sites]](https://iap-jp.org/esj/conf/login.php).**
+- **The deadline for early bird registration is 21st Feb. 2025 at 23:59 (including payment).** Please note that the time is different from abstract registration. You can proceed from [ESJ72 Platform [ONLINE CONF]](https://esj72.gakkai.online/).
+- **[Conference Schedule](program#schedule) is now available.**
 - **The website has been updated.** 
 	- **[Public Lecture](public_lecture_ja) details are now available (sorry, only in Japanese).**	
 	- **[Child Care Room](childcare#child-care) details are now available.**
 	- **[Career Support Counseling Room](career_ja#キャリア支援相談窓口の開設について) details are now available (sorry, only in Japanese).**
 	- **[Children's Ecology Course](children_ja) details are now available (sorry, only in Japanese).**
 	- **Additions have been made to [Guidelines for Presentations](for_presentation#guidelines-for-presentations).**
-- **The deadline for abstract registration is 21st Feb. 2025 at 23:59. Please prepare as soon as possible. You can register at [[Lecture registration sites]](https://iap-jp.org/esj/conf/login.php).**
-- **[ESJ72 Platform [ONLINE CONF]](https://esj72.gakkai.online/) Open!**
-- **[Conference Schedule](program#schedule) is now available.**
 - **Registration for the conference without giving a talk is open at any time. Please read [Registration for Participation](regist_information#registration-for-participation) carefully and register at [ESJ72 Platform [ONLINE CONF]](https://esj72.gakkai.online/).** 
 
 ## Meeting information
