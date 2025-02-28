@@ -8,16 +8,9 @@ multi_language: true
 # Home
 
 ## Important notice
-- **The deadline for abstract registration is 21st Feb. 2025 at 23:59. Please prepare as soon as possible. You can register at [[Lecture registration sites]](https://iap-jp.org/esj/conf/login.php).**
-- **The deadline for early bird registration is 21st Feb. 2025 at 23:59 (including payment).** Please note that the time is different from abstract registration. You can proceed from [ESJ72 Platform [ONLINE CONF]](https://esj72.gakkai.online/).
+- **<span style="color: red; ">All oral presentations (including English oral presentations) require uploading your presentation file on [the conference platform (ONLINE CONF)](https://esj72.gakkai.online/)! (Deadline: Friday, March 7, 23:59)</span>** For Symposia, Forums, and Workshops, uploading presentation files is not required for presentations. [Click here for details.](for_presentation#Submission_Guidelines_for_Presentation_Files_Symposiums_Forums_and_Workshops)
 - **[Conference Schedule](program#schedule) is now available.**
-- **The website has been updated.** 
-	- **[Public Lecture](public_lecture_ja) details are now available (sorry, only in Japanese).**	
-	- **[Child Care Room](childcare#child-care) details are now available.**
-	- **[Career Support Counseling Room](career_ja#キャリア支援相談窓口の開設について) details are now available (sorry, only in Japanese).**
-	- **[Children's Ecology Course](children_ja) details are now available (sorry, only in Japanese).**
-	- **Additions have been made to [Guidelines for Presentations](for_presentation#guidelines-for-presentations).**
-- **Registration for the conference without giving a talk is open at any time. Please read [Registration for Participation](regist_information#registration-for-participation) carefully and register at [ESJ72 Platform [ONLINE CONF]](https://esj72.gakkai.online/).** 
+- Registration for the conference without giving a talk is open at any time. Please read [Registration for Participation](regist_information#registration-for-participation) carefully and register at [ESJ72 Platform [ONLINE CONF]](https://esj72.gakkai.online/). 
 
 ## Meeting information
 
@@ -29,6 +22,7 @@ The 72<sup>th</sup> Annual Meeting of the Ecological Society of Japan will be he
 The conference will be held in [a hybrid format, primarily on-site](basic_information#format-of-the-meeting).
 
 ## Update history
+- 2025.02.17-28: [Venue](venue) and [Guidelines for Presentations](for_presentation) were updated.
 - 2025.02.03: Details of [Public Lecture](public_lecture_ja) are now available.
 - 2025.01.13: The homepage has been updated. Details of [Child Care Room](childcare#child-care), [Career Support Counseling Room](career_ja#キャリア支援相談窓口の開設について) , [Children's Ecology Course](children_ja), and [Junior Ecology Course (for highschool students)](junior_ecolec_ja) are now available. Additions have been made to [Guidelines for Presentations](for_presentation#guidelines-for-presentations).
 - 2025.01.06: [ESJ72 Platform [ONLINE CONF]](https://esj72.gakkai.online/) is Open.
