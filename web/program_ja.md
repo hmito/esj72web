@@ -9,13 +9,14 @@ multi_language: true
 
 ## 大会日程
 
-- 会場S・A・B・F・Gで開催される各種集会は、一部を除いてオンデマンド配信されます。下記大会日程PDFをご参照ください。
-- 各発表日時の詳細は、[大会講演要旨閲覧ページ](https://esj.ne.jp/meeting/abst/index.html)で公開しています。
+<!---以下の一点目は、html作成時に赤字にしてください--->
+- 各セッションの開始・終了時刻や配置などが変更される場合があります。航空券や宿泊場所の予約等のための参考情報としてお使いください。
+- 各発表日時の詳細は、[大会講演要旨閲覧ページ](https://esj.ne.jp/meeting/abst/index.html)で公開しました。要旨情報はまだ含まれていませんが、発表日時の確認のためにご利用ください。
 
-[大会日程（1/8版）PDF](../media/ESJ72_timetable_20250108_ja.pdf)
+[大会日程（2/27版）PDF](https://esj-meeting.net/wp-content/uploads/2025/02/スケジュール概要_ESJ72_20250227.pdf)
 
-![大会日程（1/8版）1](../media/ESJ72_timetable_20250108_ja-01.png)
-![大会日程（1/8版）2](../media/ESJ72_timetable_20250108_ja-02.png)
+![大会日程（2/27版）1](https://esj-meeting.net/wp-content/uploads/2025/02/スケジュール概要_ESJ72_20250227-1.png)
+![大会日程（2/27版）2](https://esj-meeting.net/wp-content/uploads/2025/02/スケジュール概要_ESJ72_20250227-2.png)
 
 ## プログラム
 

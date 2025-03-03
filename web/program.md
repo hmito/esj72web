@@ -8,13 +8,14 @@ multi_language: true
 # Schedule and Programs
 
 ## Schedule
-- On-demand streaming will be available for sessions to be held at Rooms S, A, B, F, and G with some exceptions. Please refer to the PDF of the conference schedule below.
-- Details of each presentation date and time are now available on the [Conference Abstract Viewing Page](https://esj.ne.jp/meeting/abst/index.html). 
+<!---以下の一点目は、html作成時に赤字にしてください--->
+- The start and end times and layout of sessions are subject to change. Please use this information as a reference when making reservations for airline tickets and accommodations.
+- Details of each presentation date and time are now available on the [Conference Abstract Viewing Page](https://esj.ne.jp/meeting/abst/index.html). Abstract information is not yet included, but please use this page to confirm the date and time of your presentation.
 
-[Schedule (1/8 ver.) PDF file](../media/ESJ72_timetable_20250108_en.pdf)
+[Schedule (2/27 ver.) PDF file](https://esj-meeting.net/wp-content/uploads/2025/02/スケジュール概要_en_ESJ72_20250227.pdf)
 
-![Schedule（1/8 ver.）1](../media/ESJ72_timetable_20250108_en-01.png)
-![Schedule（1/8 ver.）2](../media/ESJ72_timetable_20250108_en-02.png)
+![Schedule（2/27 ver.）1](https://esj-meeting.net/wp-content/uploads/2025/02/スケジュール概要_en_ESJ72_20250227-1.png)
+![Schedule（2/27 ver.）2](https://esj-meeting.net/wp-content/uploads/2025/02/スケジュール概要_en_ESJ72_20250227-2.png)
 
 ## Programs
 
