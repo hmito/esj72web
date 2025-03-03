@@ -21,12 +21,12 @@ multi_language: true
 
 - The program is now available from the Ecological Society of Japan's [Conference Abstract Viewing Page] (https://esj.ne.jp/meeting/abst/index.html). The abstract of each presentation is now under preparation.
 
-[Oral presentation programs（12/13 ver.）PDF](../media/EN_ESJ72_Oral_20241212.pdf)
+[Oral presentation programs（12/13 ver.）PDF](https://esj-meeting.net/wp-content/uploads/2024/12/EN_ESJ72_Oral_20241212.pdf)
 
-![Oral presentation programs（12/13 ver.）1](../media/EN_ESJ72_Oral_20241212-01.png)
-![Oral presentation programs（12/13 ver.）2](../media/EN_ESJ72_Oral_20241212-02.png)
-![Oral presentation programs（12/13 ver.）3](../media/EN_ESJ72_Oral_20241212-03.png)
-![Oral presentation programs（12/13 ver.）4](../media/EN_ESJ72_Oral_20241212-04.png)
-![Oral presentation programs（12/13 ver.）5](../media/EN_ESJ72_Oral_20241212-05.png)
-![Oral presentation programs（12/13 ver.）6](../media/EN_ESJ72_Oral_20241212-06.png)
-![Oral presentation programs（12/13 ver.）7](../media/EN_ESJ72_Oral_20241212-07.png)
+![Oral presentation programs（12/13 ver.）1](https://esj-meeting.net/wp-content/uploads/2024/12/EN_ESJ72_Oral_20241212-01.png)
+![Oral presentation programs（12/13 ver.）2](https://esj-meeting.net/wp-content/uploads/2024/12/EN_ESJ72_Oral_20241212-02.png)
+![Oral presentation programs（12/13 ver.）3](https://esj-meeting.net/wp-content/uploads/2024/12/EN_ESJ72_Oral_20241212-03.png)
+![Oral presentation programs（12/13 ver.）4](https://esj-meeting.net/wp-content/uploads/2024/12/EN_ESJ72_Oral_20241212-04.png)
+![Oral presentation programs（12/13 ver.）5](https://esj-meeting.net/wp-content/uploads/2024/12/EN_ESJ72_Oral_20241212-05.png)
+![Oral presentation programs（12/13 ver.）6](https://esj-meeting.net/wp-content/uploads/2024/12/EN_ESJ72_Oral_20241212-06.png)
+![Oral presentation programs（12/13 ver.）7](https://esj-meeting.net/wp-content/uploads/2024/12/EN_ESJ72_Oral_20241212-07.png)
