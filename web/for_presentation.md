@@ -22,7 +22,7 @@ multi_language: true
 
 ## Submission Guidelines for Presentation Files (Oral Presentations & English Oral Presentations)
 - All oral presenters, including those in English sessions, must upload their presentation files (PowerPoint or PDF) to [the conference platform (ONLINE CONF)](https://esj72.gakkai.online/)).
-- **The submission deadline is Friday, March 7, at 23:59 JST**. Late submissions will not be accepted. If you fail to upload your file by the deadline, you will not be permitted to use slides during your oral presentation. Please strictly adhere to the deadline. <!---一端保留>For details on why flexibility is not possible, see “Why Are Deadlines Strict?”.<--->
+- **The submission deadline is Monday, March 10, at 23:59 JST** ~~Friday, March 7, at 23:59 JST~~. Late submissions will not be accepted. If you fail to upload your file by the deadline, you will not be permitted to use slides during your oral presentation. Please strictly adhere to the deadline. <!---一端保留>For details on why flexibility is not possible, see “Why Are Deadlines Strict?”.<--->
 - The file size must not exceed 20MB.
 - Slides must be formatted in a 4:3 aspect ratio. Wide-screen format (16:9) is not allowed, as the venue’s screens and projectors are optimized for a 4:3 display. Using a 16:9 format may result in reduced text size or incomplete display. 
 - To prevent layout distortions, please use standard fonts. If submitting a PowerPoint file, save it in pptx format.

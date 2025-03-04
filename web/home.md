@@ -8,7 +8,8 @@ multi_language: true
 # Home
 
 ## Important notice
-- **<span style="color: red; ">All oral presentations (including English oral presentations) require uploading your presentation file on [the conference platform (ONLINE CONF)](https://esj72.gakkai.online/)! (Deadline: Friday, March 7, 23:59)</span>** For Symposia, Forums, and Workshops, uploading presentation files is not required for presentations. [Click here for details.](for_presentation#Submission_Guidelines_for_Presentation_Files_Symposiums_Forums_and_Workshops)
+- **<span style="color: red; ">All oral presentations (including English oral presentations) require uploading your presentation file on [the conference platform (ONLINE CONF)](https://esj72.gakkai.online/)! (Deadline: Monday, March 10 23:59 ~~Friday, March 7, 23:59~~)</span>** For Symposia, Forums, and Workshops, uploading presentation files is not required for presentations. [Click here for details.](for_presentation#Submission_Guidelines_for_Presentation_Files_Symposiums_Forums_and_Workshops)
+- **Please read [Guidelines for Presentations](for_presentation) carefully before preparing your presentation.**
 - **[Conference Schedule](program#schedule) is now available.**
 - Registration for the conference without giving a talk is open at any time. Please read [Registration for Participation](regist_information#registration-for-participation) carefully and register at [ESJ72 Platform [ONLINE CONF]](https://esj72.gakkai.online/). 
 
@@ -20,6 +21,14 @@ The 72<sup>th</sup> Annual Meeting of the Ecological Society of Japan will be he
 **Venue: [Sapporo Convention Center](venue) / [ONLINE CONF](https://esj72.gakkai.online/)**
 
 The conference will be held in [a hybrid format, primarily on-site](basic_information#format-of-the-meeting).
+
+- **How to apply for the convention**:  [Registration for Participation](regist_information#Registration_for_Participation).
+- **Access to the venue, registration, etc.**: [Venue](venue).
+- **Schedule and program**: [Schedule](program)
+- **Awards**: [72nd Annual Meeting of Ecological Society of Japan (Sapporo, 2025, March): Award ceremony, Lectures by award recipients](https://esj.ne.jp/meeting/abst/72/prize_winners.html)
+- **How to make presentations at regular presentations and other sessions**: [Guidelines for Presentations](for_presentation)
+
+Translated with DeepL.com (free version)
 
 ## Update history
 - 2025.02.17-28: [Venue](venue) and [Guidelines for Presentations](for_presentation) were updated.
